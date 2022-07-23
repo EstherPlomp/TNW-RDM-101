@@ -1,1 +1,1 @@
-Sitemap: https://thefaylab.github.io/lab-manual/sitemap.xml
+Sitemap: https://estherplomp.github.io/TNW-RDM-101/sitemap.xml
