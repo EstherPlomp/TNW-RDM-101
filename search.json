@@ -7,354 +7,368 @@
     "text": "Welcome to our book of magical secrets.\n This is a copy of the lab manual for the Fay Lab at the University of Massachusetts Dartmouth School for Marine Science and Technology. The focus of our work centers around developing interdisciplinary modeling approaches to extend the scope of applications for fisheries and ecosystem-based management. More about our group’s research activity can be found on our website.\nThis lab manual resource is intended to provide an overview for lab members and others about how we do our work, and our expectations for our team. It is also a space to document institutional knowledge and for important information about procedures and available resources. If you have suggestions for additions or changes, please contact Gavin (gfay@umassd.edu) or make a pull request.\n\nThe content for this book was developed as part of our group’s participation in the Openscapes Champions program.\nWe are extremely grateful to and acknowledge Dr. Julia Stewart Lowndes’ role in helping shape how our lab both works and how we articulate our identity. 🙏\nThanks also to Ileana Fenwick and Stefanie Butland for their work moving the lab-manual from bookdown to Quarto. 🙌\n\n < link to this book’s GitHub repository. Also see Quick steps to making a copy of the lab manual and publishing it!\n\nWe’re proud Openscapes Champions!\n\nThis lab is licensed under a Creative Commons Attribution 4.0 International License."
   },
   {
-    "objectID": "01-introduction.html",
-    "href": "01-introduction.html",
+    "objectID": "01-Introduction.html",
+    "href": "01-Introduction.html",
     "title": "2  Introduction",
     "section": "",
-    "text": "This course provides PhD candidates with the essential knowledge and the core skills to manage research data according to best practice. You will be able to integrate good data management practices within your workflow from the beginning of your projects. The application of this knowledge to your research will allow you to reflect on how to work efficiently and in a reproducible manner with your research data, while complying with funders and institutional requirements.\nThis course contains a lot of self-paced elements. Make sure to plan your time accordingly. You will get most out of this course if you keep an eye on the Discussions with your peers throughout the week. Do you run into any problems in scheduling time? Let us know!"
+    "text": "Estimated time: 15 min\nThis course provides PhD candidates with the essential knowledge and the core skills to manage research data according to best practice. You will be able to integrate good data management practices within your workflow from the beginning of your projects. The application of this knowledge to your research will allow you to reflect on how to work efficiently and in a reproducible manner with your research data, while complying with funders and institutional requirements.\nThis course contains a lot of self-paced elements. Make sure to plan your time accordingly. You will get most out of this course if you keep an eye on the Discussions with your peers throughout the week. Do you run into any problems in scheduling time? Let us know!"
   },
   {
-    "objectID": "01-introduction.html#relevant-dates",
-    "href": "01-introduction.html#relevant-dates",
+    "objectID": "01-Introduction.html#relevant-dates",
+    "href": "01-Introduction.html#relevant-dates",
     "title": "2  Introduction",
     "section": "2.1 Relevant dates:",
     "text": "2.1 Relevant dates:\nCourse start: Monday, DD-MM-YYYY\nCourse end date: Friday, DD-MM-YYYY\nClass sessions:\nCourse load: approximately 4-6 hours per week"
   },
   {
-    "objectID": "01-introduction.html#learning-objectives",
-    "href": "01-introduction.html#learning-objectives",
+    "objectID": "01-Introduction.html#learning-objectives",
+    "href": "01-Introduction.html#learning-objectives",
     "title": "2  Introduction",
     "section": "2.2 Learning Objectives:",
     "text": "2.2 Learning Objectives:\nAfter completing this course, you will be able to: * Realize the important role that good data management plays in research * Identify different types of research data and recognize the regulations, policies and/or legal requirements associated with them. * List the main components of the FAIR data principles and connect them to your own research workflows. * Employ the acquired knowledge to design an efficient research data management strategy for your projects according to best practices."
   },
   {
-    "objectID": "01-introduction.html#assessment-criteria",
-    "href": "01-introduction.html#assessment-criteria",
+    "objectID": "01-Introduction.html#code-of-conduct",
+    "href": "01-Introduction.html#code-of-conduct",
     "title": "2  Introduction",
-    "section": "2.3 Assessment criteria",
-    "text": "2.3 Assessment criteria\nIn order to receive the 1.5 Graduate School Credits you have to: * Complete all activities * Interact with all course activities ( topics & quizzes) * Participate in all discussions (Q&A are optional) * Submit assignments (data flow maps) in weeks 1 and 2 and the assignment of week 3 (reflection on RDM strategy). * Attend and participate in all Class Sessions\nNote: you will not be graded on your assignments. Use the class sessions and Discussions to gather your feedback."
+    "section": "2.3 Code of Conduct",
+    "text": "2.3 Code of Conduct\n\nEveryone is learning, including instructors - please have patience and respect towards each other!\nUse welcoming and inclusive language when interacting with your peers and instructors\nBe respectful of different viewpoints and experiences\nProvide and gracefully accept constructive criticism\n\nLink to DIRECT + vertrouwenspersonen Delft"
   },
   {
-    "objectID": "01-introduction.html#support",
-    "href": "01-introduction.html#support",
+    "objectID": "01-Introduction.html#assessment-criteria",
+    "href": "01-Introduction.html#assessment-criteria",
     "title": "2  Introduction",
-    "section": "2.4 Support",
-    "text": "2.4 Support\nYou will get most out of this course by interacting with your peers and the instructor. You can do this via GitHub issues, where you can also ask questions.\nFor all deadlines: * see the Course Schedule\nFor other questions please contact Esther."
+    "section": "2.4 Assessment criteria",
+    "text": "2.4 Assessment criteria\nIn order to receive the 1.5 Graduate School Credits you have to: * Complete all activities * Interact with all course activities ( topics & quizzes) * Participate in all discussions (Q&A are optional) * Submit assignments (data flow maps) in weeks 1 and 2 and the assignment of week 3 (reflection on RDM strategy). * Attend and participate in all Class Sessions\nNote: you will not be graded on your assignments. Use the class sessions and Discussions to gather your feedback."
   },
   {
-    "objectID": "01-introduction.html#references",
-    "href": "01-introduction.html#references",
+    "objectID": "01-Introduction.html#support",
+    "href": "01-Introduction.html#support",
     "title": "2  Introduction",
-    "section": "2.5 References",
-    "text": "2.5 References"
+    "section": "2.5 Support",
+    "text": "2.5 Support\nYou will get most out of this course by interacting with your peers and the instructor. You can do this via GitHub issues, where you can also ask questions.\nFor all deadlines: * see the Course Schedule\nFor other questions please contact Esther."
   },
   {
-    "objectID": "02-lab-culture-philosophy.html",
-    "href": "02-lab-culture-philosophy.html",
-    "title": "3  Lab culture and philosophy",
+    "objectID": "01-Introduction.html#license-and-attribution",
+    "href": "01-Introduction.html#license-and-attribution",
+    "title": "2  Introduction",
+    "section": "2.6 License and attribution",
+    "text": "2.6 License and attribution"
+  },
+  {
+    "objectID": "01-Introduction.html#references",
+    "href": "01-Introduction.html#references",
+    "title": "2  Introduction",
+    "section": "2.7 References",
+    "text": "2.7 References"
+  },
+  {
+    "objectID": "02-Importance-of-RDM.html",
+    "href": "02-Importance-of-RDM.html",
+    "title": "3  The importance of RDM",
     "section": "",
-    "text": "Ask for help, and share our learning\nMake ourselves available\nCome prepared and engage\nCelebrate accomplishments (ours & those of others)\nSustain a positive, safe learning environment\nHave an interdisciplinary (open) mindset\nAre mindful of our own biases\nPlan with intention, and follow through\nFoster inclusivity within our group and greater community\nPromote and sustain healthy work-life integration\nPractice radical candor\nAcknowledge and give credit to other lab member’s work\n\nThough we do not expect incoming members to memorize everything, we do expect members to be aware of the group’s values.\nAsk for help, and share your learning: We are all learners, and most of our learning is done from each other. It is inefficient to struggle through problems alone. Ask for and give assistance with appropriate cognizance of the value of your time and the time of the person you are asking. You are not the first or last person to encounter a problem. When you identify a problem add an issue to the lab issues repository, and update it with solutions when it is resolved. Also consider writing a tutorial/blog post for inclusion in our lab’s shared resources, and share with the larger community by tweeting, leading and sharing at a lab meeting, or running a workshop (Quantfish woRkshop group, SouthCoast useR group, etc).\nMake yourself available: Be responsive to communication, and make time for things that address longer term goals, even when busy. For example, do not skip on things like attending seminars just because you have a big deadline looming (see note below on planning and organization). Note that being available does not mean that you are available 24/7 - this is not expected. Because as a group we value the role of collaboration and interaction in improving our work, it is expected that you be available in the lab/office during normal business hours for some time during the week (see section on attendance expectations).\nCome prepared and be engaged: Value your time. Be present during lab and individual meetings, and come to your work ready to do your work. Contribute and participate in planning and lab discussions. When it is your turn to run a meeting, come with an agenda and be prepared with questions. Aim to view meetings as events that contribute to your work and productivity, rather than taking away from them.\nCelebrate accomplishments (yours & others): You and your colleagues work hard. Things don’t always go exactly as you plan. Be supportive and proud of yourself and your peers when you accomplish things. We are not competing with each other - someone else’s success does not mean your failure. Share your accomplishments with others!\nSustain a positive, safe learning environment: Everyone learns something for the first time at some time, and people learn in different ways. Expressing that you don’t know something is OK, and we understand that this can make someone feel vulnerable. We strive to maintain a culture that allows for and encourages this vulnerability. Community members should not be disparaged for not knowing things, and in addition, should not be disparaged for knowing things or wanting to learn.\nHave an interdisciplinary (open) mindset: We apply our work at the science-policy interface. This means we work on problems that span multiple disciplines. Co-creation of knowledge requires transdisciplinary approaches that can result in solutions that would not be possible with siloing. You will be collaborating with others who have different types of expertise, values, and terminology. Trust the expertise of others and actively seek feedback recognizing the importance of specialization.\nBe mindful and aware of your own biases: We all have biases that are inherent and can not be removed, but we can still work on both being less biased, and more aware of bias in ourselves and others. Periodically check in on your biases.\nPlan with intention, and follow through: Be organized and adaptable. Things don’t always go as planned and that’s OK. Planning can help you adapt when they don’t (see Come Prepared). Find a program/project management approach that works for you (see “How we work”); being organized can reduce stress immensely and help you progress with your goals.\nFoster inclusivity within our group and greater community: Part of our lab culture is that we are good citizens of our community, we take on leadership roles within SMAST and the University, we are supportive of others in our community during their milestones, we actively participate in SMAST events (e.g. the IMS graduate research symposium) and perform outreach. Work with Gavin when crafting your individual mentoring/development plans (see Chapter on Onboarding) to identify what you want to aim your efforts at.\nPromote and sustain healthy work-life integration: Our scientific research is not the only important thing in our lives, and publishing research is not the only mechanism by which to provide science and support our communities. We recognize the importance of our other commitments in keeping us healthy (mentally and physically) and bring our whole selves to our efforts. Try not to normalize overwork or being busy as achievement or status.\nPractice radical candor: We care personally while also challenging directly. Be honest when communicating, accept critical (but kind) feedback, and give the same to others. View relationships within the group as collaborative rather than evaluative. Don’t take constructive criticism personally.\nAcknowledge and give credit: Working as part of a team, we will often (always?) be building on work done by others, receive assistance with work (see “Ask for help”), and using others’ words, code, content. Include acknowledgement and give credit for those contributions, in all forms of communication. We share content and code within the group with this expectation. One easy approach is to include hyperlinks to the work of others or their social media in your work. This also helps to amplify their voice and work as well as yours."
+    "text": "During this module we will share different perspectives and let you discuss with each other about the importance of RDM in ensuring research reproducibility. At the end of this module you should be able to:"
   },
   {
-    "objectID": "03-code-of-conduct.html",
-    "href": "03-code-of-conduct.html",
-    "title": "4  Code of Conduct",
+    "objectID": "02-Importance-of-RDM.html#references",
+    "href": "02-Importance-of-RDM.html#references",
+    "title": "3  The importance of RDM",
+    "section": "4.1 References",
+    "text": "4.1 References\nMarkowetz, F. Five selfish reasons to work reproducibly. Genome Biol 16, 274 (2015). https://doi.org/10.1186/s13059-015-0850-7"
+  },
+  {
+    "objectID": "03-Essentials-for-Research-Data.html",
+    "href": "03-Essentials-for-Research-Data.html",
+    "title": "4  Essentials for Research Data",
     "section": "",
-    "text": "A Code of Conduct is a set of basic ground rules that we ask participants in lab spaces to follow. The goal is to create an open and inclusive space for our work that helps us achieve our collective goals. Along with our lab culture/philosophy, it also provides a benchmark for self-evaluation and helps better define our identity as a community.\nOur code of conduct has been reviewed by the SMAST Dean’s Office and by UMassD Human Resources and office of Diversity, Equity, and Inclusion.\nWe expect all lab members to adhere to the policies and guidelines outlined here.\nAdditional information and resources can be found in the SMAST Code of Conduct and Diversity Statement."
+    "text": "Estimated time: 120 minutes\nIn this module, we start to dig deeper into RDM by introducing multiple topics concerning the essentials of RDM. At the end of this module you should be able to: * Identify different types of research data * Recognize what is considered confidential data in research * Realise what RDM entails within a research project * Recognize the responsibilities regarding RDM for TUD PhD candidates * Store and back up the research data of your project in a secure manner"
   },
   {
-    "objectID": "03-code-of-conduct.html#short-version",
-    "href": "03-code-of-conduct.html#short-version",
-    "title": "4  Code of Conduct",
-    "section": "4.1 Short version",
-    "text": "4.1 Short version\nThe Fay lab is dedicated to providing a harassment-free experience for everyone, regardless of gender, gender identity and expression, sexual orientation, disability, physical appearance, body size, age, race, or religion. We do not tolerate harassment of participants in any form and prioritize marginalized people’s safety over privileged people’s comfort.\nThis code of conduct applies to all Fay lab spaces, including group and individual meetings (face to face and remote), workshops, social events, email correspondence, and web channels and code repositories, both online and off. Anyone who violates this code of conduct may be sanctioned and referred to the university’s academic policies. Some Fay lab spaces may have additional rules in place, which will be made clearly available to participants. Participants are responsible for knowing and abiding by these rules."
+    "objectID": "03-Essentials-for-Research-Data.html#research-data-definition",
+    "href": "03-Essentials-for-Research-Data.html#research-data-definition",
+    "title": "4  Essentials for Research Data",
+    "section": "5.1 Research Data definition",
+    "text": "5.1 Research Data definition\nResearch data is any information that has been collected, observed, generated or created to validate research findings. Depending on the discipline you work in, research data can be collected or produced in different ways. You can capture them in real-time (e.g. sensors, images), you can collect them using laboratory instruments and they can derive from interviews or numerical simulations, among others. Research Data can be digital such as tabular data, videos, algorithms, scripts, transcripts, and codebooks. They can also be non-digital, for example, laboratory samples, sketchbooks, and prototypes.\nWe talked to some TU Delft researchers working in different disciplines and we asked them: ‘What is the research data you work with?’ Let’s see what they shared with us:\nSian Jones – Faculty Of Civil Engineering and Geosciences (CEG) Wirawan Agahari – TU Delft Faculty of Technology, Policy and Management (TPM)"
   },
   {
-    "objectID": "03-code-of-conduct.html#longer-version",
-    "href": "03-code-of-conduct.html#longer-version",
-    "title": "4  Code of Conduct",
-    "section": "4.2 Longer version",
-    "text": "4.2 Longer version\nThe Fay lab is dedicated to providing a harassment-free experience for everyone. We do not tolerate harassment of group members or others in our larger communities in any form. Bullying is unwanted, aggressive behavior that involves a real or perceived power imbalance. The University of Massachusetts Dartmouth’s Equal Opportunity and Anti-Harassment policies, complaint procedures and form provides definitions and examples of harassment and sexual harassment.\nThis code of conduct applies to all Fay lab spaces, including group and individual meetings (face to face and remote), workshops, social get togethers, email correspondence, and web channels and code repositories, both online and off. Anyone who violates this code of conduct may be sanctioned and referred to the School’s and university’s academic policies.\nSome Fay lab spaces may have additional rules in place, which will be made clearly available to participants. Participants are responsible for knowing and abiding by these rules.\nHarassment includes:\n\nOffensive comments related to gender, gender identity and expression, sexual orientation, disability, mental illness, neuro(a)typicality, physical appearance, body size, age, race, or religion.\n\nUnwelcome comments regarding a person’s lifestyle choices and practices, including those related to food, health, parenting, drugs, and employment.\nDeliberate misgendering or use of ‘dead’ or rejected names.\nGratuitous or off-topic sexual images or behaviour in spaces where they’re not appropriate.\nPhysical contact and simulated physical contact (eg, textual descriptions like “hug” or “backrub”) without consent or after a request to stop.\nThreats of violence.\nIncitement of violence towards any individual, including encouraging a person to commit suicide or to engage in self-harm.\nDeliberate intimidation.\nStalking or following.\nHarassing photography or recording, including logging online activity for harassment purposes.\nSustained disruption of discussion.\nUnwelcome sexual attention.\nPattern of inappropriate social contact, such as requesting/assuming inappropriate levels of intimacy with others\nContinued one-on-one communication after requests to cease.\nDeliberate “outing” of any aspect of a person’s identity without their consent except as necessary to protect vulnerable people from intentional abuse.\nPublication of non-harassing private communication.\n\nThe Fay lab prioritizes marginalized people’s safety over privileged people’s comfort. The PI (Gavin Fay) reserves the right not to act on complaints regarding:\n\n‘Reverse’ -isms, including ‘reverse racism,’ ‘reverse sexism,’ and ‘cisphobia’\nReasonable communication of boundaries, such as “leave me alone,” “go away,” or “I’m not discussing this with you.”\nCommunicating in a ‘tone’ you don’t find congenial\nCriticizing racist, sexist, cissexist, or otherwise oppressive behavior or assumptions\n\n\n4.2.1 Reporting\nIf you are being harassed by a member of the Fay lab, notice that someone else is being harassed, or have any other concerns, please contact the PI, Dr. Gavin Fay, at gfay@umassd.edu. If you do not wish to contact Dr. Fay, please contact Department Chair Dr. Steve Cadrin scadrin@umassd.edu and/or SMAST Assistant Dean Mike Marino mmarino@umassd.edu. If the person who is harassing you is on the team, they will recuse themselves from handling your incident. We will respond as promptly as we can.\nLab members who believe they have been subjected to any kind of discrimination that conflicts with the University of Massachusetts’ policies and/or the laws of the Commonwealth of Massachusetts’ should seek assistance from a supervisor or an HR representative. Information about the University of Massachusetts Dartmouth’s Equal Opportunity and Anti-Harassment policies, complaint procedures and form.\nConfidentiality: Please remember that by way of his position at the university, Dr. Fay is a mandated reporter under Title IX. This means that he is not allowed to keep matters falling under Title IX confidential, and is required to disclose these incidents to the administration. You are welcome to discuss matters with Dr. Fay, but please keep this in mind when doing so. Gavin will do his best to remind you of his responsibilities at the start of conversations anticipated to relate to these topics. If you would prefer to discuss incidents of harassment that fall under Title IX with a confidential source, you can contact David Gomes, UMass Dartmouth Director of Diversity and Inclusion.\nThis code of conduct applies to Fay lab spaces, but if you are being harassed by a member of the Fay lab or another member of the SMAST community outside our spaces, we still want to know about it. We will take all good-faith reports of harassment by Fay lab members seriously. This includes harassment outside our spaces and harassment that took place at any point in time. The abuse team reserves the right to exclude people from the Fay lab based on their past behavior, including behavior outside Fay lab spaces and behavior towards people who are not in the Fay lab. The University Counseling Center provides a range of services to help students develop improved coping skills to address emotional, interpersonal and academic concerns.\nTo protect our team members from abuse and burnout, we reserve the right to reject any report we believe to have been made in bad faith. Reports intended to silence legitimate criticism may be deleted without response.\nThe above caveats noted, we will respect confidentiality requests for the purpose of protecting victims of abuse when possible. At our discretion, we may publicly name a person about whom we’ve received harassment complaints, or privately warn third parties about them, if we believe that doing so will increase the safety of the Fay lab members or the general public. We will not name harassment victims without their affirmative consent.\n\n\n4.2.2 Consequences\nParticipants asked to stop any harassing behavior are expected to comply immediately.\nIf a participant engages in harassing behavior, Dr. Fay may take any action they deem appropriate, which includes referral to the Department Chair and Dean’s Office under the SMAST policy, and also including expulsion from all Fay lab spaces.\n\n\n4.2.3 Additional resources\nOther University of Massachusetts Board of Trustees and University documents:\n\nPolicy Against Intolerance\nPrinciples of Employee Conduct\nResolution in Support of Pluralism\nNon-Discrimination and Harassment Policy\nStatement of Affirmative Action and Equal Opportunity\nStatement on Cultural Diversity and Inclusion\nStatement on Gender Discrimination\nBully, Harassment and Violence\nStudent Conduct Policies and Procedures\nSexual Harassment Policy\nTitle IX and Sexual Assault/Harassment"
+    "objectID": "03-Essentials-for-Research-Data.html#confidential-data",
+    "href": "03-Essentials-for-Research-Data.html#confidential-data",
+    "title": "4  Essentials for Research Data",
+    "section": "5.2 Confidential data",
+    "text": "5.2 Confidential data\nThere are multiple types of confidential data that you might be working with during your research project. Some examples include: * personal data (information about an identified or identifiable natural person) * national security data (such as nuclear research) * data falling under export control regulations * confidential data received from commercial, or other external partners * data related to competitive advantage (for example, patent, IP) * data which could lead to reputation/brand damage (e.g. climate change, personal information, animal research) * politically-sensitive data (such as research commissioned by public authorities, research on societal issues) When working with confidential data, you need additional security measures for your data to make sure that they are not accidentally released.\nIn the next two videos, researchers from TU Delft tell us about the confidential data they work with and what RDM best-practice they follow:\n\nSian Jones talking about collaboration with industry\nWirawan Agahari talking about personal data in his research"
   },
   {
-    "objectID": "03-code-of-conduct.html#license-and-attribution",
-    "href": "03-code-of-conduct.html#license-and-attribution",
-    "title": "4  Code of Conduct",
-    "section": "4.3 License and attribution",
-    "text": "4.3 License and attribution\nThis anti-harassment policy is based on the example policy created by the Geek Feminism community. It has also been written to fall within the SMAST Code of Conduct and Diversity Statement, and has been reviewed by the SMAST Dean’s office and UMass Dartmouth Departments of Human Resources and Office of Diversity Equity and Inclusion."
+    "objectID": "03-Essentials-for-Research-Data.html#personal-data",
+    "href": "03-Essentials-for-Research-Data.html#personal-data",
+    "title": "4  Essentials for Research Data",
+    "section": "5.3 Personal Data",
+    "text": "5.3 Personal Data\nOnly read these materials if you work with personal data (data that can identify a person) * TU Delft Information about privacy * Link to Turing Way"
   },
   {
-    "objectID": "04-onboarding.html",
-    "href": "04-onboarding.html",
-    "title": "5  Onboarding",
+    "objectID": "03-Essentials-for-Research-Data.html#your-data-workflow",
+    "href": "03-Essentials-for-Research-Data.html#your-data-workflow",
+    "title": "4  Essentials for Research Data",
+    "section": "5.4 Your data workflow",
+    "text": "5.4 Your data workflow\nNow think about your own type of data and let us know in the next topic! WordCloud: What type of data will you collect? Share what type of data you will collect in this WordCloud. This provides a first insight to data use, click here for the results of your peers. [Embedded Mentimeter with the following heading:] Name three types of data you will collect in your research Enter three types of data you plan to collect, how does it relate to your peers? [The combined results are also visible to everyone. See the snapshot 02-5_Module-2_Snapshot_Mentimeter ]"
+  },
+  {
+    "objectID": "03-Essentials-for-Research-Data.html#relevant-rdm-steps-within-a-research-project",
+    "href": "03-Essentials-for-Research-Data.html#relevant-rdm-steps-within-a-research-project",
+    "title": "4  Essentials for Research Data",
+    "section": "5.5 Relevant RDM steps within a research project",
+    "text": "5.5 Relevant RDM steps within a research project\nIn the following interactive image you can go through a simplified cycle which can represent your project. Have a look at the RDM questions you might ask at each step of research.\n[Interactive image: The Research Cycle (implemented in SCORM)]\n[Please refer to the PPTX slides under: 02-1_ Module-2_handout_RDM_steps_ Interactive_image and 02-2_Module-2_Implementation_Interactive_Image_RDM101 ] Discussion topic - Reflect on challenges in RDM Let us know what research cycle stage you find most challenging\nYou have heard researchers talk about the data of their projects and you had an introduction to the research cycle. What stage from the research cycle will give most challenges regarding your data management? Post link to GitHub Issue Please read your peers’ responses and reply to any you find interesting!"
+  },
+  {
+    "objectID": "03-Essentials-for-Research-Data.html#research-data-infrastructure-at-tu-delft",
+    "href": "03-Essentials-for-Research-Data.html#research-data-infrastructure-at-tu-delft",
+    "title": "4  Essentials for Research Data",
+    "section": "5.6 Research Data infrastructure at TU Delft",
+    "text": "5.6 Research Data infrastructure at TU Delft\nIn the next video we will go through the infrastructure provided centrally at TU Delft for storing, backup and sharing Research Data. Before starting the data collection/creation within your project, it is good to reflect where you will store and how you will back up the data. Selecting a storage and backup strategy will mean that data is safe during your research project, including in the case of unpredicted problems. Following good data storage practices protect you from data loss and facilitate effective collaborations. In this video, we will go through the infrastructure provided centrally at TU Delft for storing, backup and sharing Research Data. You should ask your supervisor if within your research group/department/ project there is a preferred approach for data storage and backup, or if there are customised solutions already in place.\n[An embedded video is displayed here based on the following file: 02-4_Module-2 _Presentation _Data_StorageSharing]\n\n5.6.1 Resources:\n\nAdditional information about infrastructure at TU Delft: https://tudelft.topdesk.net/\nTo download WebDrive: https://webdata.tudelft.nl/\nAdditional information about EduVPN: https://intranet.tudelft.nl/-/openvpn\n\n\n\n5.6.2 Quiz - Use cases on storage\nAfter the topic on the Research data infrastructure, you should now be able to answer the questions of this quiz. Good luck!"
+  },
+  {
+    "objectID": "03-Essentials-for-Research-Data.html#rdm-responsibilities",
+    "href": "03-Essentials-for-Research-Data.html#rdm-responsibilities",
+    "title": "4  Essentials for Research Data",
+    "section": "5.7 RDM responsibilities",
+    "text": "5.7 RDM responsibilities\nIn this section we would like to make you aware of the responsibilities of TU Delft PhD candidates regarding Research Data Management. These responsibilities are detailed in the University and Faculty Policies. It is very important for TU Delft that researchers follow best practices on Research Data Management (RDM). That is why since 2018 TU Delft has published a set of policies which provide a clear division of roles and responsibilities around RDM. * Research Data framework policy This Framework policy is accompanied by Faculty-specific data management policies, which provide more detailed requirements and guidelines for the disciplines associated with each Faculty. * Faculty Research Data Management Policies or direct download of the TNW/AS policy.\nSoftware is recognised at TU Delft as a valuable research output that needs to be well documented, preserved and, whenever possible, consistent with the FAIR principles. The TUD Research Software Policy provides a clear division of roles and responsibilities and sets out a simplified, streamlined process to help researchers share software. * TUD Research Software Policy"
+  },
+  {
+    "objectID": "04-Assignment-Data-Flow-Map-1.html",
+    "href": "04-Assignment-Data-Flow-Map-1.html",
+    "title": "5  Assignment 1 - Data Flow Map",
     "section": "",
-    "text": "Welcome to the Fay Lab at UMass Dartmouth!\nHere are some resources to help you get settled into the Lab.\nOur group is excited that you have decided to join our team! We hope that these onboarding resources, guidelines, and tips will make your transition to SMAST seamless and enjoyable. Most importantly, welcome!\nIf you are already a student, post-doc, or researcher we hope these resources prove useful as well."
+    "text": "[Assignment 1] Assignment week 1- Data Flow map_part 1 [After completing Modules 1 and 2, the course participants create a Data Flow Map to apply what they learned to their own research project. For a detailed description see the publication: https://doi.org/10.5281/zenodo.6325938 ]"
   },
   {
-    "objectID": "04-onboarding.html#myumassd-smast-occupants-page",
-    "href": "04-onboarding.html#myumassd-smast-occupants-page",
-    "title": "5  Onboarding",
-    "section": "5.1 MyUMassD SMAST Occupants page",
-    "text": "5.1 MyUMassD SMAST Occupants page\nSMAST related resources, forms, policies, procedures, calendars, as well as job aids are housed on the SMAST Occupants page of your myUMassD portal. For everyone in the SMAST community, a link to the SMAST Occupants page will appear under the “MyUMassD Sites” list on the right-hand side of the myUmassD landing page (if this is not visible to you, let Ashleigh know)."
-  },
-  {
-    "objectID": "04-onboarding.html#new-employee-and-student-onboarding-checklists",
-    "href": "04-onboarding.html#new-employee-and-student-onboarding-checklists",
-    "title": "5  Onboarding",
-    "section": "5.2 New employee and student onboarding checklists",
-    "text": "5.2 New employee and student onboarding checklists\nA work in progress.\n\nIT Help for new students and staff/faculty\nHere, you can navigate to the “Are you new?” section and select either student or staff."
-  },
-  {
-    "objectID": "04-onboarding.html#individual-developmentmentoring-plans",
-    "href": "04-onboarding.html#individual-developmentmentoring-plans",
-    "title": "5  Onboarding",
-    "section": "5.3 Individual Development/Mentoring plans",
-    "text": "5.3 Individual Development/Mentoring plans\nWithin the first few weeks of joining the Fay Lab, you should work with Gavin to develop a plan outlining your short, medium, and long term goals. More on individual developing plans can be found in Chapter @ref(expectations)."
-  },
-  {
-    "objectID": "04-onboarding.html#timesheets",
-    "href": "04-onboarding.html#timesheets",
-    "title": "5  Onboarding",
-    "section": "5.4 Timesheets",
-    "text": "5.4 Timesheets\n(graduate students do not need to complete timesheets)\nYou can access you timesheets through the HR portal in. Navigate to Quicklaunch and click on HRDirect. You need to enter your UMassD user ID, password, and select the Dartmouth campus. If this is the first time you do this, you will also need to verify your account through DUO authorization. We recommend using the DUO app on your phone. You can choose to have push access, or send codes. After your initial setup, you can also opt to go through DUO 1/month (instead of every time you login to HRDirect).\nEven if you are salaried, it’s still important to keep track of and submit your vacation and sick time!"
-  },
-  {
-    "objectID": "04-onboarding.html#facilities",
-    "href": "04-onboarding.html#facilities",
-    "title": "5  Onboarding",
-    "section": "5.5 Facilities",
-    "text": "5.5 Facilities\nCurrently all work in the lab is being performed remotely due to the COVID-19 pandemic. All access to SMAST facilities requires prior approval from Gavin, Mike Marino, and Eric Lyonnais. No work is to be performed on site until further notice.\n\n5.5.1 Office space\nOur physical lab space is in the SMAST-East (new) building. The lab is room 245. Ashleigh’s desk is in the lab. Gavin’s office is room 228.\nEveryone in the lab is provided with desk space. Lab members sit either in the lab itself, or in the shared graduate student cubicle space and shared postdoc offices. Gavin encourages people to set up and work where is most comfortable. Graduate students should make use of their allocated space in the shared area but can do computational work in the lab area.\nLab meetings are held either in the lab, or in one of the SMAST-E conference rooms.\n\n\n5.5.2 Key card building & room access\nAccess to the SMAST building, and to individual lab spaces within the building is through your UMass Pass keycard. Typically, you will have access to the SMAST gate, SMAST East building, the lab space (room #245), classrooms, and if you are a grad student/postdoc you will have access to the relevant shared office space.\nThe necessary building access forms can be found on the SMAST Occupants page which need to be filled out and approved and signed by Gavin before submitting to Mike Marino and Eric Lyonnais.\n\n\n5.5.3 Parking and transportation:\nParking at either of the SMAST buildings is free and no parking pass is required. Parking on the main UMassD campus requires a digital parking pass. If you are staff this pass is free, there is a fee for students. Full details for campus parking policies and procedures are on the UMassD parking webpage. Note that there is limited short-term/temporary parking available on campus so you may feel it’s not necessary to obtain a campus parking pass."
-  },
-  {
-    "objectID": "05-expectations.html",
-    "href": "05-expectations.html",
-    "title": "6  Expectations",
+    "objectID": "05-FAIR-principles.html",
+    "href": "05-FAIR-principles.html",
+    "title": "6  FAIR principles",
     "section": "",
-    "text": "In addition to agreeing to follow our communities codes of conduct and the university academic integrity policy, we expect everyone in the group to echo our lab culture (Chapter @ref(culture)).\nIndividual mentoring plans: Gavin will work with each of you to develop your individual mentoring plan that serves to ensure your time in the Fay lab progresses your short, medium, and long-term goals. This is a useful planning document that assists in aligning expectations. Graduate students will revisit the mentoring plan during an individual meeting with Gavin at the beginning of each semester & the start of summer. Other lab members will revisit these at appropriate time scales (e.g. every 6 months).\nA template for these, with thanks to @duffy_ma can be found here.\nIn addition, it is useful to have broad (for all lab members) and specific (i.e., grad students, research staff, etc.) expectations of our roles clarified. These are outlined below."
+    "text": "Estimated time: 90 minutes\nIn this module, we will discover the FAIR data principles and their main elements. At the end of this module, you should be able to: * Understand the FAIR principles and their relation to RDM * Identify key elements that help make research data Findable, Accessible, Interoperable and Reusable (FAIR)\nThere are different activities in this module you should complete: * Read topic 1: Why and how were the FAIR principles created? * Watch the video about the key elements to make data FAIR and complete the ‘fill in the blanks’ quiz * Share your thoughts on FAIR via the Discussion"
   },
   {
-    "objectID": "05-expectations.html#working-hours",
-    "href": "05-expectations.html#working-hours",
-    "title": "6  Expectations",
-    "section": "6.1 Working hours",
-    "text": "6.1 Working hours\nGavin generally does not hold people to working a fixed schedule, or to be in the office for a certain schedule. As adults, we should all set the working schedule that is the right fit for us, and it is likely that what this ‘fit’ is will change over the course of the time you are in the lab. Depending on the nature of your appointment, there may be specific hours that will need to be worked and you should work with your main collaborator to outline these.\nGavin generally does not work evenings or on weekends, and does not expect that people in the lab are available at these times. Lab members should also not expect others to be available during these times.\nGraduate students are generally funded on annual research assistantship (RA) stipends. The RA contracts state that this stipend is for 20 hrs of work per week during the academic year and 40 hrs per week during summer to support full time study in the academic program. Most usually, students on RAships are being paid from a research grant where the focus of the grant is the topic the student is working on for their thesis research, so there is overlap here. We believe that training to do the research is part of the job, so this would include courses and additional time to read/learn methods, software too. Some people find that counting ‘billable hours’ is productive for them as it helps them keep accountable to themselves. Others do not find this method useful. Regularly assess what works best for you.\nFull time is enough, and we do not expect team members to work nights and weekends, though do not enforce a particular working hours schedule because students should feel flexible enough to create a work schedule that works for them. Lab members should not expect others to be available during evenings and weekends. There is value to interacting with others as part of your work, and we do expect you will be available during normal working hours for at least some of the time during the week. We also recognize that there will occasionally be times where there is a need to work more to meet a deadline, but this should be the exception - an expectation of overwork is not to be normalized."
+    "objectID": "05-FAIR-principles.html#data-and-code-licences",
+    "href": "05-FAIR-principles.html#data-and-code-licences",
+    "title": "6  FAIR principles",
+    "section": "8.1 Data and Code Licences",
+    "text": "8.1 Data and Code Licences\n[Embedded video: https://youtu.be/3nl_Z7Jt-Z4 ]\nMore resources on licences: - Information on the Creative Commons (CC) licences (for research outputs like data, presentations, papers): https://creativecommons.org/licenses/ - Overview of commonly used software licences: https://choosealicense.com/licenses/ - If in doubt, talk to the data steward of your faculty!\nQuiz - Fill in the missing words based on the animation on Licenses\n\nWhen making the data or code of your project openly available, you should provide a usage ___________ (Possible Answers: license/ licence)\nThe most popular licenses for data are the_________ __________ (Possible Answers: creative/Creative commons/Commons) licenses.\nAs for data, there are __________ (Possible Answer: permissive/ restrictive) and _________ (Possible Answers: restrictive /permissive) licenses for software\nBefore adding a license to your code or software consult the guidelines of the university or contact the _________ __________ (Answers: data steward) of your Faculty."
   },
   {
-    "objectID": "05-expectations.html#email",
-    "href": "05-expectations.html#email",
-    "title": "6  Expectations",
-    "section": "6.2 Email",
-    "text": "6.2 Email\nIn the lab, we communicate via email. You should therefore check your email at least once a day during the normal work week. We also make use of Google Docs and issues on GitHub to record institutional knowledge and hold conversations regarding research tasks. Note that being available does not mean that you are available 24/7 - this is not expected. Do not expect responses to emails after regular business hours on weekdays, or on weekends. However, because we recognize that lab members should be able to create a working schedule that is right for them, lab members should not be penalized for sending communication during these times."
+    "objectID": "05-FAIR-principles.html#summary",
+    "href": "05-FAIR-principles.html#summary",
+    "title": "6  FAIR principles",
+    "section": "8.2 Summary",
+    "text": "8.2 Summary\nBy now, you have learned about different elements that help you make the data of your project FAIR. Many of them are straightforward to implement in your daily work, for example organizing your files and folders, keeping documentation of the data, reflecting about data access, etc. Other elements might require special tools or at least special tools would make your work easier. We will talk about some tools for documentation and data publication when we meet in class 2."
   },
   {
-    "objectID": "05-expectations.html#attendance-at-regularly-scheduled-events",
-    "href": "05-expectations.html#attendance-at-regularly-scheduled-events",
-    "title": "6  Expectations",
-    "section": "6.3 Attendance at regularly scheduled events",
-    "text": "6.3 Attendance at regularly scheduled events\nAttendance is expected at: * Departmental seminars\n* Weekly lab meetings / quantfish woRkshops\n* Individual meetings with Gavin to discuss and work on your research\n* SMAST thesis and proposal defenses\n* SMAST all hands meetings / start-and-end of semester events\n* Annual UMass Intercampus Marine Science graduate research symposium"
+    "objectID": "05-FAIR-principles.html#discussion",
+    "href": "05-FAIR-principles.html#discussion",
+    "title": "6  FAIR principles",
+    "section": "8.3 Discussion",
+    "text": "8.3 Discussion\nDiscussion topic - Share your thoughts on the FAIR principles This discussion is centered on the key elements of FAIR. Which principle is the most challenging, the easiest, the most relevant for the type of data you work with? What topic around FAIR would you like to discuss in more detail?"
   },
   {
-    "objectID": "05-expectations.html#outreach",
-    "href": "05-expectations.html#outreach",
-    "title": "6  Expectations",
-    "section": "6.4 Outreach",
-    "text": "6.4 Outreach\nWe share our learning and time with others beyond our lab, knowing that this builds community and ultimately improves both the quality and impact of our science. This doesn’t mean individuals do everything, however. We take on leadership roles within SMAST and the university, are supportive of others in our community during their milestones, actively participate in SMAST events (e.g. the IMS graduate research symposium), and perform outreach. Ask others in the lab about activities they are part of, and work with Gavin when crafting your mentoring plan to identify outreach strategy that meshes well with your goals."
-  },
-  {
-    "objectID": "05-expectations.html#expectations-for-the-pi",
-    "href": "05-expectations.html#expectations-for-the-pi",
-    "title": "6  Expectations",
-    "section": "6.5 Expectations for the PI",
-    "text": "6.5 Expectations for the PI\nGavin (as PI) will (at a minimum) provide:\n* Technical support for analysis (e.g., access to computing, training on techniques)\n* Positive feedback & constructive criticism on work\n* Professional career support\n* Support for non-technical aspects of making career progress\n* Regular meetings (every two weeks) to discuss work & maintain progress on goals\n* Provide clear and honest appraisal of your funding situation"
-  },
-  {
-    "objectID": "05-expectations.html#graduate-students",
-    "href": "05-expectations.html#graduate-students",
-    "title": "6  Expectations",
-    "section": "6.6 Graduate students",
-    "text": "6.6 Graduate students\nYou are responsible for your degree. This means you need to stay on top of program and university deadlines, requirements, etc. See Chapter @ref(umassd-resources) & Chapter @ref(smast-resources) for links to resources.\nBefore registering for each semester, you are required to meet with your advisor (Gavin) to review your tracking sheet (SMAST academic milestone document) and discuss plans for the forthcoming semester (classes, activities, etc.).\nCourse of study: Work with Gavin when crafting and revisiting your individual mentoring plans to identify classes that you will take during your academic program. Look beyond those offered at SMAST to include elsewhere at UMassD, the UMass system, and also at other institutions (consider the value of a semester exchange). A list of classes that lab members have taken, and suggested course of study schedule for Fay lab grad students can be found in Chapter @ref(courses).\nWe schedule regular individual meetings with Gavin throughout the year. At a minimum during the semester these will take place every two weeks, although there may be times when more regular meetings are needed. Meetings are a chance for you to get focused time with Gavin to discuss and work on your research. Thus they are your time, not Gavin’s. Come with an agenda with a list of things that you want to accomplish and work on during that time.\nWe share our research at local, national, and international meetings, and publish our findings in the scientific literature. Gavin strives to provide financial support for grad students to attend at least one major conference per year. You should expect to give a presentation (a poster or a talk) on your work at these.\n\n6.6.1 Funding\nGavin does not typically accept students into the lab without being able to guarantee at least 2 years of full funding. Students are encouraged to seek and apply for extramural funding to support their work. This includes scholarships and fellowships to pay for salary, but also smaller grants for travel, workshop attendance, or research costs. There are many opportunities out there, particularly for students. Some resources are outlined in Chapter @ref(funding)."
-  },
-  {
-    "objectID": "05-expectations.html#undergraduate-students",
-    "href": "05-expectations.html#undergraduate-students",
-    "title": "6  Expectations",
-    "section": "6.7 Undergraduate students",
-    "text": "6.7 Undergraduate students\nYou will most likely be working with one of the lab’s research team as your primary research supervisor. The grad student or postdoc you are working with on your project will be your primary source of contact and you should work with them to establish and define your work schedule, protocols for your work, and to ensure you have the necessary equipment to perform your work tasks.\nAlthough the grad student / postdoc is your primary contact, always feel like you can reach out to both Gavin as lab PI and Ashleigh as lab manager. We are excited to help you use your position in the lab to further your career goals and want to work with you to help you achieve them.\nIf you are an hourly worker (either federal work study or grant supported) then it is critical that you complete your timesheets through HR Direct with your hours worked, so that you can get paid. Please submit your electronic timesheet each week by noon on Friday, to allow time for Gavin to approve. Alert your research supervisor AND Gavin as soon as possible if there are any complications with regard to pay. We want you to be compensated for your work in a timely fashion."
-  },
-  {
-    "objectID": "05-expectations.html#postdoctoral-researchers",
-    "href": "05-expectations.html#postdoctoral-researchers",
-    "title": "6  Expectations",
-    "section": "6.8 Postdoctoral researchers",
-    "text": "6.8 Postdoctoral researchers\nPostdocs are independent researchers and likely will have significant collaboration with researchers at other institutions as part of their research and position. Postdocs in the lab may also be sharing time between SMAST and another opportunity.\nIn general, postdocs are expected to:\n* Be present and involved in lab meetings, workshops, campus seminars, and conferences.\n* Provide mentorship, technical support, and assistance to other lab members\n* Communicate both successes and sticking points on a regular basis with the PI\n* Work independently and collaboratively\n* Participate in professional development opportunities\n* Lead and assist in designated research projects\n* Develop and submit proposals to fund future research\nOn day 1 of his postdoc at NOAA NEFSC, Gavin’s postdoc advisor said “Your first job is to look for your next job”. While a postdoctoral position is a scienctific research position, it is also a training opportunity and a step to something else, and a full-time permanent position beats a postdoc. Do not feel bad or awkward about pursuing (and taking) employment opportuntities, and also training opportunities that help you move toward that next step. We want you to succeed!\n[As benefited employees at UMass Dartmouth, postdocs are able to enroll in a limited amount of graduate coursework as part of their benefits package. Talk with Gavin about this.]\nPostdocs will likely have active roles on advisory working groups or other professional service roles. If opportunities are not immediately apparent through your funded research, then Gavin can help strategize about where is a useful space to target your involvement."
-  },
-  {
-    "objectID": "05-expectations.html#research-staff",
-    "href": "05-expectations.html#research-staff",
-    "title": "6  Expectations",
-    "section": "6.9 Research staff",
-    "text": "6.9 Research staff\nMuch like post-docs, research staff operate as independent and collaborative researchers on assigned projects. As these positions are often working directly alongside your mentor/direct collaborator on particular lab projects, meetings may be more frequent than those with others in the lab. Weekly meetings should have clear agendas, and can often be used as collaborative working time to make progress on specific tasks.\nIn general, staff are expected to:\n\nBe present and involved in lab meetings, workshops, campus seminars, and conferences\n\nProvide technical support and assistance to other lab members\nCommunicate both successes and sticking points on a regular basis with PI\nWork independently and collaboratively\nLead and assist in designated research projects\nParticipate in professional development opportunities (i.e., workshops, conferences, submitting previous position manuscripts [without detracting from new position])\nSeek and pursue new funding opportunities when appropriate (this will likely be dependent on your timeline)\nProduce expected output from assigned grants\nBe flexible! Additional projects may be assigned to give additional funding for your position\n\nServe as a role model and go-to resource for other members of the lab\n\nResearch staff positions may be somewhat flexible in scope. For example, the position may include some lab management, leadership, and communication responsibilities. Exact set of responsibilities and duties will be clearly defined in your position description and expectations agreed on in your work plan."
-  },
-  {
-    "objectID": "06-offboarding.html",
-    "href": "06-offboarding.html",
-    "title": "7  Offboarding",
+    "objectID": "06-Realising-FAIR-Organisation.html",
+    "href": "06-Realising-FAIR-Organisation.html",
+    "title": "7  Realising FAIR: Data organisation",
     "section": "",
-    "text": "Everybody will at some point leave the group. Degrees get completed, jobs are obtained, super exciting! Having a clear offboarding process ensures there are no loose ends when a member leaves the lab, that others who might carry on work being done can do so most easily, and provides an opportunity to clarify any remaining steps (e.g. publication, future collaboartions).\n(with thanks to the Pinsky lab & Bahlai lab!"
+    "text": "In this module, we will focus on the realisation of FAIR data. We will explore some best practices and tools that can facilitate the implementation of the FAIR principles. At the end of this module you should be able to: * Understand the importance of good data organisation and be aware of best practices around data organisation * Recognize the relevance of documentation and be familiar with diverse tools to document data * Identify relevant tools to advance towards FAIR data * Discuss data publication, best practices and restrictions"
   },
   {
-    "objectID": "06-offboarding.html#exit-interview",
-    "href": "06-offboarding.html#exit-interview",
-    "title": "7  Offboarding",
-    "section": "7.1 Exit Interview",
-    "text": "7.1 Exit Interview\nSet up a dedicated time to meet with Gavin and/or your main collaborator (for undergraduate researchers) to talk about your time in the lab, and to go through the below checklist to make sure these have been done. Besides the checklist, things to talk about include the best part of being in our team, whether you got the support you needed and what could we improve for mentoring and training someone in your role in the future. Checklist for students, staff, and post docs"
+    "objectID": "06-Realising-FAIR-Organisation.html#activities",
+    "href": "06-Realising-FAIR-Organisation.html#activities",
+    "title": "7  Realising FAIR: Data organisation",
+    "section": "7.1 Activities",
+    "text": "7.1 Activities\n\nWatch the videos about ‘Data organisation’ and complete the corresponding quizzes.\nTry out Cookiecutter"
   },
   {
-    "objectID": "06-offboarding.html#project-documentation",
-    "href": "06-offboarding.html#project-documentation",
-    "title": "7  Offboarding",
-    "section": "7.2 Project Documentation",
-    "text": "7.2 Project Documentation\nProject work should be hosted either in a github repository linked to from the faylab account, or saved on the lab_fay server drive (prefereably both).\nEach project should have an easily found README text file that provides information for others so they can navigate and use your work, and give contact information for authors (and any data creators/use restrictions if propietary data). Ideally, the README should also include links to publications and presentations from the work."
+    "objectID": "06-Realising-FAIR-Organisation.html#data-organisation",
+    "href": "06-Realising-FAIR-Organisation.html#data-organisation",
+    "title": "7  Realising FAIR: Data organisation",
+    "section": "7.2 Data Organisation",
+    "text": "7.2 Data Organisation\nIn the next video we will go through some best practices to help you organise the data of your project efficiently. These best practices are using a good folder structure and an appropriate file naming convention to enhance the findability of the data in your directories.\nIn the previous module you learned that ‘Documentation’ is one of the main elements of the FAIR principles. Good data documentation starts with good organisation and file naming of the data of your project! Good data organisation on your computer or your Project Data (U:) drive will allow you to make the data Findable both for yourself and for your collaborators who have access to the data. Making the data findable also indirectly improves the re-usability of the data. You need to be able to find the data before you can re-use it! Implementing a good folder structure, data organisation and a meaningful file naming convention is a simple first step towards making data FAIR.\nIn the next video, we will go through some best practices to help you organise the data of your project efficiently. These best practices are using a good folder structure, tagging files (if possible) and an appropriate file naming convention to enhance the findability of the data in your directories.\n04-1_Module-4_Video_Presentation_Data organisation"
   },
   {
-    "objectID": "06-offboarding.html#publications-and-presentations",
-    "href": "06-offboarding.html#publications-and-presentations",
-    "title": "7  Offboarding",
-    "section": "7.3 Publications and Presentations",
-    "text": "7.3 Publications and Presentations\nEnsure that publications and presentations from your projects are archived in the appropriate folder on the lab Google Drive."
+    "objectID": "06-Realising-FAIR-Organisation.html#resources",
+    "href": "06-Realising-FAIR-Organisation.html#resources",
+    "title": "7  Realising FAIR: Data organisation",
+    "section": "7.3 Resources",
+    "text": "7.3 Resources\n\nFolder structure explanation of Neuroscientist Nikola Vukovic from UC San Francisco. URL: http://nikola.me/folder_structure.html\nCESSDA Training Team (2017 - 2020). CESSDA Data Management Expert Guide. Bergen, Norway: CESSDA ERIC - Chapter: File naming and folder structure. URL: https://www.cessda.eu/DMGuide\nMarwick B, Boettiger C, Mullen L. 2018. Packaging data analytical work reproducibly using R (and friends) PeerJ Preprints 6:e3192v2 https://doi.org/10.7287/peerj.preprints.3192v2\nThe Turing Way Community (2019, March 25). The Turing Way: A Handbook for Reproducible Data Science (Version v0.0.4). Zenodo. http://doi.org/10.5281/zenodo.3233986\nTagging and Finding Your Files: Home. MIT Libraries. URL: https://libguides.mit.edu/metadataTools\n\n\n7.3.1 Quiz Data Organisation\nTest your knowledge after watching the ‘Data organisation’ video. Indicate if the following sentences are True or False. 1. Good data organisation makes the data Findable for yourself and your collaborators. (Answer: True) 2. Thinking about data organisation at the beginning of your project can save you a lot of time later on. (Answer: True) 3. A Research Compendium does not follow a Hierarchical structure. (Answer: False) 4. In a Research Compendium data, methods, and outputs should be clearly separated. (Answer: True) 5. Consistency is not relevant in data organisation. (Answer: False)"
   },
   {
-    "objectID": "06-offboarding.html#data",
-    "href": "06-offboarding.html#data",
-    "title": "7  Offboarding",
-    "section": "7.4 Data",
-    "text": "7.4 Data\nData used in support of your projects should be:\n\nSaved in appropriate, non-proprietary format with accompanying metadata\nEither in a public archive (e.g., the github repo or another public archive), or if data is proprietary, a ‘snapshot’ version of the data used in the project should be saved in a private repository accessible to lab members. Alternatively, data could be saved on the lab_fay server drive with appropriate documentation.\nLinked and briefly described in the project README."
+    "objectID": "06-Realising-FAIR-Organisation.html#assignment-using-cookiecutter",
+    "href": "06-Realising-FAIR-Organisation.html#assignment-using-cookiecutter",
+    "title": "7  Realising FAIR: Data organisation",
+    "section": "7.4 Assignment: Using Cookiecutter",
+    "text": "7.4 Assignment: Using Cookiecutter\nEstimated time: 20 minutes Note that you need to have Python and pip (or conda) installed to easily follow the video.\n\nWatch the video on setting up a research compendium using Cookiecutter: https://vimeo.com/462773031 (3:36 min). Watching the video requires logging in to vimeo (find another link)\nFor instructions on how to clone the cookiecutter template see here. For instructions to see hidden folders on Windows, see here.\n\n\nIf you couldn’t get the template when following any of the methods described in the video, see here.\n\n\nWork on your own to populate the template with information/files from your project.\nShare your folder structure on [GitHub] and comment on another person’s folder structure\nDiscuss with your peers how similar your own folder structure is to the one you created using Cookiecutter. What additional elements are there in the Cookiecutter project? Is there anything that the Cookiecutter template is missing?\n\nIf you didn’t find this template useful, you can browse these templates to see if one of these fits your needs better: a. Data Science b. Python template c. Reproducible Science d. More templates"
   },
   {
-    "objectID": "06-offboarding.html#code",
-    "href": "06-offboarding.html#code",
-    "title": "7  Offboarding",
-    "section": "7.5 Code",
-    "text": "7.5 Code\nCode used or developed for the project should be:\n\ncomplete and well-documented, including information in a README about what each file does and workflow to run the code\nSaved on the lab_fay section of the storage server, and also preferably available on github in a public repository."
+    "objectID": "06-Realising-FAIR-Organisation.html#discussion",
+    "href": "06-Realising-FAIR-Organisation.html#discussion",
+    "title": "7  Realising FAIR: Data organisation",
+    "section": "7.5 Discussion",
+    "text": "7.5 Discussion\nlink to issue FAIR realisation"
   },
   {
-    "objectID": "06-offboarding.html#timelines-for-publications",
-    "href": "06-offboarding.html#timelines-for-publications",
-    "title": "7  Offboarding",
-    "section": "7.6 Timelines for publications",
-    "text": "7.6 Timelines for publications\nScience is not finished until it has been communicated. Hopefully, you will publish your results in the peer-reviewed literature so that others can learn and build from your work. During your exit interview, make a plan with Gavin for remaining publications, including a timeline for submission."
+    "objectID": "06-Realising-FAIR-Organisation.html#assignment",
+    "href": "06-Realising-FAIR-Organisation.html#assignment",
+    "title": "7  Realising FAIR: Data organisation",
+    "section": "7.6 Assignment",
+    "text": "7.6 Assignment\nData Flow map_part 2"
   },
   {
-    "objectID": "06-offboarding.html#turning-in-equipment",
-    "href": "06-offboarding.html#turning-in-equipment",
-    "title": "7  Offboarding",
-    "section": "7.7 Turning in equipment",
-    "text": "7.7 Turning in equipment\nEnsure any lab equipment (e.g. computer and peripherals) you have been using has been returned to the lab, office furniture is present and accounted for, and that tagged equipment has been logged in with Ashleigh. Make sure any problems with equipment are documented and that Gavin and Ashleigh have been made aware of them."
+    "objectID": "06-Realising-FAIR-Organisation.html#references",
+    "href": "06-Realising-FAIR-Organisation.html#references",
+    "title": "7  Realising FAIR: Data organisation",
+    "section": "7.7 References",
+    "text": "7.7 References\n● Colavizza, G., Hrynaszkiewicz, I., Staden, I., Whitaker, K., & McGillivray, B. The citation advantage of linking publications to research data. PLOS ONE 15(4), e0230416 (2020). https://doi.org/10.1371/journal.pone.0230416 ● European Commission. Directorate-General for Research & Innovation. H2020 Programme Guidelines on FAIR Data Management in Horizon 2020. Version 3.0. 26 July 2016. URL:https://core.ac.uk/download/pdf/301306355.pdf Resources:"
   },
   {
-    "objectID": "06-offboarding.html#lab-library",
-    "href": "06-offboarding.html#lab-library",
-    "title": "7  Offboarding",
-    "section": "7.8 Lab library",
-    "text": "7.8 Lab library\nReturn all books checked out from the lab library."
-  },
-  {
-    "objectID": "06-offboarding.html#removing-key-card-access",
-    "href": "06-offboarding.html#removing-key-card-access",
-    "title": "7  Offboarding",
-    "section": "7.9 Removing key card access",
-    "text": "7.9 Removing key card access\nKey card access to the SMAST facilities will be terminated at the end of your contract. During your exit interview, discuss with Gavin whether modifications need to be made to this timeline."
-  },
-  {
-    "objectID": "07-funding.html",
-    "href": "07-funding.html",
-    "title": "8  Funding",
+    "objectID": "07-Realising-FAIR-Documentation.html",
+    "href": "07-Realising-FAIR-Documentation.html",
+    "title": "8  Realising FAIR: Data Documentation",
     "section": "",
-    "text": "Funded position openings in the lab will be posted through the lab website, twitter account, and via other distribution feeds (e.g. EcoLog).\nGavin encourages all students to apply for external funding through graduate scholarships. Some relevant ones include the NMFS-Sea Grant Graduate Fellowships in Population and Ecosystem Dynamics, NSF Graduate Research Fellowship Program, Ford Foundation, NOAA Nancy Foster scholarships, and Margaret A. Davidsonn Graduate Fellowships, though there are many other opportunities (more provided in the link below).\nHere is Gavin’s living document of recurring funding opporunities Google Doc. Gavin not only encourages students to obtain additional funding, but also staff and post-docs. And for all to apply for travel grants when attending conferences, where applicable.\nThis resource is updated fairly regularly, and largely contains resources to fund yourself/research. It includes the opportunity name, institituion, link, grad/undergrad/postdoc/all/early career/etc designation, the deadline, and important notes.\nGavin will also share funding opportunites as they come up, either to the group or in individual meetings."
+    "text": "In this module, we will focus on the realisation of FAIR data. We will explore some best practices and tools that can facilitate the implementation of the FAIR principles. At the end of this module you should be able to: * Recognize the relevance of documentation and be familiar with diverse tools to document data * Identify relevant tools to advance towards FAIR data"
   },
   {
-    "objectID": "08-communication.html",
-    "href": "08-communication.html",
-    "title": "9  Communication",
-    "section": "",
-    "text": "Acknowledge communication and engage with others about your work. This includes communication with the lab team, your peers, collaborators, and also communicating your work to others. If someone works on something for you or provides you with feedback on your work, thank them and engage with them on their feedback. Our science improves by engaging with conversations about your work. View such interactions as opportunities to be collaborative rather than evaluative. Chances are if someone asks you questions about your work it is because they are interested in your science.\nAcknowledging communication and thanking others for their work is part of the profession, and it also helps collaboration by continuing conversation.\nWhile our philosophy applies, in that you shouldn’t feel like you have to be on email all the time, don’t let you email inbox become a black hole where questions / thoughts get sucked into and no response emerges.\nWe also believe in being intentional in communicating our work. While publishing and conference presentations are thought of as the standard forms in which science is disseminated, there are a number of ways in which you can communicate your work with others, depending on your audiences and chosen levels of engagement. You should always invest in these at the level that is of interest to you. Here are some things we recommend as members of our team."
+    "objectID": "07-Realising-FAIR-Documentation.html#activities",
+    "href": "07-Realising-FAIR-Documentation.html#activities",
+    "title": "8  Realising FAIR: Data Documentation",
+    "section": "8.1 Activities",
+    "text": "8.1 Activities\n\nWatch the videos about ‘Data Documentation tools’ and complete the corresponding quizzes.\nWrite a readme file and share it on GitHub. Comment on another person’s readme and provide them with some tips to improve."
   },
   {
-    "objectID": "08-communication.html#inclusive-science-communication",
-    "href": "08-communication.html#inclusive-science-communication",
-    "title": "9  Communication",
-    "section": "9.1 Inclusive science communication",
-    "text": "9.1 Inclusive science communication\nThis Google Doc resource created and curated by Dr. Sunshine Menezes, the ED of the Metcalf Institute at URI, covers a wide range of topics related to inclusive science communication, education, and public engagement with STEM topics. We suggest you take a look!"
+    "objectID": "07-Realising-FAIR-Documentation.html#documentation-tools",
+    "href": "07-Realising-FAIR-Documentation.html#documentation-tools",
+    "title": "8  Realising FAIR: Data Documentation",
+    "section": "8.2 Documentation tools",
+    "text": "8.2 Documentation tools\nNow that you know more about how to organise your data and name your files, we can talk about documentation. Documentation is vital to making your work understandable, which is, in turn, necessary for your work to be reusable. Documentation is important not only for data, but for your projects in general, including the code you write. Your documentation should provide context for your project and its data and should, for example, provide information about the data collection, structure, and ownership.\nIn the next video we will talk about different methods and tools you can use to document projects, datasets, and code. We will also briefly talk about metadata. 04-2_Module-4_Video_Presentation_DataDocumentation]\n## Assignment: Create a ReadMe file Estimated time: 15 minutes\n\nDownload the Cornell template for a ReadMe file.\nAdapt and start filling in the template to describe a dataset of your project (you are allowed to delete and add new fields)\nIf you are unsure about the meaning of a component of the ReadMe file, go to: Guide to writing “ReadMe” style metadata - Cornell University\nWhen you’re finished, share your template on GitHub.\nPick a ReadMe file of someone else and read it. Provide feedback on the clarity of the ReadMe."
   },
   {
-    "objectID": "08-communication.html#curriculum-vitae",
-    "href": "08-communication.html#curriculum-vitae",
-    "title": "9  Communication",
-    "section": "9.2 Curriculum Vitae",
-    "text": "9.2 Curriculum Vitae\nKeep your CV up to date. We share our CVs within the group in this Google Drive folder, both to give each other ideas about what to include, but also having these in one place makes it easier for Gavin and others to reference information from them when needed.\nHere is a link to a lab-chat issue on CV building based on a 05/05/2020 lab meeting.\n\n9.2.1 Google Scholar profiles\nHaving a Google Scholar profile is a very easy way to curate your web presence and have a place where people can find you and your published papers and reports.\nWe recommend everyone sets up a Google Scholar profile as soon as they have a paper or technical report. It takes about 5-10 minutes to set up, and one advantage is that Google Scholar self-updates and will add your papers and citations as you publish and people use your work. This is a really easy step to creating a web presence without having to set up a website."
+    "objectID": "07-Realising-FAIR-Documentation.html#assignment-data-dictionaries-for-tabular-data---optional",
+    "href": "07-Realising-FAIR-Documentation.html#assignment-data-dictionaries-for-tabular-data---optional",
+    "title": "8  Realising FAIR: Data Documentation",
+    "section": "8.3 Assignment: Data Dictionaries (for tabular data - optional)",
+    "text": "8.3 Assignment: Data Dictionaries (for tabular data - optional)\nEstimated time: 15 minutes 1. Watch a video on data dictionaries 2. Go to a tabular dataset you are working on or have worked on. 3. In an excel spreadsheet, start creating your data dictionary. Ave the data dictionary in the same folder as the dataset you’re describing. List all the variables that you find in the dataset on column A. Then, add a clear and understandable description of that variable on column B.\nNote that you can also create a package for your data with Frictionless Data"
   },
   {
-    "objectID": "08-communication.html#personal-websites",
-    "href": "08-communication.html#personal-websites",
-    "title": "9  Communication",
-    "section": "9.3 Personal Websites",
-    "text": "9.3 Personal Websites\nWhy have your own website?\n\nPeople will Google you. They might as well see what you want them to.\nGive people an easy way to find you and your work.\n\nOne way to do this is a personal website. This doesn’t have to be extensive, but can be a good way to curate your web presence.\nThere are heaps of tools out there to create and publish websites. Our recommendation is to choose something that it is easy to update, and fun / interesting for you to use. Many options are free.\nSome options for creating sites include: GoogleSites, Weebly, Squarespace, WordPress, R Markdown, GitHub.\nWhat should you include?\nUltimately this is up to you and how you would like to present yourself and your work. But some common things you could include are: not an exhaustive list\n\nBioSketch\nResearch interests/overview\nProjects\nPublications\nCV\nBlog posts\nContact info\n\nAn example website (though many amazing others exist and you should check those out): Ashleigh’s webpage using the free version of Weebly"
+    "objectID": "07-Realising-FAIR-Documentation.html#assignment-electronic-lab-notebooks-optional",
+    "href": "07-Realising-FAIR-Documentation.html#assignment-electronic-lab-notebooks-optional",
+    "title": "8  Realising FAIR: Data Documentation",
+    "section": "8.4 Assignment: Electronic Lab Notebooks (optional)",
+    "text": "8.4 Assignment: Electronic Lab Notebooks (optional)\nEstimated time: 20 minutes TU Delft offers two different Electronic Lab Notebooks, eLABjournal and Rspace. Watch the short videos introducing them: * eLABjournal intro (4:11 minutes): * RSpace intro (1:43 minutes):\nTry out one of the Electronic Lab Notebooks: * RSpace\nAnswer the following questions to see if the Electronic Lab Notebooks are helpful to your work: - Was there any specific feature in one or both of the ELNs that would be particularly useful? - What are the pros and cons that you can already think of when using an ELN for documenting your lab work?"
   },
   {
-    "objectID": "08-communication.html#twitter",
-    "href": "08-communication.html#twitter",
-    "title": "9  Communication",
-    "section": "9.4 Twitter",
-    "text": "9.4 Twitter\nTwitter is a great tool for interacting with others about your science. It is also a great platform for learning about new research and papers, finding out about jobs and fellowships, learning and discussing methods, discussing topics about how we do science, professional development, mental health and expectations around science and graduate school, and is a great venue for bringing ones whole self to the science. etc. Most of us have our own personal Twitter accounts and use them to varying degress. Everyone in the lab can post to the lab Twitter account too. Ask Ashleigh if you are interested in doing a takeover of thefaylab account for a week (which could also be a chance to dip your toe in to Twitter if you don’t use it).\n[link to paper on use of twitter for rstats!]"
+    "objectID": "07-Realising-FAIR-Documentation.html#resources",
+    "href": "07-Realising-FAIR-Documentation.html#resources",
+    "title": "8  Realising FAIR: Data Documentation",
+    "section": "8.5 Resources",
+    "text": "8.5 Resources\n\nCornell University Research Data Management Service Group. Guide to writing “readme” style metadata. URL: https://data.research.cornell.edu/content/readme\nAlderliesten, René; Yao, L. (Liaojun) (2017): Mode I fatigue delamination growth in composite laminates with fibre bridging. 4TU.ResearchData. Dataset. https://doi.org/10.4121/uuid:6da548f6-f801-41b4-8d88-db9ae81f6913\nJupyterLab. Demo: The Lorenz Differential Equations. URL: https://mybinder.org/v2/gh/jupyterlab/jupyterlab-demo/master?urlpath=lab/tree/demo\nFrictionless Data. Data Package Creator. URL: https://create.frictionlessdata.io/\nSoftware Heritage. CodeMeta generator. URL: https://codemeta.github.io/codemeta-generator/\nElectronic Lab Notebooks at TU Delft\nFAIRsharing.org: standards, databases, policies.\n\n\n8.5.1 Quiz Data Documentation tools\nTest your knowledge after watching the ‘Data Documentation tools’ video. Indicate if the following sentences are True or False. 1. Metadata - data about data - is an important type of documentation (Answer: True) 2. README files can be used only to document whole projects (Answer: False) 3. Codebooks are used for the documentation of code (Answer: - False) 4. GitHub/GitLab and Jupyter notebooks are good tools for documenting code (Answer: True) 5. Metadata can be added to data as part of the file name, using a README file and using tags (Answer: True)"
   },
   {
-    "objectID": "08-communication.html#social-media",
-    "href": "08-communication.html#social-media",
-    "title": "9  Communication",
-    "section": "9.5 Social Media",
-    "text": "9.5 Social Media\n[Link to papers on social media in fisheries ]\nAs you know, there are many social media platforms, and many (all?) of these are being used in some way for science communication. This includes but not limited to:\n\nTwitter\nInstagram\nFacebook\nLinkedIn\nTikTok\nYoutube\nResearchgate\n\nAll have a different purpose and type of engagement. Think deliberately about how (and if) you want to use these tools. Using social media as part of your science communication portfolio can be useful and is popular, but it is not a requirement to be a successful scientist."
-  },
-  {
-    "objectID": "08-communication.html#contributing-to-regional-publications",
-    "href": "08-communication.html#contributing-to-regional-publications",
-    "title": "9  Communication",
-    "section": "9.6 Contributing to regional publications",
-    "text": "9.6 Contributing to regional publications\n[more to come on engaging with our local press, etc.]"
-  },
-  {
-    "objectID": "09-academics.html",
-    "href": "09-academics.html",
-    "title": "10  Academics",
-    "section": "",
-    "text": "This chapter (for now) contains information pertaining to lab graduate students enrolled in the Intercampus Marine Science (IMS) program.\nYou are responsible for your degree. This means you need to stay on top of program and university deadlines, requirements, etc. See Chapter @ref(umassd-resources) & Chapter @ref(umassd-resources) for links to resources.\nThe IMS policy should be the first port of call for information about program requirements, and what needs to be done when.\nRegistration: Academic credit registration management at UMassD is done through COIN. Registration for each semester takes place about mid-way through the previous semester (see the university academic calendar for dates). It is critical to register promptly to facilitate faculty and institutional planning (and avoid late registration fees). Before registering for each semester, you will meet with Gavin to review your tracking sheet (SMAST academic milestone document) and discuss registration plans for the forthcoming semester (courses and/or research credits, continuation).\nSee Chapter @ref(courses) for details of courses available to IMS graduate students.\nCourse of study should be selected with the program requirements in mind - as always, refer to the Intercampus Marine Science Program Manual for details.\nMost students take many of their core program requirements in the first year. An exception may be PhD students who save one of the Oceanography requirements for the 2nd year, depending on other courses being offered.\nThesis credits: These are required for both MS (thesis-based) and PhD degrees. For the PhD, research credits take the form of pre-dissertation credits if completed before advancing to candidacy. Pre-dissertation research credits taken during the semester in which a student completes their comprehensive exams (i.e. passes their proposal defense) can be converted after the fact to dissertation credits. Once thesis and dissertation credit requirements have been met, MS and PhD students will often maintain registration through ‘continuation of program’ credit, where no credits are earned but enrollment status is maintained.\nUMassD student thesis templates and guidance\nChang Liu’s LaTeX thesis templates"
-  },
-  {
-    "objectID": "09-academics.html#ms-students",
-    "href": "09-academics.html#ms-students",
-    "title": "10  Academics",
-    "section": "10.1 MS students",
-    "text": "10.1 MS students\nThesis Proposal: MS students in the Fay lab prepare a thesis proposal during their first year to identify and refine their thesis research topic ideas and outline methods that will be used to address the research questions. The proposal also serves as a guiding document for your initial committee meeting(s). Scope and plans for the MS thesis research will be developed through your meetings with Gavin and with the project team (for students whose work is being funded by a research grant). Your thesis proposal should contain a literature review, identification of research questions, an overview of the methods that will be used, and description of expected results and relevance/significance of the research. Aim for the proposal to be about 8 pages of text. While not a formal requirement for the IMS program, a MS thesis proposal serves to clarify and outline expectations for the degree for both the student and the thesis committee, and serves as a blueprint for building out the thesis itself (indeed you may likely re-use some of the text later). Thesis proposals written by other lab members are good examples of how these documents can be structured.\nThesis Committee: Forming your thesis committee: Your MS thesis committee serves as your guidance team during your research, and should be viewed as colleagues and collaborators. While building your proposal, discuss with Gavin who should be on the committee. Three committee members is the usual size, though sometimes students will have a fourth member. Generally in our program a committee will be made up of your advisor (Gavin), an additional UMassD faculty member, and an external member (often an agency collaborator on the project, e.g. at NOAA NMFS). See the official university guidelines for more specifics [link here].\nMS Thesis: [guidance on thesis structure to come]\nRemember, not everything will go to plan and your interests and findings may change. Content of theis proposals is not set in stone and can always be revised with communication and collaboration with the committee. View proposals as items that help you build your scientific products rather than evaluative procedures that need to be checked off."
-  },
-  {
-    "objectID": "09-academics.html#ph.d.-students",
-    "href": "09-academics.html#ph.d.-students",
-    "title": "10  Academics",
-    "section": "10.2 Ph.D. students",
-    "text": "10.2 Ph.D. students\nPhD dissertations in the Fay lab tend to comprise chapters that will form ~4 publications. Gavin encourages students to think about dissertation chapters as publishable units. In the disseration, these 4 chapters will be accompanied by a general Introduction, and a concluding Synthesis chapter that ties the work presented in the dissertation together under the overarching research theme and goals.\nMilestones\n\n10.2.1 Pre-proposal (or “Preposal”, copyright M. Winton)\nPhD students in the Fay lab prepare a pre-proposal during their first year to outline the overall goals and themes of the dissertation research topic, and identify the individual research chapter topic questions. The pre-proposal serves as a guiding document and conversation starter for your initial committee meeting. Scope and plans for the thesis research will be developed through your meetings with Gavin and with the project team (for students whose work is being funded by a research grant). Your pre-proposal should contain a literature review, identification of research questions and potential chapter units, an overview of the methods that will be used to address the research questions, proposed course of study (coursework, etc.), and relevance/significance of the research. Aim for the pre-proposal to be about 5 pages of text. A 2-page precis version is useful when initially talking with committee members. While not a formal requirement for the IMS program, a pre-proposal serves to clarify student interests and goals for the degree for both the student and the thesis committee, and serves as a blueprint for building out the preliminary work and the dissertation proposal (indeed you may likely re-use some of the text later).\n\n\n10.2.2 Dissertation Committee\nYour PhD thesis committee serves as your guidance team during your research, and should be viewed as colleagues and collaborators. There is a required minimum for interaction with the committee, but you should add to this. After you have formed the committee, it is advisable to hold a committee meeting at least once a year, but it is encouraged to continuingly interact with committee members.\nWhile building your pre-proposal, discuss with Gavin who should be on the committee. For PhD committees, four members is the usual size, though often students will have a fifth member. Generally in our program a committee will be made up of your advisor (Gavin), two additional UMassD faculty members, and 1-2 external members (e.g. agency collaborators on the project funding the research, e.g. collaborators at NOAA NMFS). Aim to hold your first committee meeting no later than during the 3rd semester of your program. See the official university guidelines for more specifics [link here].\n[something on what is expected at committee meetings, e.g. presentation]\n\n\n10.2.3 Comprehensive Exams\nAs detailed in the IMS policy, PhD students undertake a two-part comprehensive examination, a 2-day written exam, and a public presentation and defense of the proposal. The written exam is taken once students have completed their coursework requirements (say after the 4th or before/during the 5th semester). Questions on the written exam include both open and closed book sections and will cover coursework and questions related to your field and dissertation topics. The proposal defense is usually scheduled the semester following successful completion of the written exam. Full requirement details for the exams are in the IMS policy. The comprehensive exam will be planned in coordination with Gavin, and the written exam requires 1 month preparation time (1 month of full-time work). See guidance below. [Written exam format & guidance] [Proposal defense format & guidance]\n\n\n10.2.4 Dissertation Proposal\nA proposal describing the research that will comprise the dissertation is a required, formal part of the academic program. Proposals should describe the goals and themes of the research to be conducted, and its context within current state of knowledge. The proposal should outline the research questions that each chapter will address, and give a description of the methods that will be used in each. The proposal serves as a guiding document for the remainder of your program and is the document that you and your committee will use to agree on the scope of work to be completed to fulfill the degree requirements. Your thesis proposal should contain a literature review, identification of research questions, an overview of the methods that will be used for each of these, and description of expected results and relevance/significance of the research. Aim for the proposal to be about 15 pages of text. Detail of planning for each chapter will not be as comprehensive (it is expected that later chapters may not be as fleshed out), but the proposal should provide enough detail of what the student will do for the committee to evaluate whether the scope of work is sufficient (and likely make recommendations for reducing or refining this). It is common for students to have completed or be close to having completed work for at least one of the chapters by the time of defending the proposal.\nUltimately, the proposal serves to clarify and outline expectations for the degree for both the student and the thesis committee, and serves as a blueprint for building out the thesis itself (indeed you will re-use some of the text later).\nPhD Thesis: [guidance on thesis structure to come]\nRemember, not everything will go to plan and your interests and findings may change. Content of thesis proposals is not set in stone and can always be revised with communication and collaboration with the committee. View proposals and exams as items that help you build your scientific products rather than evaluative procedures that need to be checked off."
-  },
-  {
-    "objectID": "10-courses.html",
-    "href": "10-courses.html",
-    "title": "11  Courses",
+    "objectID": "08-Realising-FAIR-Publication.html",
+    "href": "08-Realising-FAIR-Publication.html",
+    "title": "9  Courses",
     "section": "",
     "text": "There are many courses available to you within both UMass Dartmouth and the wider UMass system (as well as other options too!).\nDeciding on a course of study should be done as part of your planning with Gavin, and perhaps through discussions with your committee.\nRemember, this is your program and you should get out of it what you want, including the academic training of interest to you.\nThat said, there are some courses that most students in the Fay lab take (in part due to program requirements), so here we lay out some suggestions and provide resources for courses offered at both SMAST and elsewhere on campus that lab members have found useful.\nCourse of study should be selected with the program requirements in mind - as always, refer to the Intercampus Marine Science Program Manual for details."
   },
   {
-    "objectID": "10-courses.html#suggested-course-schedule",
-    "href": "10-courses.html#suggested-course-schedule",
-    "title": "11  Courses",
-    "section": "11.1 Suggested course schedule",
-    "text": "11.1 Suggested course schedule\nStudents generally take a full time credit load of 9 credits per semester while they are fulfiling the credit requirements for the degree. An exception is in the first year of study when students take 10 credits to meet the graduate seminar credit program requirement.\nIn the Fay lab, we tend to take most (ALL?) of the quantitative courses on offer.\nSeveral SMAST courses are offered on an alternating basis every 2 years. Particularly for MS students, you may want to take advantage of courses when they are offered, even if this means taking them out of the natural ‘sequence’.\n\n11.1.1 Year 1\nMost students take many of their core program requirements (denoted below with [C] or [PC] for policy core courses) in the first year. An exception may be PhD students who save one of the Oceanography requirements for the 2nd year, depending on other courses.\nFall MAR 540: Introduction to Fisheries Science (Stokesbury)\nMAR 544: Stock Assessment of Fishery Resources (even years) (Cadrin)\nMAR 555: Introduction to Physical Oceanography (Cowles/Sundermeyer) [C]\nMAR 700: Graduate Seminar (Fisheries Oceanography) [C]\nSpring MAR 545: Biological Oceanography (Turner) [C]\nMAR 536: Biological Statistics II (Fay) (even years)\nMAR 530: Ecosystem-Based Fisheries Management (odd years) (Fay) [PC]\nMAR 510: Chemical Oceanography [C]\nMAR 700: Graduate Seminar (Fisheries Oceanography) [C]\nTypically, most remaining coursework is completed in years 2-3, but this will vary by individual.\n\n\n11.1.2 Other courses Gavin will strongly ‘suggest’ you take\nMAR 580: Advanced Population Modeling (Fay) (odd years)\n\n\n11.1.3 Other courses you might want to take\nFall MAR 525: US Ocean Policy (Pierce, fall even yrs) [PC] MAR 522: Science Communication for Research Scientists (Fay, fall) MAR 599: Bayesian Statistics and Hierarchical Modeling (Fay, fall even yrs) MAR 527: Fisheries Management (Cadrin, fall odd yrs) Spring BIO XXX: Biological Statistics I (Kozak, spring) MAR 622: Stock Identification Methods (Cadrin, spring even) Based on interest MAR 5XX: Marine Resource Economics (Griffin & DePiper) [PC] MAR 580: Conservation in World Marine Capture Fisheries (He) [PC] MAR 580: Fish Behavior & Conservation Engineering (He)\nMAR 580: Field Methods in Fisheries Research (Cadrin/Bethoney)\nOf course there are lots of other course offerings - these are the ones that lab members have taken more than once. For present semester offerings, see the SMAST website. Full list of current SMAST courses and for which courses meet IMS core course requirements can be found here.\n\n\n11.1.4 Other UMassD courses\nCheck out course offerings in Data Science (DSC), Mathematics (MTH), Public Policy (POL), Biology (BIO), Mechanical Engeering (MNE), and Computer Science (CSI) in the Graduate Handbook and on COIN.\n\n\n11.1.5 Courses outside of UMass Dartmouth\nSome IMS courses are offered at UMass Amherst, Boston, and Lowell.\nInstructions and forms for registering for intercampus courses can be found under the ‘Academics’ section of the SMAST Occupants page.\nJarrett Byrnes (UMass Boston) statistics & R courses\nBiol 607: An Introduction to Computational Data Analysis for Biology Introduction to Data Science for Biology\nYou may also want to talk with Gavin about taking courses at another institution, say to take advantage of even more stock assessment and statistical computing courses (e.g. Andre Punt’s courses at University of Washington."
+    "objectID": "08-Realising-FAIR-Publication.html#suggested-course-schedule",
+    "href": "08-Realising-FAIR-Publication.html#suggested-course-schedule",
+    "title": "9  Courses",
+    "section": "9.1 Suggested course schedule",
+    "text": "9.1 Suggested course schedule\nStudents generally take a full time credit load of 9 credits per semester while they are fulfiling the credit requirements for the degree. An exception is in the first year of study when students take 10 credits to meet the graduate seminar credit program requirement.\nIn the Fay lab, we tend to take most (ALL?) of the quantitative courses on offer.\nSeveral SMAST courses are offered on an alternating basis every 2 years. Particularly for MS students, you may want to take advantage of courses when they are offered, even if this means taking them out of the natural ‘sequence’.\n\n9.1.1 Year 1\nMost students take many of their core program requirements (denoted below with [C] or [PC] for policy core courses) in the first year. An exception may be PhD students who save one of the Oceanography requirements for the 2nd year, depending on other courses.\nFall MAR 540: Introduction to Fisheries Science (Stokesbury)\nMAR 544: Stock Assessment of Fishery Resources (even years) (Cadrin)\nMAR 555: Introduction to Physical Oceanography (Cowles/Sundermeyer) [C]\nMAR 700: Graduate Seminar (Fisheries Oceanography) [C]\nSpring MAR 545: Biological Oceanography (Turner) [C]\nMAR 536: Biological Statistics II (Fay) (even years)\nMAR 530: Ecosystem-Based Fisheries Management (odd years) (Fay) [PC]\nMAR 510: Chemical Oceanography [C]\nMAR 700: Graduate Seminar (Fisheries Oceanography) [C]\nTypically, most remaining coursework is completed in years 2-3, but this will vary by individual.\n\n\n9.1.2 Other courses Gavin will strongly ‘suggest’ you take\nMAR 580: Advanced Population Modeling (Fay) (odd years)\n\n\n9.1.3 Other courses you might want to take\nFall MAR 525: US Ocean Policy (Pierce, fall even yrs) [PC] MAR 522: Science Communication for Research Scientists (Fay, fall) MAR 599: Bayesian Statistics and Hierarchical Modeling (Fay, fall even yrs) MAR 527: Fisheries Management (Cadrin, fall odd yrs) Spring BIO XXX: Biological Statistics I (Kozak, spring) MAR 622: Stock Identification Methods (Cadrin, spring even) Based on interest MAR 5XX: Marine Resource Economics (Griffin & DePiper) [PC] MAR 580: Conservation in World Marine Capture Fisheries (He) [PC] MAR 580: Fish Behavior & Conservation Engineering (He)\nMAR 580: Field Methods in Fisheries Research (Cadrin/Bethoney)\nOf course there are lots of other course offerings - these are the ones that lab members have taken more than once. For present semester offerings, see the SMAST website. Full list of current SMAST courses and for which courses meet IMS core course requirements can be found here.\n\n\n9.1.4 Other UMassD courses\nCheck out course offerings in Data Science (DSC), Mathematics (MTH), Public Policy (POL), Biology (BIO), Mechanical Engeering (MNE), and Computer Science (CSI) in the Graduate Handbook and on COIN.\n\n\n9.1.5 Courses outside of UMass Dartmouth\nSome IMS courses are offered at UMass Amherst, Boston, and Lowell.\nInstructions and forms for registering for intercampus courses can be found under the ‘Academics’ section of the SMAST Occupants page.\nJarrett Byrnes (UMass Boston) statistics & R courses\nBiol 607: An Introduction to Computational Data Analysis for Biology Introduction to Data Science for Biology\nYou may also want to talk with Gavin about taking courses at another institution, say to take advantage of even more stock assessment and statistical computing courses (e.g. Andre Punt’s courses at University of Washington."
+  },
+  {
+    "objectID": "09-Plan-for-RDM.html",
+    "href": "09-Plan-for-RDM.html",
+    "title": "10  Plan for RDM",
+    "section": "",
+    "text": "We will take a closer look at planning for RDM. In relation to this, data management plans and the tool DMPonline will be further explained. At the end of this module you should be able to: * Recognize the relevance of planning research data management * Get familiar with the concept of Data Management Plans and their format * Create a data management plan using the appropriate tool * Recognize the value of creating a Data Management Plan"
+  },
+  {
+    "objectID": "09-Plan-for-RDM.html#activities",
+    "href": "09-Plan-for-RDM.html#activities",
+    "title": "10  Plan for RDM",
+    "section": "10.1 Activities",
+    "text": "10.1 Activities\n\nWatch the animation video to learn what a data management plan (DMP) is\nWatch the videos of a TU Delft researcher and a Faculty data steward to learn why they think it is relevant to prepare a DMP\nCreate a DMP using DMP online"
+  },
+  {
+    "objectID": "09-Plan-for-RDM.html#what-is-a-data-management-plan-dmp",
+    "href": "09-Plan-for-RDM.html#what-is-a-data-management-plan-dmp",
+    "title": "10  Plan for RDM",
+    "section": "10.2 What is a Data Management Plan (DMP)?",
+    "text": "10.2 What is a Data Management Plan (DMP)?\nWhat exactly is a data management plan? Watch the video for an introduction to data management plans.\nScript adapted from: Holmstrand, K.F., den Boer, S.P.A., Vlachos, E., Martínez-Lavanchy, P.M., Hansen, K.K. (Eds.) (2019). Research Data Management (eLearning course). doi: 10.11581/dtu:00000047"
+  },
+  {
+    "objectID": "09-Plan-for-RDM.html#why-create-a-data-management-plan",
+    "href": "09-Plan-for-RDM.html#why-create-a-data-management-plan",
+    "title": "10  Plan for RDM",
+    "section": "10.3 Why create a Data Management Plan?",
+    "text": "10.3 Why create a Data Management Plan?\nWhy is it necessary to create a data management plan? Watch the following video in which a researcher and data steward talk about the importance of creating a data management plan. * Natalia Romero Herrera talking about the benefits of writing a DMP [Embedded video: https://youtu.be/2GSEqmFxNrc ] * Esther Plomp talking about the benefits of writing a DMP"
+  },
+  {
+    "objectID": "09-Plan-for-RDM.html#introduction-to-dmp-online",
+    "href": "09-Plan-for-RDM.html#introduction-to-dmp-online",
+    "title": "10  Plan for RDM",
+    "section": "10.4 Introduction to DMP online",
+    "text": "10.4 Introduction to DMP online\nThis introduction will provide you with a step-by-step guide for creating a DMPonline account and with an explanation of its main features. You will create your own account and explore the TU Delft template. With DMPonline you can: ● Write your plan and easily update it throughout the lifecycle of your project; ● Share your plan with internal and external collaborators and ask for feedback from your Faculty Data Steward; ● Download your plan in a variety of formats."
+  },
+  {
+    "objectID": "09-Plan-for-RDM.html#activity---create-a-dmp",
+    "href": "09-Plan-for-RDM.html#activity---create-a-dmp",
+    "title": "10  Plan for RDM",
+    "section": "10.5 Activity - Create a DMP:",
+    "text": "10.5 Activity - Create a DMP:\nIn this activity you will be creating an account for DMPonline, and use the TU Delft template to create a plan for your project. In the following document, DMPonline user guide, you will find a clear step-by-step guide to complete this activity. We expect you to: 1. Create an account in DMPonline 2. ‘Create a new plan’ for your project choosing ‘Delft University of Technology’ as the primary research organisation a. Tick ‘No funder associated with this plan or my funder is not listed’ in the ‘primary funding organisation’ 3. Fill in the ‘Project Details’ according to your project. 4. Go to ‘Write Plan’ 5. Go back to your slides or papers and post-it’s of your data flow map of week 1 and 2 and use the information in there to fill in the questions of the data management plan. If appropriate, you can use the ‘Additional Information’ box in the template to add as many details as possible according to your data flow map. 6. If you don’t know how to answer any of the questions please let us know in Issue ? on GitHub."
+  },
+  {
+    "objectID": "09-Plan-for-RDM.html#discussion---questions-reflections-about-your-dmp-mandatory",
+    "href": "09-Plan-for-RDM.html#discussion---questions-reflections-about-your-dmp-mandatory",
+    "title": "10  Plan for RDM",
+    "section": "10.6 Discussion - Questions & Reflections about your DMP (mandatory)",
+    "text": "10.6 Discussion - Questions & Reflections about your DMP (mandatory)\nPlease share your questions and/or reflections that came up while filling in the DMP of your project. For example: * Were you able to answer all the questions on the DMP template using your Data Flow Map? * If not, which sections were you not able to answer? What kind of additional information would you need?"
+  },
+  {
+    "objectID": "09-Plan-for-RDM.html#assignment---reflection-on-your-data-flow-map",
+    "href": "09-Plan-for-RDM.html#assignment---reflection-on-your-data-flow-map",
+    "title": "10  Plan for RDM",
+    "section": "10.7 Assignment - Reflection on your Data Flow Map",
+    "text": "10.7 Assignment - Reflection on your Data Flow Map\nGo back to their Data Flow Map and reflect on your challenges, share experiences and tips with their peers and decide on the next steps to start implementing what they learned in their daily work with data."
+  },
+  {
+    "objectID": "10-Wrap-up.html",
+    "href": "10-Wrap-up.html",
+    "title": "11  Wrap Up",
+    "section": "",
+    "text": "In the past modules we focused on relevant topics concerning RDM. Starting with creating awareness about RDM, we have seen the essentials of RDM, the importance of FAIR data and how to create a planning for RDM. In this final module we give the opportunity to reflect on the course and share remaining questions.\nAt the end of this course you will be able to: * Realise the important role that good data management plays in research * Identify different types of research data and recognize the regulations, policies and/or legal requirements associated with them * List the main components of the FAIR data principles and connect them to your own research workflows * Employ the acquired knowledge to design an efficient research data management strategy for your project according to best practices"
+  },
+  {
+    "objectID": "10-Wrap-up.html#assignment",
+    "href": "10-Wrap-up.html#assignment",
+    "title": "11  Wrap Up",
+    "section": "11.1 Assignment",
+    "text": "11.1 Assignment\nThis week will conclude with the final class 3. Make sure to submit [the assignment] before the meeting as you will present it in groups during the class. See you there!"
+  },
+  {
+    "objectID": "10-Wrap-up.html#class-3",
+    "href": "10-Wrap-up.html#class-3",
+    "title": "11  Wrap Up",
+    "section": "11.2 Class 3:",
+    "text": "11.2 Class 3:\n\nWe will summarise some of the main takeaways of the course.\nYou will have the opportunity to discuss what you learned from the data flow maps.\nYour instructor will answer any final question you might have. [You can find the programme and activities of the virtual class in the following files: 06-1_Module-6_Virtual_Class_Presentation and 06-2_Module-6_Virtual_Class_Description_of_activities]"
+  },
+  {
+    "objectID": "10-Wrap-up.html#feedback",
+    "href": "10-Wrap-up.html#feedback",
+    "title": "11  Wrap Up",
+    "section": "11.3 Feedback",
+    "text": "11.3 Feedback"
+  },
+  {
+    "objectID": "10-Wrap-up.html#other-courses",
+    "href": "10-Wrap-up.html#other-courses",
+    "title": "11  Wrap Up",
+    "section": "11.4 Other Courses",
+    "text": "11.4 Other Courses\n\nCheck out the RDM website of the Library for an overview of what other courses are available!\nOpen Science MOOC: Sharing your research with the world\nOpen Life Science program"
   },
   {
     "objectID": "11-computing.html",
