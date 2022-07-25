@@ -352,50 +352,43 @@
   {
     "objectID": "12-Assignment-Data-Flow-Map-3.html",
     "href": "12-Assignment-Data-Flow-Map-3.html",
-    "title": "13  UMass Dartmouth, SMAST, and Fay Lab Resources",
+    "title": "13  Assignment 2 - Data Flow Map reflection",
     "section": "",
-    "text": "The SMAST Department website lists all faculty, staff, and students across both departments (DEOS & DFO). This is not updated frequently but may help you in locating a specific person and their contact information.\nSMAST directory…though again doesn’t get updated frequently.\nIf you need help with a specific task, there are some staff members that are more approproate to contact. Please use the link below to locate someone to help you. For example, if you are planning on traveling (DEOS & DFO), you see that Christine Fox is the primary contact with Sue Silva as the secondary point of contact.\n\nStaff at SMAST that are useful resources - click on view raw at bottom of page.\n\nAn excel spreadsheet which lists the primary and secondary points of contact for SMAST related business will be downloaded to your computer.\n\n\nSMAST occupants portal. Login in to\n\n\n\nStudent conduct and dispute resolution\nSMAST’s code of conduct and diversity statement. Note, link to a word document should be at the bottom of the linked webpage.\n\n\n\n\n\nOfficial SMAST webpage for current and incoming students. This has information on orientation materials, forms, scholarships/fellowships/assistantships, and academics.\n\n\n\n\n\nEmployee resources\nHuman Resources"
+    "text": "Go back to your Data Flow Map and reflect on your challenges, experiences and tips.\nYou will have to prepare and submit a slide before class 2 about:\n• Which data flow map theme challenged you the most? And why? • What theme (from the data flow map) challenged you the least because you were already implementing RDM best practices before this course? (If any) • What RDM best practice have you already started implementing in your daily practice during the course? • If you haven’t implemented anything yet, what will you get started with tomorrow after the course ends?\nYou will have 4 minutes to present your slide during class 2 to your peers and they will have the chance to ask questions or exchange ideas!"
   },
   {
-    "objectID": "12-Assignment-Data-Flow-Map-3.html#fay-lab-resources",
-    "href": "12-Assignment-Data-Flow-Map-3.html#fay-lab-resources",
-    "title": "13  UMass Dartmouth, SMAST, and Fay Lab Resources",
-    "section": "13.2 Fay Lab Resources",
-    "text": "13.2 Fay Lab Resources\nFay Lab website Fay Lab Google Drive & Calendar - ask Ashleigh for a link to access & collaborate! - Lab email -> thefaylab@gmail.com Fay Lab GitHub account - Lab-chat repository houses an Issues list that retains institutional and Fay Lab knowledge. It’s private so be sure to ask Gavin for access! Our current team Lab publications Professional development materials: Jobs, Grants, & Degrees Outreach opportunities - UMassD Society for Women in Marine Science (SWMS) Chapter - UMassD Underrepresented Women as Leaders in STEAM Travel Procedures\n\n13.2.1 Weekly Lab Meetings\n\nEvery Tuesday from 1 - 2:30 PM EST\nOn occasion, this time is used for Quantfish woRkshops where lab members or invited guests come to teach the group and larger community a quantative skill (could be an introduction to a new R package, new statistical tool, etc)\n\n\n\n13.2.2 Shut Up and Write\n\nEvery Thursday from 3 - 4:30 PM EST (besides the 1st Thursday of every month which is reserved for Hacky Hour -> see below!)\nPomodoro-style workflow. Three, 20-minute sessions interspersed by ~5 minute breaks.\n\n\n\n13.2.3 Hacky Hours/Southcoast useR group\n\n1st Thursday of every month\nMixed bag including working through tidy tuesdays, informal feedback presentations, etc."
-  },
-  {
-    "objectID": "13-Wrap-up.html",
-    "href": "13-Wrap-up.html",
-    "title": "14  Wrap Up",
+    "objectID": "13-Class-2.html",
+    "href": "13-Class-2.html",
+    "title": "14  Class 2",
     "section": "",
-    "text": "In the past modules we focused on relevant topics concerning RDM. Starting with creating awareness about RDM, we have seen the essentials of RDM, the importance of FAIR data and how to create a planning for RDM. In this final module we give the opportunity to reflect on the course and share remaining questions.\nAt the end of this course you will be able to: * Realise the important role that good data management plays in research * Identify different types of research data and recognize the regulations, policies and/or legal requirements associated with them * List the main components of the FAIR data principles and connect them to your own research workflows * Employ the acquired knowledge to design an efficient research data management strategy for your project according to best practices"
+    "text": "This week will conclude with the final class 3. Make sure to submit [the assignment] before the meeting as you will present it in groups during the class. See you there!"
   },
   {
-    "objectID": "13-Wrap-up.html#assignment",
-    "href": "13-Wrap-up.html#assignment",
-    "title": "14  Wrap Up",
-    "section": "14.1 Assignment",
-    "text": "14.1 Assignment\nThis week will conclude with the final class 3. Make sure to submit [the assignment] before the meeting as you will present it in groups during the class. See you there!"
-  },
-  {
-    "objectID": "13-Wrap-up.html#class-3",
-    "href": "13-Wrap-up.html#class-3",
-    "title": "14  Wrap Up",
+    "objectID": "13-Class-2.html#class-3",
+    "href": "13-Class-2.html#class-3",
+    "title": "14  Class 2",
     "section": "14.2 Class 3:",
     "text": "14.2 Class 3:\n\nWe will summarise some of the main takeaways of the course.\nYou will have the opportunity to discuss what you learned from the data flow maps.\nYour instructor will answer any final question you might have. [You can find the programme and activities of the virtual class in the following files: 06-1_Module-6_Virtual_Class_Presentation and 06-2_Module-6_Virtual_Class_Description_of_activities]"
   },
   {
-    "objectID": "13-Wrap-up.html#feedback",
-    "href": "13-Wrap-up.html#feedback",
-    "title": "14  Wrap Up",
-    "section": "14.3 Feedback",
-    "text": "14.3 Feedback"
+    "objectID": "14-Wrap-up.html",
+    "href": "14-Wrap-up.html",
+    "title": "15  Wrap Up",
+    "section": "",
+    "text": "In the past modules we focused on relevant topics concerning RDM. Starting with creating awareness about RDM, we have seen the essentials of RDM, the importance of FAIR data and how to create a planning for RDM. In this final module we give the opportunity to reflect on the course and share remaining questions.\nAt the end of this course you will be able to:"
   },
   {
-    "objectID": "13-Wrap-up.html#other-courses",
-    "href": "13-Wrap-up.html#other-courses",
-    "title": "14  Wrap Up",
-    "section": "14.4 Other Courses",
-    "text": "14.4 Other Courses\n\nCheck out the RDM website of the Library for an overview of what other courses are available!\nOpen Science MOOC: Sharing your research with the world\nOpen Life Science program"
+    "objectID": "14-Wrap-up.html#feedback",
+    "href": "14-Wrap-up.html#feedback",
+    "title": "15  Wrap Up",
+    "section": "15.1 Feedback",
+    "text": "15.1 Feedback"
+  },
+  {
+    "objectID": "14-Wrap-up.html#other-courses",
+    "href": "14-Wrap-up.html#other-courses",
+    "title": "15  Wrap Up",
+    "section": "15.2 Other Courses",
+    "text": "15.2 Other Courses\n\nCheck out the RDM website of the Library for an overview of what other courses are available!\nOpen Science MOOC: Sharing your research with the world\nOpen Life Science program"
   }
 ]
