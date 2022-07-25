@@ -142,9 +142,9 @@
   {
     "objectID": "05-Assignment-Data-Flow-Map-1.html",
     "href": "05-Assignment-Data-Flow-Map-1.html",
-    "title": "6  Assignment 1 - Data Flow Map",
+    "title": "6  Assignment 2 - Data Flow Map",
     "section": "",
-    "text": "[Assignment 1] Assignment week 1- Data Flow map_part 1 [After completing Modules 1 and 2, the course participants create a Data Flow Map to apply what they learned to their own research project. For a detailed description see the publication: https://doi.org/10.5281/zenodo.6325938 ]"
+    "text": "[Assignment 1] Assignment week 1- Data Flow map_part 1 [After completing Modules 1 and 2, the course participants create a Data Flow Map to apply what they learned to their own research project. For a detailed description see the publication: https://doi.org/10.5281/zenodo.6325938 ]\nMartinez-Lavanchy, P.M., van Schöll, Pim, Zormpa, Eirini, & Singotani, Roséane Cathy. (2022, July 8). TU Delft Research Data Management 101 course - Assignments Data Flow Map. Zenodo. https://doi.org/10.5281/zenodo.6325938"
   },
   {
     "objectID": "06-FAIR-principles.html",
@@ -312,28 +312,7 @@
     "href": "10-Plan-for-RDM.html#introduction-to-dmp-online",
     "title": "11  Plan for RDM",
     "section": "11.4 Introduction to DMP online",
-    "text": "11.4 Introduction to DMP online\nThis introduction will provide you with a step-by-step guide for creating a DMPonline account and with an explanation of its main features. You will create your own account and explore the TU Delft template. With DMPonline you can:\n\nWrite your plan and easily update it throughout the lifecycle of your project;\nShare your plan with internal and external collaborators and ask for feedback from your Faculty Data Steward;\nDownload your plan in a variety of formats."
-  },
-  {
-    "objectID": "10-Plan-for-RDM.html#activity---create-a-dmp",
-    "href": "10-Plan-for-RDM.html#activity---create-a-dmp",
-    "title": "11  Plan for RDM",
-    "section": "11.5 Activity - Create a DMP:",
-    "text": "11.5 Activity - Create a DMP:\nIn this activity you will be creating an account for DMPonline, and use the TU Delft template to create a plan for your project. In the following document, DMPonline user guide, you will find a clear step-by-step guide to complete this activity. We expect you to:\n\nCreate an account in DMPonline\n‘Create a new plan’ for your project choosing ‘Delft University of Technology’ as the primary research organisation and tick ‘No funder associated with this plan or my funder is not listed’ in the ‘primary funding organisation’\nFill in the ‘Project Details’ according to your project.\nGo to ‘Write Plan’\nGo back to your slides or papers and post-it’s of your data flow map of week 1 and 2 and use the information in there to fill in the questions of the data management plan. If appropriate, you can use the ‘Additional Information’ box in the template to add as many details as possible according to your data flow map.\nIf you don’t know how to answer any of the questions please let us know in Issue ? on GitHub."
-  },
-  {
-    "objectID": "10-Plan-for-RDM.html#discussion---questions-reflections-about-your-dmp-mandatory",
-    "href": "10-Plan-for-RDM.html#discussion---questions-reflections-about-your-dmp-mandatory",
-    "title": "11  Plan for RDM",
-    "section": "11.6 Discussion - Questions & Reflections about your DMP (mandatory)",
-    "text": "11.6 Discussion - Questions & Reflections about your DMP (mandatory)\nPlease share your questions and/or reflections that came up while filling in the DMP of your project. For example:\n\nWere you able to answer all the questions on the DMP template using your Data Flow Map?\nIf not, which sections were you not able to answer? What kind of additional information would you need?"
-  },
-  {
-    "objectID": "10-Plan-for-RDM.html#assignment---reflection-on-your-data-flow-map",
-    "href": "10-Plan-for-RDM.html#assignment---reflection-on-your-data-flow-map",
-    "title": "11  Plan for RDM",
-    "section": "11.7 Assignment - Reflection on your Data Flow Map",
-    "text": "11.7 Assignment - Reflection on your Data Flow Map\nGo back to their Data Flow Map and reflect on your challenges, share experiences and tips with their peers and decide on the next steps to start implementing what they learned in their daily work with data."
+    "text": "11.4 Introduction to DMP online\nThis introduction will provide you with a step-by-step guide for creating a DMPonline account and with an explanation of its main features. You will create your own account and explore the TU Delft template. With DMPonline you can:\n\nWrite your plan and easily update it throughout the lifecycle of your project;\nShare your plan with internal and external collaborators and ask for feedback from your Faculty Data Steward;\nDownload your plan in a variety of formats.\n\nSee the next module for the assignment to create your DMP."
   },
   {
     "objectID": "11-Assignment-DMP.html",
@@ -354,7 +333,7 @@
     "href": "12-Assignment-Data-Flow-Map-3.html",
     "title": "13  Assignment 2 - Data Flow Map reflection",
     "section": "",
-    "text": "Go back to your Data Flow Map and reflect on your challenges, experiences and tips.\nYou will have to prepare and submit a slide before class 2 about:\n• Which data flow map theme challenged you the most? And why? • What theme (from the data flow map) challenged you the least because you were already implementing RDM best practices before this course? (If any) • What RDM best practice have you already started implementing in your daily practice during the course? • If you haven’t implemented anything yet, what will you get started with tomorrow after the course ends?\nYou will have 4 minutes to present your slide during class 2 to your peers and they will have the chance to ask questions or exchange ideas!"
+    "text": "Go back to your Data Flow Map and reflect on your challenges, experiences and tips.\nYou will have to prepare and submit a slide before class 2 about:\n• Which data flow map theme challenged you the most? And why? • What theme (from the data flow map) challenged you the least because you were already implementing RDM best practices before this course? (If any) • What RDM best practice have you already started implementing in your daily practice during the course? • If you haven’t implemented anything yet, what will you get started with tomorrow after the course ends?\nYou will have 4 minutes to present your slide during class 2 to your peers and they will have the chance to ask questions or exchange ideas!\nMartinez-Lavanchy, P.M., van Schöll, Pim, Zormpa, Eirini, & Singotani, Roséane Cathy. (2022, July 8). TU Delft Research Data Management 101 course - Assignments Data Flow Map. Zenodo. https://doi.org/10.5281/zenodo.6325938"
   },
   {
     "objectID": "13-Class-2.html",
