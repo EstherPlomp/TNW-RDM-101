@@ -4,7 +4,7 @@
     "href": "index.html",
     "title": "TNW RDM 101",
     "section": "",
-    "text": "This website is an adaptation of the Research Data Management 101 Course provided by TU Delft Library.\nThis course provides PhD candidates with the essential knowledge and the core skills to manage research data according to best practice. Learners will be able to integrate good data management practices within their workflows from the beginning of their projects. The application of this knowledge to their research will allow them to reflect on how to work efficiently and in a reproducible manner with their research data, while complying with funders and institutional requirements.\nThis is a three weeks blended course, meaning that is a mix of self-studying and two in-person class meetings. * The time to be spent for the course is approximately 16 hours in total, which is equivalent to 1.5 GS credits in the category of Research skills of the GS Education Programme, if the requirements are fulfilled. * The online learning environment is this website and it’s GitHub Repository. Participants will have to set up a GitHub account to participate and will be instructed on how GitHub works.\nAll the course materials can be found here: Martinez-Lavanchy, P.M., van Schöll, Pim, & Zormpa, Eirini. (2022). TU Delft Research Data Management 101 course. Zenodo. https://doi.org/10.5281/zenodo.6325919\nParts of the content of this course are based on: Holmstrand, K.F., den Boer, S.P.A., Vlachos, E., Martínez-Lavanchy, P.M., Hansen, K.K. (Eds.) (2019). Research Data Management (eLearning course). doi: 10.11581/dtu:00000047\nThis website is made using Quarto Allaire, J., Teague, C., Scheidegger, C., Xie, Y., & Dervieux, C. (2022). Quarto (Version 0.3) [Computer software]. https://doi.org/10.5281/zenodo.5960048\n This website is a copy of the lab manual for the Fay Lab at the University of Massachusetts Dartmouth School for Marine Science and Technology thanks to their group’s participation in the Openscapes Champions program.\n < link to this book’s template GitHub repository. Also see Quick steps to making a copy of the lab manual and publishing it!\n\n\nThis webpage is licensed under a Creative Commons Attribution 4.0 International License. and requires the attribution of the lab manual for the Fay Lab and Martinez-Lavanchy, P.M., van Schöll, Pim, & Zormpa, Eirini. (2022, July 8). TU Delft Research Data Management 101 course. Zenodo. https://doi.org/10.5281/zenodo.6325919."
+    "text": "This website is an adaptation of the Research Data Management 101 Course provided by TU Delft Library.\nThis course provides PhD candidates with the essential knowledge and the core skills to manage research data according to best practice. Learners will be able to integrate good data management practices within their workflows from the beginning of their projects. The application of this knowledge to their research will allow them to reflect on how to work efficiently and in a reproducible manner with their research data, while complying with funders and institutional requirements.\nThis is a three weeks blended course, meaning that is a mix of self-studying and two in-person class meetings. * The time to be spent for the course is approximately 16 hours in total, which is equivalent to 1.5 GS credits in the category of Research skills of the GS Education Programme, if the requirements are fulfilled. * The online learning environment is this website and it’s GitHub Repository. Participants will have to set up a GitHub account to participate and will be instructed on how GitHub works.\nAll the course materials can be found here: Martinez-Lavanchy, P.M., van Schöll, Pim, & Zormpa, Eirini. (2022). TU Delft Research Data Management 101 course. Zenodo. https://doi.org/10.5281/zenodo.6325919\nParts of the content of this course are based on: Holmstrand, K.F., den Boer, S.P.A., Vlachos, E., Martínez-Lavanchy, P.M., Hansen, K.K. (Eds.) (2019). Research Data Management (eLearning course). doi: 10.11581/dtu:00000047\nThis website is made using Quarto Allaire, J., Teague, C., Scheidegger, C., Xie, Y., & Dervieux, C. (2022). Quarto (Version 0.3) [Computer software]. https://doi.org/10.5281/zenodo.5960048\n This website is a copy of the lab manual for the Fay Lab at the University of Massachusetts Dartmouth School for Marine Science and Technology thanks to their group’s participation in the Openscapes Champions program.\n < link to this book’s template GitHub repository. Also see Quick steps to making a copy of the lab manual and publishing it!\n \n\nThis webpage is licensed under a Creative Commons Attribution 4.0 International License. and requires the attribution of the lab manual for the Fay Lab and Martinez-Lavanchy, P.M., van Schöll, Pim, & Zormpa, Eirini. (2022, July 8). TU Delft Research Data Management 101 course. Zenodo. https://doi.org/10.5281/zenodo.6325919."
   },
   {
     "objectID": "01-Introduction.html",
@@ -39,7 +39,7 @@
     "href": "01-Introduction.html#assessment-criteria",
     "title": "2  Introduction",
     "section": "2.4 Assessment criteria",
-    "text": "2.4 Assessment criteria\nIn order to receive the 1.5 Graduate School Credits you have to:\n\nComplete all activities\nInteract with all course activities ( topics & quizzes)\nParticipate in all discussions (Q&A are optional)\n\nSubmit assignments (data flow maps) in weeks 1 and 2 and the assignment of week 3 (reflection on RDM strategy).\nWrite a Data Management Plan using DMPonline\n\nAttend and participate in all Class Sessions\n\n<<<<<<< HEAD Note: you will not be graded on your assignments. Use the class sessions and Discussions to gather feedback. ======= Note: you will not be graded on your assignments. Use the class sessions and Discussions to gather feedback. >>>>>>> 08c625f8cd8ee62a943c7c46cbb4f0169c56084d"
+    "text": "2.4 Assessment criteria\nIn order to receive the 1.5 Graduate School Credits you have to:\n\nComplete all activities\nInteract with all course activities ( topics & quizzes)\nParticipate in all discussions (Q&A are optional)\n\nSubmit assignments (data flow maps) in weeks 1 and 2 and the assignment of week 3 (reflection on RDM strategy).\nWrite a Data Management Plan using DMPonline\n\nAttend and participate in all Class Sessions\n\nNote: you will not be graded on your assignments. Use the class sessions and Discussions to gather feedback."
   },
   {
     "objectID": "01-Introduction.html#support",
@@ -123,308 +123,252 @@
     "href": "03-Essentials-for-Research-Data.html#rdm-responsibilities",
     "title": "4  Essentials for Research Data",
     "section": "5.7 RDM responsibilities",
-    "text": "5.7 RDM responsibilities\nIn this section we would like to make you aware of the responsibilities of TU Delft PhD candidates regarding Research Data Management.\nThese responsibilities are detailed in the University and Faculty Policies. It is very important for TU Delft that researchers follow best practices on Research Data Management (RDM). That is why since 2018 TU Delft has published a set of policies which provide a clear division of roles and responsibilities around RDM.\n\nResearch Data framework policy\n\nThis Framework policy is accompanied by Faculty-specific data management policies, which provide more detailed requirements and guidelines for the disciplines associated with each Faculty.\n\nFaculty Research Data Management Policies or direct download of the TNW/AS policy.\n\nSoftware is recognised at TU Delft as a valuable research output that needs to be well documented, preserved and, whenever possible, consistent with the FAIR principles. The TUD Research Software Policy provides a clear division of roles and responsibilities and sets out a simplified, streamlined process to help researchers share software. * TUD Research Software Policy\n\n5.7.1 Policy summary\nThis section summarises your responsibilities as a TU Delft/Applied Sciences PhD candidate:\n\nDeveloping a written data management plan (DMP) for managing research outputs within the first 12 months of the PhD study. (As part of the Go/No-Go meeting. For all PhDs starting from 1 January 2020 onwards.)\nAttending the relevant training in data management, for which credits can be obtained through the Graduate School.\nEnsuring that all data and code underlying completed PhD theses are appropriately documented and accessible for at least 10 years from the end of the research project, in accordance with the FAIR principles (Findable, Accessible, Interoperable and Reusable), unless there are valid reasons which make research data unsuitable for sharing. (For all PhDs starting from 1 January 2019 onwards.)\n\nWhen sharing software: * Use a data repository to obtain a DOI for the software. If you use 4TU.ResearchData your software will be automatically registered. If you use other repositories, such as Zenodo, you will have the register the software via PURE * Choose one of the pre-approved licenses: MIT, BSD, Apache, GPL, AGPL, LGPL, EUPL, CC0.\nSee this slide for more details on how to share your software."
+    "text": "5.7 RDM responsibilities\nIn this section we would like to make you aware of the responsibilities of TU Delft PhD candidates regarding Research Data Management.\nThese responsibilities are detailed in the University and Faculty Policies. It is very important for TU Delft that researchers follow best practices on Research Data Management (RDM). That is why since 2018 TU Delft has published a set of policies which provide a clear division of roles and responsibilities around RDM.\n\nResearch Data framework policy\n\nThis Framework policy is accompanied by Faculty-specific data management policies, which provide more detailed requirements and guidelines for the disciplines associated with each Faculty.\n\nFaculty Research Data Management Policies or direct download of the TNW/AS policy.\n\nSoftware is recognised at TU Delft as a valuable research output that needs to be well documented, preserved and, whenever possible, consistent with the FAIR principles. The TUD Research Software Policy provides a clear division of roles and responsibilities and sets out a simplified, streamlined process to help researchers share software.\n\nTUD Research Software Policy\n\n\n5.7.1 Policy summary\nThis section summarises your responsibilities as a TU Delft/Applied Sciences PhD candidate:\n\nDeveloping a written data management plan (DMP) for managing research outputs within the first 12 months of the PhD study. (As part of the Go/No-Go meeting. For all PhDs starting from 1 January 2020 onwards.)\nAttending the relevant training in data management, for which credits can be obtained through the Graduate School.\nEnsuring that all data and code underlying completed PhD theses are appropriately documented and accessible for at least 10 years from the end of the research project, in accordance with the FAIR principles (Findable, Accessible, Interoperable and Reusable), unless there are valid reasons which make research data unsuitable for sharing. (For all PhDs starting from 1 January 2019 onwards.)\n\nWhen sharing software:\n\nUse a data repository to obtain a DOI for the software. If you use 4TU.ResearchData your software will be automatically registered. If you use other repositories, such as Zenodo, you will have the register the software via PURE\nChoose one of the pre-approved licenses: MIT, BSD, Apache, GPL, AGPL, LGPL, EUPL, CC0.\n\nSee this slide for more details on how to share your software."
   },
   {
-    "objectID": "04-Assignment-Data-Flow-Map-1.html",
-    "href": "04-Assignment-Data-Flow-Map-1.html",
-    "title": "5  Assignment 1 - Data Flow Map",
+    "objectID": "04-Assignment-GitHub-1.html",
+    "href": "04-Assignment-GitHub-1.html",
+    "title": "5  Assignment 1 - Getting started with GitHub",
+    "section": "",
+    "text": "This part of the course is only relevant if you do not have GitHub experience.\nIn 5.5 you were asked to respond to an Issue. This requires you to set up your GitHub Account."
+  },
+  {
+    "objectID": "04-Assignment-GitHub-1.html#learn-more-about-github",
+    "href": "04-Assignment-GitHub-1.html#learn-more-about-github",
+    "title": "5  Assignment 1 - Getting started with GitHub",
+    "section": "5.1 Learn more about GitHub",
+    "text": "5.1 Learn more about GitHub"
+  },
+  {
+    "objectID": "05-Assignment-Data-Flow-Map-2.html",
+    "href": "05-Assignment-Data-Flow-Map-2.html",
+    "title": "6  Assignment 1 - Data Flow Map",
     "section": "",
     "text": "[Assignment 1] Assignment week 1- Data Flow map_part 1 [After completing Modules 1 and 2, the course participants create a Data Flow Map to apply what they learned to their own research project. For a detailed description see the publication: https://doi.org/10.5281/zenodo.6325938 ]"
   },
   {
-    "objectID": "05-FAIR-principles.html",
-    "href": "05-FAIR-principles.html",
-    "title": "6  FAIR principles",
+    "objectID": "06-FAIR-principles.html",
+    "href": "06-FAIR-principles.html",
+    "title": "7  FAIR principles",
     "section": "",
     "text": "Estimated time: 90 minutes\nIn this module, we will discover the FAIR data principles and their main elements. At the end of this module, you should be able to: * Understand the FAIR principles and their relation to RDM * Identify key elements that help make research data Findable, Accessible, Interoperable and Reusable (FAIR)\nThere are different activities in this module you should complete: * Read topic 1: Why and how were the FAIR principles created? * Watch the video about the key elements to make data FAIR and complete the ‘fill in the blanks’ quiz * Share your thoughts on FAIR via the Discussion"
   },
   {
-    "objectID": "05-FAIR-principles.html#data-and-code-licences",
-    "href": "05-FAIR-principles.html#data-and-code-licences",
-    "title": "6  FAIR principles",
-    "section": "8.1 Data and Code Licences",
-    "text": "8.1 Data and Code Licences\n[Embedded video: https://youtu.be/3nl_Z7Jt-Z4 ]\nMore resources on licences: - Information on the Creative Commons (CC) licences (for research outputs like data, presentations, papers): https://creativecommons.org/licenses/ - Overview of commonly used software licences: https://choosealicense.com/licenses/ - If in doubt, talk to the data steward of your faculty!\nQuiz - Fill in the missing words based on the animation on Licenses\n\nWhen making the data or code of your project openly available, you should provide a usage ___________ (Possible Answers: license/ licence)\nThe most popular licenses for data are the_________ __________ (Possible Answers: creative/Creative commons/Commons) licenses.\nAs for data, there are __________ (Possible Answer: permissive/ restrictive) and _________ (Possible Answers: restrictive /permissive) licenses for software\nBefore adding a license to your code or software consult the guidelines of the university or contact the _________ __________ (Answers: data steward) of your Faculty."
+    "objectID": "06-FAIR-principles.html#data-and-code-licences",
+    "href": "06-FAIR-principles.html#data-and-code-licences",
+    "title": "7  FAIR principles",
+    "section": "9.1 Data and Code Licences",
+    "text": "9.1 Data and Code Licences\n[Embedded video: https://youtu.be/3nl_Z7Jt-Z4 ]\nMore resources on licences: - Information on the Creative Commons (CC) licences (for research outputs like data, presentations, papers): https://creativecommons.org/licenses/ - Overview of commonly used software licences: https://choosealicense.com/licenses/ - If in doubt, talk to the data steward of your faculty!\nQuiz - Fill in the missing words based on the animation on Licenses\n\nWhen making the data or code of your project openly available, you should provide a usage ___________ (Possible Answers: license/ licence)\nThe most popular licenses for data are the_________ __________ (Possible Answers: creative/Creative commons/Commons) licenses.\nAs for data, there are __________ (Possible Answer: permissive/ restrictive) and _________ (Possible Answers: restrictive /permissive) licenses for software\nBefore adding a license to your code or software consult the guidelines of the university or contact the _________ __________ (Answers: data steward) of your Faculty."
   },
   {
-    "objectID": "05-FAIR-principles.html#summary",
-    "href": "05-FAIR-principles.html#summary",
-    "title": "6  FAIR principles",
-    "section": "8.2 Summary",
-    "text": "8.2 Summary\nBy now, you have learned about different elements that help you make the data of your project FAIR. Many of them are straightforward to implement in your daily work, for example organizing your files and folders, keeping documentation of the data, reflecting about data access, etc. Other elements might require special tools or at least special tools would make your work easier. We will talk about some tools for documentation and data publication when we meet in class 2."
+    "objectID": "06-FAIR-principles.html#summary",
+    "href": "06-FAIR-principles.html#summary",
+    "title": "7  FAIR principles",
+    "section": "9.2 Summary",
+    "text": "9.2 Summary\nBy now, you have learned about different elements that help you make the data of your project FAIR. Many of them are straightforward to implement in your daily work, for example organizing your files and folders, keeping documentation of the data, reflecting about data access, etc. Other elements might require special tools or at least special tools would make your work easier. We will talk about some tools for documentation and data publication when we meet in class 2."
   },
   {
-    "objectID": "05-FAIR-principles.html#discussion",
-    "href": "05-FAIR-principles.html#discussion",
-    "title": "6  FAIR principles",
-    "section": "8.3 Discussion",
-    "text": "8.3 Discussion\nDiscussion topic - Share your thoughts on the FAIR principles This discussion is centered on the key elements of FAIR. Which principle is the most challenging, the easiest, the most relevant for the type of data you work with? What topic around FAIR would you like to discuss in more detail?"
+    "objectID": "06-FAIR-principles.html#discussion",
+    "href": "06-FAIR-principles.html#discussion",
+    "title": "7  FAIR principles",
+    "section": "9.3 Discussion",
+    "text": "9.3 Discussion\nDiscussion topic - Share your thoughts on the FAIR principles This discussion is centered on the key elements of FAIR. Which principle is the most challenging, the easiest, the most relevant for the type of data you work with? What topic around FAIR would you like to discuss in more detail?"
   },
   {
-    "objectID": "06-Realising-FAIR-Organisation.html",
-    "href": "06-Realising-FAIR-Organisation.html",
-    "title": "7  Realising FAIR: Data organisation",
+    "objectID": "07-Realising-FAIR-Organisation.html",
+    "href": "07-Realising-FAIR-Organisation.html",
+    "title": "8  Realising FAIR: Data organisation",
     "section": "",
-    "text": "In this module, we will focus on the realisation of FAIR data. We will explore some best practices and tools that can facilitate the implementation of the FAIR principles. At the end of this module you should be able to: * Understand the importance of good data organisation and be aware of best practices around data organisation * Recognize the relevance of documentation and be familiar with diverse tools to document data * Identify relevant tools to advance towards FAIR data * Discuss data publication, best practices and restrictions"
+    "text": "In this module, we will focus on the realisation of FAIR data. We will explore some best practices and tools that can facilitate the implementation of the FAIR principles. At the end of this module you should be able to:"
   },
   {
-    "objectID": "06-Realising-FAIR-Organisation.html#activities",
-    "href": "06-Realising-FAIR-Organisation.html#activities",
-    "title": "7  Realising FAIR: Data organisation",
-    "section": "7.1 Activities",
-    "text": "7.1 Activities\n\nWatch the videos about ‘Data organisation’ and complete the corresponding quizzes.\nTry out Cookiecutter"
+    "objectID": "07-Realising-FAIR-Organisation.html#activities",
+    "href": "07-Realising-FAIR-Organisation.html#activities",
+    "title": "8  Realising FAIR: Data organisation",
+    "section": "8.1 Activities",
+    "text": "8.1 Activities\n\nWatch the videos about ‘Data organisation’ and complete the corresponding quizzes.\nTry out Cookiecutter"
   },
   {
-    "objectID": "06-Realising-FAIR-Organisation.html#data-organisation",
-    "href": "06-Realising-FAIR-Organisation.html#data-organisation",
-    "title": "7  Realising FAIR: Data organisation",
-    "section": "7.2 Data Organisation",
-    "text": "7.2 Data Organisation\nIn the next video we will go through some best practices to help you organise the data of your project efficiently. These best practices are using a good folder structure and an appropriate file naming convention to enhance the findability of the data in your directories.\nIn the previous module you learned that ‘Documentation’ is one of the main elements of the FAIR principles. Good data documentation starts with good organisation and file naming of the data of your project! Good data organisation on your computer or your Project Data (U:) drive will allow you to make the data Findable both for yourself and for your collaborators who have access to the data. Making the data findable also indirectly improves the re-usability of the data. You need to be able to find the data before you can re-use it! Implementing a good folder structure, data organisation and a meaningful file naming convention is a simple first step towards making data FAIR.\nIn the next video, we will go through some best practices to help you organise the data of your project efficiently. These best practices are using a good folder structure, tagging files (if possible) and an appropriate file naming convention to enhance the findability of the data in your directories.\n04-1_Module-4_Video_Presentation_Data organisation"
+    "objectID": "07-Realising-FAIR-Organisation.html#data-organisation",
+    "href": "07-Realising-FAIR-Organisation.html#data-organisation",
+    "title": "8  Realising FAIR: Data organisation",
+    "section": "8.2 Data Organisation",
+    "text": "8.2 Data Organisation\nIn the next video we will go through some recommended practices to help you organise the data of your project efficiently. These recommended practices are using a good folder structure and an appropriate file naming convention to enhance the findability of the data in your directories.\nIn the previous module you learned that ‘Documentation’ is one of the main elements of the FAIR principles. Good data documentation starts with good organisation and file naming of the data of your project! Good data organisation on your computer or your Project Data (U:) drive will allow you to make the data Findable both for yourself and for your collaborators who have access to the data. Making the data findable also indirectly improves the re-usability of the data. You need to be able to find the data before you can re-use it! Implementing a good folder structure, data organisation and a meaningful file naming convention is a simple first step towards making data FAIR.\nIn the next video, we will go through some best practices to help you organise the data of your project efficiently. These best practices are using a good folder structure, tagging files (if possible) and an appropriate file naming convention to enhance the findability of the data in your directories.\n04-1_Module-4_Video_Presentation_Data organisation"
   },
   {
-    "objectID": "06-Realising-FAIR-Organisation.html#resources",
-    "href": "06-Realising-FAIR-Organisation.html#resources",
-    "title": "7  Realising FAIR: Data organisation",
-    "section": "7.3 Resources",
-    "text": "7.3 Resources\n\nFolder structure explanation of Neuroscientist Nikola Vukovic from UC San Francisco. URL: http://nikola.me/folder_structure.html\nCESSDA Training Team (2017 - 2020). CESSDA Data Management Expert Guide. Bergen, Norway: CESSDA ERIC - Chapter: File naming and folder structure. URL: https://www.cessda.eu/DMGuide\nMarwick B, Boettiger C, Mullen L. 2018. Packaging data analytical work reproducibly using R (and friends) PeerJ Preprints 6:e3192v2 https://doi.org/10.7287/peerj.preprints.3192v2\nThe Turing Way Community (2019, March 25). The Turing Way: A Handbook for Reproducible Data Science (Version v0.0.4). Zenodo. http://doi.org/10.5281/zenodo.3233986\nTagging and Finding Your Files: Home. MIT Libraries. URL: https://libguides.mit.edu/metadataTools\n\n\n7.3.1 Quiz Data Organisation\nTest your knowledge after watching the ‘Data organisation’ video. Indicate if the following sentences are True or False. 1. Good data organisation makes the data Findable for yourself and your collaborators. (Answer: True) 2. Thinking about data organisation at the beginning of your project can save you a lot of time later on. (Answer: True) 3. A Research Compendium does not follow a Hierarchical structure. (Answer: False) 4. In a Research Compendium data, methods, and outputs should be clearly separated. (Answer: True) 5. Consistency is not relevant in data organisation. (Answer: False)"
+    "objectID": "07-Realising-FAIR-Organisation.html#resources",
+    "href": "07-Realising-FAIR-Organisation.html#resources",
+    "title": "8  Realising FAIR: Data organisation",
+    "section": "8.3 Resources",
+    "text": "8.3 Resources\n\nFolder structure explanation of Neuroscientist Nikola Vukovic\nThe Turing Way - Data storage and organisation The Turing Way Community (2019, March 25).\nTagging and Finding Your Files: Home. MIT Libraries\n\n\n8.3.1 Quiz Data Organisation\nTest your knowledge after watching the ‘Data organisation’ video. Indicate if the following sentences are True or False.\n\nGood data organisation makes the data Findable for yourself and your collaborators. (Answer: True)\nThinking about data organisation at the beginning of your project can save you a lot of time later on. (Answer: True)\nA Research Compendium does not follow a Hierarchical structure. (Answer: False)\nIn a Research Compendium data, methods, and outputs should be clearly separated. (Answer: True)\nConsistency is not relevant in data organisation. (Answer: False)"
   },
   {
-    "objectID": "06-Realising-FAIR-Organisation.html#assignment-using-cookiecutter",
-    "href": "06-Realising-FAIR-Organisation.html#assignment-using-cookiecutter",
-    "title": "7  Realising FAIR: Data organisation",
-    "section": "7.4 Assignment: Using Cookiecutter",
-    "text": "7.4 Assignment: Using Cookiecutter\nEstimated time: 20 minutes Note that you need to have Python and pip (or conda) installed to easily follow the video.\n\nWatch the video on setting up a research compendium using Cookiecutter: https://vimeo.com/462773031 (3:36 min). Watching the video requires logging in to vimeo (find another link)\nFor instructions on how to clone the cookiecutter template see here. For instructions to see hidden folders on Windows, see here.\n\n\nIf you couldn’t get the template when following any of the methods described in the video, see here.\n\n\nWork on your own to populate the template with information/files from your project.\nShare your folder structure on [GitHub] and comment on another person’s folder structure\nDiscuss with your peers how similar your own folder structure is to the one you created using Cookiecutter. What additional elements are there in the Cookiecutter project? Is there anything that the Cookiecutter template is missing?\n\nIf you didn’t find this template useful, you can browse these templates to see if one of these fits your needs better: a. Data Science b. Python template c. Reproducible Science d. More templates"
+    "objectID": "07-Realising-FAIR-Organisation.html#assignment-using-cookiecutter",
+    "href": "07-Realising-FAIR-Organisation.html#assignment-using-cookiecutter",
+    "title": "8  Realising FAIR: Data organisation",
+    "section": "8.4 Assignment: Using Cookiecutter",
+    "text": "8.4 Assignment: Using Cookiecutter\nEstimated time: 20 minutes\nNote that you need to have Python and pip (or conda) installed to easily follow the video.\n\nWatch the video on setting up a research compendium using Cookiecutter (3:36 min). Watching the video requires logging in to vimeo (find another link)\nFor instructions on how to clone the cookiecutter template see here. For instructions to see hidden folders on Windows, see here.\n\n\nIf you couldn’t get the template when following any of the methods described in the video, see here.\n\n\nWork on your own to populate the template with information/files from your project.\nShare your folder structure on [GitHub] and comment on another person’s folder structure\nDiscuss with your peers how similar your own folder structure is to the one you created using Cookiecutter. What additional elements are there in the Cookiecutter project? Is there anything that the Cookiecutter template is missing?\n\nIf you didn’t find this template useful, you can browse these templates to see if one of these fits your needs better: a. Data Science b. Python template c. Reproducible Science d. More templates"
   },
   {
-    "objectID": "06-Realising-FAIR-Organisation.html#discussion",
-    "href": "06-Realising-FAIR-Organisation.html#discussion",
-    "title": "7  Realising FAIR: Data organisation",
-    "section": "7.5 Discussion",
-    "text": "7.5 Discussion\nlink to issue FAIR realisation"
+    "objectID": "07-Realising-FAIR-Organisation.html#discussion",
+    "href": "07-Realising-FAIR-Organisation.html#discussion",
+    "title": "8  Realising FAIR: Data organisation",
+    "section": "8.5 Discussion",
+    "text": "8.5 Discussion\nlink to issue FAIR realisation"
   },
   {
-    "objectID": "06-Realising-FAIR-Organisation.html#assignment",
-    "href": "06-Realising-FAIR-Organisation.html#assignment",
-    "title": "7  Realising FAIR: Data organisation",
-    "section": "7.6 Assignment",
-    "text": "7.6 Assignment\nData Flow map_part 2"
+    "objectID": "07-Realising-FAIR-Organisation.html#assignment",
+    "href": "07-Realising-FAIR-Organisation.html#assignment",
+    "title": "8  Realising FAIR: Data organisation",
+    "section": "8.6 Assignment",
+    "text": "8.6 Assignment\nData Flow map_part 2"
   },
   {
-    "objectID": "06-Realising-FAIR-Organisation.html#references",
-    "href": "06-Realising-FAIR-Organisation.html#references",
-    "title": "7  Realising FAIR: Data organisation",
-    "section": "7.7 References",
-    "text": "7.7 References\n● Colavizza, G., Hrynaszkiewicz, I., Staden, I., Whitaker, K., & McGillivray, B. The citation advantage of linking publications to research data. PLOS ONE 15(4), e0230416 (2020). https://doi.org/10.1371/journal.pone.0230416 ● European Commission. Directorate-General for Research & Innovation. H2020 Programme Guidelines on FAIR Data Management in Horizon 2020. Version 3.0. 26 July 2016. URL:https://core.ac.uk/download/pdf/301306355.pdf Resources:"
+    "objectID": "07-Realising-FAIR-Organisation.html#references",
+    "href": "07-Realising-FAIR-Organisation.html#references",
+    "title": "8  Realising FAIR: Data organisation",
+    "section": "8.7 References",
+    "text": "8.7 References\n● Colavizza, G., Hrynaszkiewicz, I., Staden, I., Whitaker, K., & McGillivray, B. The citation advantage of linking publications to research data. PLOS ONE 15(4), e0230416 (2020). https://doi.org/10.1371/journal.pone.0230416 ● European Commission. Directorate-General for Research & Innovation. H2020 Programme Guidelines on FAIR Data Management in Horizon 2020. Version 3.0. 26 July 2016. URL:https://core.ac.uk/download/pdf/301306355.pdf\nThe Turing Way: A Handbook for Reproducible Data Science (Version v0.0.4). Zenodo. http://doi.org/10.5281/zenodo.3233986"
   },
   {
-    "objectID": "07-Realising-FAIR-Documentation.html",
-    "href": "07-Realising-FAIR-Documentation.html",
-    "title": "8  Realising FAIR: Data Documentation",
+    "objectID": "08-Realising-FAIR-Documentation.html",
+    "href": "08-Realising-FAIR-Documentation.html",
+    "title": "9  Realising FAIR: Data Documentation",
     "section": "",
     "text": "In this module, we will focus on the realisation of FAIR data. We will explore some best practices and tools that can facilitate the implementation of the FAIR principles. At the end of this module you should be able to: * Recognize the relevance of documentation and be familiar with diverse tools to document data * Identify relevant tools to advance towards FAIR data"
   },
   {
-    "objectID": "07-Realising-FAIR-Documentation.html#activities",
-    "href": "07-Realising-FAIR-Documentation.html#activities",
-    "title": "8  Realising FAIR: Data Documentation",
-    "section": "8.1 Activities",
-    "text": "8.1 Activities\n\nWatch the videos about ‘Data Documentation tools’ and complete the corresponding quizzes.\nWrite a readme file and share it on GitHub. Comment on another person’s readme and provide them with some tips to improve."
+    "objectID": "08-Realising-FAIR-Documentation.html#activities",
+    "href": "08-Realising-FAIR-Documentation.html#activities",
+    "title": "9  Realising FAIR: Data Documentation",
+    "section": "9.1 Activities",
+    "text": "9.1 Activities\n\nWatch the videos about ‘Data Documentation tools’ and complete the corresponding quizzes.\nWrite a readme file and share it on GitHub. Comment on another person’s readme and provide them with some tips to improve."
   },
   {
-    "objectID": "07-Realising-FAIR-Documentation.html#documentation-tools",
-    "href": "07-Realising-FAIR-Documentation.html#documentation-tools",
-    "title": "8  Realising FAIR: Data Documentation",
-    "section": "8.2 Documentation tools",
-    "text": "8.2 Documentation tools\nNow that you know more about how to organise your data and name your files, we can talk about documentation. Documentation is vital to making your work understandable, which is, in turn, necessary for your work to be reusable. Documentation is important not only for data, but for your projects in general, including the code you write. Your documentation should provide context for your project and its data and should, for example, provide information about the data collection, structure, and ownership.\nIn the next video we will talk about different methods and tools you can use to document projects, datasets, and code. We will also briefly talk about metadata. 04-2_Module-4_Video_Presentation_DataDocumentation]\n## Assignment: Create a ReadMe file Estimated time: 15 minutes\n\nDownload the Cornell template for a ReadMe file.\nAdapt and start filling in the template to describe a dataset of your project (you are allowed to delete and add new fields)\nIf you are unsure about the meaning of a component of the ReadMe file, go to: Guide to writing “ReadMe” style metadata - Cornell University\nWhen you’re finished, share your template on GitHub.\nPick a ReadMe file of someone else and read it. Provide feedback on the clarity of the ReadMe."
+    "objectID": "08-Realising-FAIR-Documentation.html#documentation-tools",
+    "href": "08-Realising-FAIR-Documentation.html#documentation-tools",
+    "title": "9  Realising FAIR: Data Documentation",
+    "section": "9.2 Documentation tools",
+    "text": "9.2 Documentation tools\nNow that you know more about how to organise your data and name your files, we can talk about documentation. Documentation is vital to making your work understandable, which is, in turn, necessary for your work to be reusable. Documentation is important not only for data, but for your projects in general, including the code you write. Your documentation should provide context for your project and its data and should, for example, provide information about the data collection, structure, and ownership.\nIn the next video we will talk about different methods and tools you can use to document projects, datasets, and code. We will also briefly talk about metadata. 04-2_Module-4_Video_Presentation_DataDocumentation]\n## Assignment: Create a ReadMe file Estimated time: 15 minutes\n\nDownload the Cornell template for a ReadMe file.\nAdapt and start filling in the template to describe a dataset of your project (you are allowed to delete and add new fields)\nIf you are unsure about the meaning of a component of the ReadMe file, go to: Guide to writing “ReadMe” style metadata - Cornell University\nWhen you’re finished, share your template on GitHub.\nPick a ReadMe file of someone else and read it. Provide feedback on the clarity of the ReadMe."
   },
   {
-    "objectID": "07-Realising-FAIR-Documentation.html#assignment-data-dictionaries-for-tabular-data---optional",
-    "href": "07-Realising-FAIR-Documentation.html#assignment-data-dictionaries-for-tabular-data---optional",
-    "title": "8  Realising FAIR: Data Documentation",
-    "section": "8.3 Assignment: Data Dictionaries (for tabular data - optional)",
-    "text": "8.3 Assignment: Data Dictionaries (for tabular data - optional)\nEstimated time: 15 minutes 1. Watch a video on data dictionaries 2. Go to a tabular dataset you are working on or have worked on. 3. In an excel spreadsheet, start creating your data dictionary. Ave the data dictionary in the same folder as the dataset you’re describing. List all the variables that you find in the dataset on column A. Then, add a clear and understandable description of that variable on column B.\nNote that you can also create a package for your data with Frictionless Data"
+    "objectID": "08-Realising-FAIR-Documentation.html#assignment-data-dictionaries-for-tabular-data---optional",
+    "href": "08-Realising-FAIR-Documentation.html#assignment-data-dictionaries-for-tabular-data---optional",
+    "title": "9  Realising FAIR: Data Documentation",
+    "section": "9.3 Assignment: Data Dictionaries (for tabular data - optional)",
+    "text": "9.3 Assignment: Data Dictionaries (for tabular data - optional)\nEstimated time: 15 minutes 1. Watch a video on data dictionaries 2. Go to a tabular dataset you are working on or have worked on. 3. In an excel spreadsheet, start creating your data dictionary. Ave the data dictionary in the same folder as the dataset you’re describing. List all the variables that you find in the dataset on column A. Then, add a clear and understandable description of that variable on column B.\nNote that you can also create a package for your data with Frictionless Data"
   },
   {
-    "objectID": "07-Realising-FAIR-Documentation.html#assignment-electronic-lab-notebooks-optional",
-    "href": "07-Realising-FAIR-Documentation.html#assignment-electronic-lab-notebooks-optional",
-    "title": "8  Realising FAIR: Data Documentation",
-    "section": "8.4 Assignment: Electronic Lab Notebooks (optional)",
-    "text": "8.4 Assignment: Electronic Lab Notebooks (optional)\nEstimated time: 20 minutes TU Delft offers two different Electronic Lab Notebooks, eLABjournal and Rspace. Watch the short videos introducing them: * eLABjournal intro (4:11 minutes): * RSpace intro (1:43 minutes):\nTry out one of the Electronic Lab Notebooks: * RSpace\nAnswer the following questions to see if the Electronic Lab Notebooks are helpful to your work: - Was there any specific feature in one or both of the ELNs that would be particularly useful? - What are the pros and cons that you can already think of when using an ELN for documenting your lab work?"
+    "objectID": "08-Realising-FAIR-Documentation.html#assignment-electronic-lab-notebooks-optional",
+    "href": "08-Realising-FAIR-Documentation.html#assignment-electronic-lab-notebooks-optional",
+    "title": "9  Realising FAIR: Data Documentation",
+    "section": "9.4 Assignment: Electronic Lab Notebooks (optional)",
+    "text": "9.4 Assignment: Electronic Lab Notebooks (optional)\nEstimated time: 20 minutes TU Delft offers two different Electronic Lab Notebooks, eLABjournal and Rspace. Watch the short videos introducing them: * eLABjournal intro (4:11 minutes): * RSpace intro (1:43 minutes):\nTry out one of the Electronic Lab Notebooks: * RSpace\nAnswer the following questions to see if the Electronic Lab Notebooks are helpful to your work: - Was there any specific feature in one or both of the ELNs that would be particularly useful? - What are the pros and cons that you can already think of when using an ELN for documenting your lab work?"
   },
   {
-    "objectID": "07-Realising-FAIR-Documentation.html#resources",
-    "href": "07-Realising-FAIR-Documentation.html#resources",
-    "title": "8  Realising FAIR: Data Documentation",
-    "section": "8.5 Resources",
-    "text": "8.5 Resources\n\nCornell University Research Data Management Service Group. Guide to writing “readme” style metadata. URL: https://data.research.cornell.edu/content/readme\nAlderliesten, René; Yao, L. (Liaojun) (2017): Mode I fatigue delamination growth in composite laminates with fibre bridging. 4TU.ResearchData. Dataset. https://doi.org/10.4121/uuid:6da548f6-f801-41b4-8d88-db9ae81f6913\nJupyterLab. Demo: The Lorenz Differential Equations. URL: https://mybinder.org/v2/gh/jupyterlab/jupyterlab-demo/master?urlpath=lab/tree/demo\nFrictionless Data. Data Package Creator. URL: https://create.frictionlessdata.io/\nSoftware Heritage. CodeMeta generator. URL: https://codemeta.github.io/codemeta-generator/\nElectronic Lab Notebooks at TU Delft\nFAIRsharing.org: standards, databases, policies.\n\n\n8.5.1 Quiz Data Documentation tools\nTest your knowledge after watching the ‘Data Documentation tools’ video. Indicate if the following sentences are True or False. 1. Metadata - data about data - is an important type of documentation (Answer: True) 2. README files can be used only to document whole projects (Answer: False) 3. Codebooks are used for the documentation of code (Answer: - False) 4. GitHub/GitLab and Jupyter notebooks are good tools for documenting code (Answer: True) 5. Metadata can be added to data as part of the file name, using a README file and using tags (Answer: True)"
+    "objectID": "08-Realising-FAIR-Documentation.html#resources",
+    "href": "08-Realising-FAIR-Documentation.html#resources",
+    "title": "9  Realising FAIR: Data Documentation",
+    "section": "9.5 Resources",
+    "text": "9.5 Resources\n\nCornell University Research Data Management Service Group. Guide to writing “readme” style metadata. URL: https://data.research.cornell.edu/content/readme\nAlderliesten, René; Yao, L. (Liaojun) (2017): Mode I fatigue delamination growth in composite laminates with fibre bridging. 4TU.ResearchData. Dataset. https://doi.org/10.4121/uuid:6da548f6-f801-41b4-8d88-db9ae81f6913\nJupyterLab. Demo: The Lorenz Differential Equations. URL: https://mybinder.org/v2/gh/jupyterlab/jupyterlab-demo/master?urlpath=lab/tree/demo\nFrictionless Data. Data Package Creator. URL: https://create.frictionlessdata.io/\nSoftware Heritage. CodeMeta generator. URL: https://codemeta.github.io/codemeta-generator/\nElectronic Lab Notebooks at TU Delft\nFAIRsharing.org: standards, databases, policies.\n\n\n9.5.1 Quiz Data Documentation tools\nTest your knowledge after watching the ‘Data Documentation tools’ video. Indicate if the following sentences are True or False. 1. Metadata - data about data - is an important type of documentation (Answer: True) 2. README files can be used only to document whole projects (Answer: False) 3. Codebooks are used for the documentation of code (Answer: - False) 4. GitHub/GitLab and Jupyter notebooks are good tools for documenting code (Answer: True) 5. Metadata can be added to data as part of the file name, using a README file and using tags (Answer: True)"
   },
   {
-    "objectID": "08-Realising-FAIR-Publication.html",
-    "href": "08-Realising-FAIR-Publication.html",
-    "title": "9  Courses",
+    "objectID": "09-Realising-FAIR-Publication.html",
+    "href": "09-Realising-FAIR-Publication.html",
+    "title": "10  Realising FAIR: Data Publication",
     "section": "",
-    "text": "There are many courses available to you within both UMass Dartmouth and the wider UMass system (as well as other options too!).\nDeciding on a course of study should be done as part of your planning with Gavin, and perhaps through discussions with your committee.\nRemember, this is your program and you should get out of it what you want, including the academic training of interest to you.\nThat said, there are some courses that most students in the Fay lab take (in part due to program requirements), so here we lay out some suggestions and provide resources for courses offered at both SMAST and elsewhere on campus that lab members have found useful.\nCourse of study should be selected with the program requirements in mind - as always, refer to the Intercampus Marine Science Program Manual for details."
+    "text": "References: ● Colavizza, G., Hrynaszkiewicz, I., Staden, I., Whitaker, K., & McGillivray, B. The citation advantage of linking publications to research data. PLOS ONE 15(4), e0230416 (2020). https://doi.org/10.1371/journal.pone.0230416 ● European Commission. Directorate-General for Research & Innovation. H2020 Programme Guidelines on FAIR Data Management in Horizon 2020. Version 3.0. 26 July 2016. URL:https://core.ac.uk/download/pdf/301306355.pdf Resources: ● For a list of data journals, both discipline-agnostic and discipline-specific see: https://the-turing-way.netlify.app/reproducible-research/rdm/rdm-article.html"
   },
   {
-    "objectID": "08-Realising-FAIR-Publication.html#suggested-course-schedule",
-    "href": "08-Realising-FAIR-Publication.html#suggested-course-schedule",
-    "title": "9  Courses",
-    "section": "9.1 Suggested course schedule",
-    "text": "9.1 Suggested course schedule\nStudents generally take a full time credit load of 9 credits per semester while they are fulfiling the credit requirements for the degree. An exception is in the first year of study when students take 10 credits to meet the graduate seminar credit program requirement.\nIn the Fay lab, we tend to take most (ALL?) of the quantitative courses on offer.\nSeveral SMAST courses are offered on an alternating basis every 2 years. Particularly for MS students, you may want to take advantage of courses when they are offered, even if this means taking them out of the natural ‘sequence’.\n\n9.1.1 Year 1\nMost students take many of their core program requirements (denoted below with [C] or [PC] for policy core courses) in the first year. An exception may be PhD students who save one of the Oceanography requirements for the 2nd year, depending on other courses.\nFall MAR 540: Introduction to Fisheries Science (Stokesbury)\nMAR 544: Stock Assessment of Fishery Resources (even years) (Cadrin)\nMAR 555: Introduction to Physical Oceanography (Cowles/Sundermeyer) [C]\nMAR 700: Graduate Seminar (Fisheries Oceanography) [C]\nSpring MAR 545: Biological Oceanography (Turner) [C]\nMAR 536: Biological Statistics II (Fay) (even years)\nMAR 530: Ecosystem-Based Fisheries Management (odd years) (Fay) [PC]\nMAR 510: Chemical Oceanography [C]\nMAR 700: Graduate Seminar (Fisheries Oceanography) [C]\nTypically, most remaining coursework is completed in years 2-3, but this will vary by individual.\n\n\n9.1.2 Other courses Gavin will strongly ‘suggest’ you take\nMAR 580: Advanced Population Modeling (Fay) (odd years)\n\n\n9.1.3 Other courses you might want to take\nFall MAR 525: US Ocean Policy (Pierce, fall even yrs) [PC] MAR 522: Science Communication for Research Scientists (Fay, fall) MAR 599: Bayesian Statistics and Hierarchical Modeling (Fay, fall even yrs) MAR 527: Fisheries Management (Cadrin, fall odd yrs) Spring BIO XXX: Biological Statistics I (Kozak, spring) MAR 622: Stock Identification Methods (Cadrin, spring even) Based on interest MAR 5XX: Marine Resource Economics (Griffin & DePiper) [PC] MAR 580: Conservation in World Marine Capture Fisheries (He) [PC] MAR 580: Fish Behavior & Conservation Engineering (He)\nMAR 580: Field Methods in Fisheries Research (Cadrin/Bethoney)\nOf course there are lots of other course offerings - these are the ones that lab members have taken more than once. For present semester offerings, see the SMAST website. Full list of current SMAST courses and for which courses meet IMS core course requirements can be found here.\n\n\n9.1.4 Other UMassD courses\nCheck out course offerings in Data Science (DSC), Mathematics (MTH), Public Policy (POL), Biology (BIO), Mechanical Engeering (MNE), and Computer Science (CSI) in the Graduate Handbook and on COIN.\n\n\n9.1.5 Courses outside of UMass Dartmouth\nSome IMS courses are offered at UMass Amherst, Boston, and Lowell.\nInstructions and forms for registering for intercampus courses can be found under the ‘Academics’ section of the SMAST Occupants page.\nJarrett Byrnes (UMass Boston) statistics & R courses\nBiol 607: An Introduction to Computational Data Analysis for Biology Introduction to Data Science for Biology\nYou may also want to talk with Gavin about taking courses at another institution, say to take advantage of even more stock assessment and statistical computing courses (e.g. Andre Punt’s courses at University of Washington."
-  },
-  {
-    "objectID": "09-Plan-for-RDM.html",
-    "href": "09-Plan-for-RDM.html",
-    "title": "10  Plan for RDM",
+    "objectID": "10-Plan-for-RDM.html",
+    "href": "10-Plan-for-RDM.html",
+    "title": "11  Plan for RDM",
     "section": "",
     "text": "Estimated time: 120 minutes\nWe will take a closer look at planning for RDM. In relation to this, data management plans and the tool DMPonline will be further explained. At the end of this module you should be able to:"
   },
   {
-    "objectID": "09-Plan-for-RDM.html#activities",
-    "href": "09-Plan-for-RDM.html#activities",
-    "title": "10  Plan for RDM",
-    "section": "10.1 Activities",
-    "text": "10.1 Activities\n\nWatch the animation video to learn what a data management plan (DMP) is\nWatch the videos of a TU Delft researcher and a Faculty data steward to learn why they think it is relevant to prepare a DMP\nCreate a DMP using DMP online"
+    "objectID": "10-Plan-for-RDM.html#activities",
+    "href": "10-Plan-for-RDM.html#activities",
+    "title": "11  Plan for RDM",
+    "section": "11.1 Activities",
+    "text": "11.1 Activities\n\nWatch the animation video to learn what a data management plan (DMP) is\nWatch the videos of a TU Delft researcher and a Faculty data steward to learn why they think it is relevant to prepare a DMP\nCreate a DMP using DMP online"
   },
   {
-    "objectID": "09-Plan-for-RDM.html#what-is-a-data-management-plan-dmp",
-    "href": "09-Plan-for-RDM.html#what-is-a-data-management-plan-dmp",
-    "title": "10  Plan for RDM",
-    "section": "10.2 What is a Data Management Plan (DMP)?",
-    "text": "10.2 What is a Data Management Plan (DMP)?\nWhat exactly is a data management plan? Watch the video for an introduction to data management plans.\nScript adapted from: Holmstrand, K.F., den Boer, S.P.A., Vlachos, E., Martínez-Lavanchy, P.M., Hansen, K.K. (Eds.) (2019). Research Data Management (eLearning course). doi: 10.11581/dtu:00000047"
+    "objectID": "10-Plan-for-RDM.html#what-is-a-data-management-plan-dmp",
+    "href": "10-Plan-for-RDM.html#what-is-a-data-management-plan-dmp",
+    "title": "11  Plan for RDM",
+    "section": "11.2 What is a Data Management Plan (DMP)?",
+    "text": "11.2 What is a Data Management Plan (DMP)?\nWhat exactly is a data management plan? Watch the video for an introduction to data management plans.\nScript adapted from: Holmstrand, K.F., den Boer, S.P.A., Vlachos, E., Martínez-Lavanchy, P.M., Hansen, K.K. (Eds.) (2019). Research Data Management (eLearning course). doi: 10.11581/dtu:00000047"
   },
   {
-    "objectID": "09-Plan-for-RDM.html#why-create-a-data-management-plan",
-    "href": "09-Plan-for-RDM.html#why-create-a-data-management-plan",
-    "title": "10  Plan for RDM",
-    "section": "10.3 Why create a Data Management Plan?",
-    "text": "10.3 Why create a Data Management Plan?\nWhy is it necessary to create a data management plan? Watch the following video in which a researcher and data steward talk about the importance of creating a data management plan.\n\nNatalia Romero Herrera talking about the benefits of writing a DMP\nEsther Plomp talking about the benefits of writing a DMP"
+    "objectID": "10-Plan-for-RDM.html#why-create-a-data-management-plan",
+    "href": "10-Plan-for-RDM.html#why-create-a-data-management-plan",
+    "title": "11  Plan for RDM",
+    "section": "11.3 Why create a Data Management Plan?",
+    "text": "11.3 Why create a Data Management Plan?\nWhy is it necessary to create a data management plan? Watch the following video in which a researcher and data steward talk about the importance of creating a data management plan.\n\nNatalia Romero Herrera talking about the benefits of writing a DMP\nEsther Plomp talking about the benefits of writing a DMP"
   },
   {
-    "objectID": "09-Plan-for-RDM.html#introduction-to-dmp-online",
-    "href": "09-Plan-for-RDM.html#introduction-to-dmp-online",
-    "title": "10  Plan for RDM",
-    "section": "10.4 Introduction to DMP online",
-    "text": "10.4 Introduction to DMP online\nThis introduction will provide you with a step-by-step guide for creating a DMPonline account and with an explanation of its main features. You will create your own account and explore the TU Delft template. With DMPonline you can:\n\nWrite your plan and easily update it throughout the lifecycle of your project;\nShare your plan with internal and external collaborators and ask for feedback from your Faculty Data Steward;\nDownload your plan in a variety of formats."
+    "objectID": "10-Plan-for-RDM.html#introduction-to-dmp-online",
+    "href": "10-Plan-for-RDM.html#introduction-to-dmp-online",
+    "title": "11  Plan for RDM",
+    "section": "11.4 Introduction to DMP online",
+    "text": "11.4 Introduction to DMP online\nThis introduction will provide you with a step-by-step guide for creating a DMPonline account and with an explanation of its main features. You will create your own account and explore the TU Delft template. With DMPonline you can:\n\nWrite your plan and easily update it throughout the lifecycle of your project;\nShare your plan with internal and external collaborators and ask for feedback from your Faculty Data Steward;\nDownload your plan in a variety of formats."
   },
   {
-    "objectID": "09-Plan-for-RDM.html#activity---create-a-dmp",
-    "href": "09-Plan-for-RDM.html#activity---create-a-dmp",
-    "title": "10  Plan for RDM",
-    "section": "10.5 Activity - Create a DMP:",
-    "text": "10.5 Activity - Create a DMP:\nIn this activity you will be creating an account for DMPonline, and use the TU Delft template to create a plan for your project. In the following document, DMPonline user guide, you will find a clear step-by-step guide to complete this activity. We expect you to:\n\nCreate an account in DMPonline\n‘Create a new plan’ for your project choosing ‘Delft University of Technology’ as the primary research organisation and tick ‘No funder associated with this plan or my funder is not listed’ in the ‘primary funding organisation’\nFill in the ‘Project Details’ according to your project.\nGo to ‘Write Plan’\nGo back to your slides or papers and post-it’s of your data flow map of week 1 and 2 and use the information in there to fill in the questions of the data management plan. If appropriate, you can use the ‘Additional Information’ box in the template to add as many details as possible according to your data flow map.\nIf you don’t know how to answer any of the questions please let us know in Issue ? on GitHub."
+    "objectID": "10-Plan-for-RDM.html#activity---create-a-dmp",
+    "href": "10-Plan-for-RDM.html#activity---create-a-dmp",
+    "title": "11  Plan for RDM",
+    "section": "11.5 Activity - Create a DMP:",
+    "text": "11.5 Activity - Create a DMP:\nIn this activity you will be creating an account for DMPonline, and use the TU Delft template to create a plan for your project. In the following document, DMPonline user guide, you will find a clear step-by-step guide to complete this activity. We expect you to:\n\nCreate an account in DMPonline\n‘Create a new plan’ for your project choosing ‘Delft University of Technology’ as the primary research organisation and tick ‘No funder associated with this plan or my funder is not listed’ in the ‘primary funding organisation’\nFill in the ‘Project Details’ according to your project.\nGo to ‘Write Plan’\nGo back to your slides or papers and post-it’s of your data flow map of week 1 and 2 and use the information in there to fill in the questions of the data management plan. If appropriate, you can use the ‘Additional Information’ box in the template to add as many details as possible according to your data flow map.\nIf you don’t know how to answer any of the questions please let us know in Issue ? on GitHub."
   },
   {
-    "objectID": "09-Plan-for-RDM.html#discussion---questions-reflections-about-your-dmp-mandatory",
-    "href": "09-Plan-for-RDM.html#discussion---questions-reflections-about-your-dmp-mandatory",
-    "title": "10  Plan for RDM",
-    "section": "10.6 Discussion - Questions & Reflections about your DMP (mandatory)",
-    "text": "10.6 Discussion - Questions & Reflections about your DMP (mandatory)\nPlease share your questions and/or reflections that came up while filling in the DMP of your project. For example:\n\nWere you able to answer all the questions on the DMP template using your Data Flow Map?\nIf not, which sections were you not able to answer? What kind of additional information would you need?"
+    "objectID": "10-Plan-for-RDM.html#discussion---questions-reflections-about-your-dmp-mandatory",
+    "href": "10-Plan-for-RDM.html#discussion---questions-reflections-about-your-dmp-mandatory",
+    "title": "11  Plan for RDM",
+    "section": "11.6 Discussion - Questions & Reflections about your DMP (mandatory)",
+    "text": "11.6 Discussion - Questions & Reflections about your DMP (mandatory)\nPlease share your questions and/or reflections that came up while filling in the DMP of your project. For example:\n\nWere you able to answer all the questions on the DMP template using your Data Flow Map?\nIf not, which sections were you not able to answer? What kind of additional information would you need?"
   },
   {
-    "objectID": "09-Plan-for-RDM.html#assignment---reflection-on-your-data-flow-map",
-    "href": "09-Plan-for-RDM.html#assignment---reflection-on-your-data-flow-map",
-    "title": "10  Plan for RDM",
-    "section": "10.7 Assignment - Reflection on your Data Flow Map",
-    "text": "10.7 Assignment - Reflection on your Data Flow Map\nGo back to their Data Flow Map and reflect on your challenges, share experiences and tips with their peers and decide on the next steps to start implementing what they learned in their daily work with data."
+    "objectID": "10-Plan-for-RDM.html#assignment---reflection-on-your-data-flow-map",
+    "href": "10-Plan-for-RDM.html#assignment---reflection-on-your-data-flow-map",
+    "title": "11  Plan for RDM",
+    "section": "11.7 Assignment - Reflection on your Data Flow Map",
+    "text": "11.7 Assignment - Reflection on your Data Flow Map\nGo back to their Data Flow Map and reflect on your challenges, share experiences and tips with their peers and decide on the next steps to start implementing what they learned in their daily work with data."
   },
   {
-    "objectID": "10-Wrap-up.html",
-    "href": "10-Wrap-up.html",
-    "title": "11  Wrap Up",
+    "objectID": "11-Wrap-up.html",
+    "href": "11-Wrap-up.html",
+    "title": "12  Wrap Up",
     "section": "",
     "text": "In the past modules we focused on relevant topics concerning RDM. Starting with creating awareness about RDM, we have seen the essentials of RDM, the importance of FAIR data and how to create a planning for RDM. In this final module we give the opportunity to reflect on the course and share remaining questions.\nAt the end of this course you will be able to: * Realise the important role that good data management plays in research * Identify different types of research data and recognize the regulations, policies and/or legal requirements associated with them * List the main components of the FAIR data principles and connect them to your own research workflows * Employ the acquired knowledge to design an efficient research data management strategy for your project according to best practices"
   },
   {
-    "objectID": "10-Wrap-up.html#assignment",
-    "href": "10-Wrap-up.html#assignment",
-    "title": "11  Wrap Up",
-    "section": "11.1 Assignment",
-    "text": "11.1 Assignment\nThis week will conclude with the final class 3. Make sure to submit [the assignment] before the meeting as you will present it in groups during the class. See you there!"
+    "objectID": "11-Wrap-up.html#assignment",
+    "href": "11-Wrap-up.html#assignment",
+    "title": "12  Wrap Up",
+    "section": "12.1 Assignment",
+    "text": "12.1 Assignment\nThis week will conclude with the final class 3. Make sure to submit [the assignment] before the meeting as you will present it in groups during the class. See you there!"
   },
   {
-    "objectID": "10-Wrap-up.html#class-3",
-    "href": "10-Wrap-up.html#class-3",
-    "title": "11  Wrap Up",
-    "section": "11.2 Class 3:",
-    "text": "11.2 Class 3:\n\nWe will summarise some of the main takeaways of the course.\nYou will have the opportunity to discuss what you learned from the data flow maps.\nYour instructor will answer any final question you might have. [You can find the programme and activities of the virtual class in the following files: 06-1_Module-6_Virtual_Class_Presentation and 06-2_Module-6_Virtual_Class_Description_of_activities]"
+    "objectID": "11-Wrap-up.html#class-3",
+    "href": "11-Wrap-up.html#class-3",
+    "title": "12  Wrap Up",
+    "section": "12.2 Class 3:",
+    "text": "12.2 Class 3:\n\nWe will summarise some of the main takeaways of the course.\nYou will have the opportunity to discuss what you learned from the data flow maps.\nYour instructor will answer any final question you might have. [You can find the programme and activities of the virtual class in the following files: 06-1_Module-6_Virtual_Class_Presentation and 06-2_Module-6_Virtual_Class_Description_of_activities]"
   },
   {
-    "objectID": "10-Wrap-up.html#feedback",
-    "href": "10-Wrap-up.html#feedback",
-    "title": "11  Wrap Up",
-    "section": "11.3 Feedback",
-    "text": "11.3 Feedback"
+    "objectID": "11-Wrap-up.html#feedback",
+    "href": "11-Wrap-up.html#feedback",
+    "title": "12  Wrap Up",
+    "section": "12.3 Feedback",
+    "text": "12.3 Feedback"
   },
   {
-    "objectID": "10-Wrap-up.html#other-courses",
-    "href": "10-Wrap-up.html#other-courses",
-    "title": "11  Wrap Up",
-    "section": "11.4 Other Courses",
-    "text": "11.4 Other Courses\n\nCheck out the RDM website of the Library for an overview of what other courses are available!\nOpen Science MOOC: Sharing your research with the world\nOpen Life Science program"
-  },
-  {
-    "objectID": "11-computing.html",
-    "href": "11-computing.html",
-    "title": "12  Computing resources",
-    "section": "",
-    "text": "Because our work is quantitative, research computing skills are an important part of your toolset. Most of our team uses the open source software R for a lot of their workflow, though you probably want to also learn an additional tool during your time in the lab (for many, the natural choice here is TMB and/or ADMB, as these C++ template languages are the basis for many statistical population dynamics models in fisheries stock assessment).\nFortunuately, there are heaps of resources (including your labmates!) to help you with your learning."
-  },
-  {
-    "objectID": "11-computing.html#overview-of-computing-at-umassd",
-    "href": "11-computing.html#overview-of-computing-at-umassd",
-    "title": "12  Computing resources",
-    "section": "12.1 Overview of Computing at UMassD",
-    "text": "12.1 Overview of Computing at UMassD\nAs a student of UMass Dartmouth, the Computing and Information Technology Services (CITS) provides access to essential resources and help when you need it. Information on how to set up your UMass login and access the UMassD portal can be found on the New Students UMassD CITS webpage. A list of available programs and licensed software can be found on the Software Licensing page."
-  },
-  {
-    "objectID": "11-computing.html#smast-computing-facilities",
-    "href": "11-computing.html#smast-computing-facilities",
-    "title": "12  Computing resources",
-    "section": "12.2 SMAST computing facilities",
-    "text": "12.2 SMAST computing facilities\nOnce you are set up with your UMass login, you will need to submit an SMAST IT Access Request Form to gain access to the SMAST Server. This form can be found under the SMAST Occupants page, Information Technology section through the UMassD portal. If you have additional questions or issues, you can email SMAST IT through smastsupport@umassd.edu."
-  },
-  {
-    "objectID": "11-computing.html#administrator-privileges",
-    "href": "11-computing.html#administrator-privileges",
-    "title": "12  Computing resources",
-    "section": "12.3 Administrator Privileges",
-    "text": "12.3 Administrator Privileges\nAs your computer is your main piece of lab research equipment, it is important to be able to use it effectively. Please ensure you are familiar with procedures for and have the ability to make changes on your computer as an administrator."
-  },
-  {
-    "objectID": "11-computing.html#remote-meetings-via-zoom",
-    "href": "11-computing.html#remote-meetings-via-zoom",
-    "title": "12  Computing resources",
-    "section": "12.4 Remote meetings via Zoom",
-    "text": "12.4 Remote meetings via Zoom\nUMassD uses Zoom as its conference call software solution. Everyone should activate their Zoom Pro account which is part of the university license. Information on how to set this up can be found here."
-  },
-  {
-    "objectID": "11-computing.html#collaborative-software",
-    "href": "11-computing.html#collaborative-software",
-    "title": "12  Computing resources",
-    "section": "12.5 Collaborative software",
-    "text": "12.5 Collaborative software\nFor writing, we collaborate using GoogleDocs. For code and analyses we encourage the use of version control (see Wilson et al. paper for what this could look like), stepping toward the use of git and github for sharing code and analyses. We believe there are many advantages of using these tools to help simplify workflows and shift cognitive load to the science being done rather than on organization and bookkeeping (which computers are good at). Recognizing that these tools represent a learning curve, we provide training in their use, and also encourage alternatives for sharing and documenting work. For example, code and analyses may also be shared among collaborators using a Google Drive folder."
-  },
-  {
-    "objectID": "11-computing.html#backups-and-set-up-to-lab-storage-server",
-    "href": "11-computing.html#backups-and-set-up-to-lab-storage-server",
-    "title": "12  Computing resources",
-    "section": "12.6 Backups and set up to Lab storage server",
-    "text": "12.6 Backups and set up to Lab storage server\nThe average life expectancy of a hard drive is less than the duration of most graduate programs. Thus it is critical to ensure your data and work are backed up regularly. You may have personal backup solutions (e.g. through Dropbox, Google Drive, etc.) but the lab has dedicated storage space on a university server that is backed up in multiple locations. Your data should be backed up on here. For information on logging on and accessing this, see information provided on a GitHub issue"
-  },
-  {
-    "objectID": "11-computing.html#learnr",
-    "href": "11-computing.html#learnr",
-    "title": "12  Computing resources",
-    "section": "12.7 Introductory R learning resources",
-    "text": "12.7 Introductory R learning resources\nWelcome to R! There are so many learning resources out there it can feel a little overwhelming in terms of what to choose! To get you set up and started, Happy Git and Github for the useR is a great resource, and is created by the same authors as the now-legendary stat545.com course. Their resources are extremely comprehensive and they have a fantastic Intro R course, especially for those who will be using R for doing statistics.\nRight now, we REALLY like this short intro course by @juliesquid & @allisonhorst. They teach a lot of the workflow and tools around using R right from the get go, which we think is more helpful than knowing how to do all the things. The (excellent) materials are thoughtfully put together, link to a ton of other great resources, and just like the online #rstats community in general, are super supportive of new learners.\nWe also really like: * Teacup Giraffes R and statistics materials from Desirée De Leon and Hasse Walum.\n* Data Science in a Box course by Mine Çetinkaya-Rundel, and * Adventures in R by Kelly Bodwin.\nIf you want a book to work from/through, R for Data Science is highly recommended. (book is free online)\nThe R Studio Education team have assembled a phenomenal array of courses, tutorials, and other materials for learning R, and for many types of data analyses and modeling using R. These are top notch and so thoughtfully put together. There is something for learners at all levels.\nA plug for the online R community. Follow the hashtag #rstats, & also check out accounts @RLadiesGlobal & @R4dsCommunity. The weekly #TidyTuesday social coding project is also a great way to practice your growing R skills. Have fun!\nThe R4dsCommunity Slack is a briliant resource for getting help to your R questions and finding tutorials. They also hold online Office Hours where you can get help with R from a real human.\nThe RStudio Community is a great go-to.\nLearn R from within R with interactive sessions using swirlstats.com.\nThe carpentries R lessons are also a fab resource."
-  },
-  {
-    "objectID": "11-computing.html#tmb-and-admb",
-    "href": "11-computing.html#tmb-and-admb",
-    "title": "12  Computing resources",
-    "section": "12.8 TMB and ADMB",
-    "text": "12.8 TMB and ADMB\n[resources detail]"
+    "objectID": "11-Wrap-up.html#other-courses",
+    "href": "11-Wrap-up.html#other-courses",
+    "title": "12  Wrap Up",
+    "section": "12.4 Other Courses",
+    "text": "12.4 Other Courses\n\nCheck out the RDM website of the Library for an overview of what other courses are available!\nOpen Science MOOC: Sharing your research with the world\nOpen Life Science program"
   },
   {
     "objectID": "12-umassd-resources.html",
