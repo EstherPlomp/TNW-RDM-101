@@ -11,7 +11,7 @@
     "href": "01-Introduction.html",
     "title": "2  Introduction",
     "section": "",
-    "text": "Estimated time: 15 min\nThis course provides PhD candidates with the essential knowledge and the core skills to manage research data according to best practice. You will be able to integrate good data management practices within your workflow from the beginning of your projects. The application of this knowledge to your research will allow you to reflect on how to work efficiently and in a reproducible manner with your research data, while complying with funders and institutional requirements.\nThis course contains a lot of self-paced elements. Make sure to plan your time accordingly. You will get most out of this course if you keep an eye on the Discussions with your peers throughout the week. Do you run into any problems in scheduling time? Let us know!"
+    "text": "Estimated time: 15 minutes\nThis course provides PhD candidates with the essential knowledge and the core skills to manage research data according to best practice. You will be able to integrate good data management practices within your workflow from the beginning of your projects. The application of this knowledge to your research will allow you to reflect on how to work efficiently and in a reproducible manner with your research data, while complying with funders and institutional requirements.\nThis course contains a lot of self-paced elements. Make sure to plan your time accordingly. You will get most out of this course if you keep an eye on the Discussions with your peers throughout the week. Do you run into any problems in scheduling time? Let us know!"
   },
   {
     "objectID": "01-Introduction.html#relevant-dates",
@@ -32,14 +32,14 @@
     "href": "01-Introduction.html#code-of-conduct",
     "title": "2  Introduction",
     "section": "2.3 Code of Conduct",
-    "text": "2.3 Code of Conduct\n\nEveryone is learning, including instructors - please have patience and respect towards each other!\nUse welcoming and inclusive language when interacting with your peers and instructors\nBe respectful of different viewpoints and experiences\nProvide and gracefully accept constructive criticism\n\nLink to DIRECT + vertrouwenspersonen Delft"
+    "text": "2.3 Code of Conduct\n\nEveryone is learning, including instructors - please have patience and respect towards each other!\nUse welcoming and inclusive language when interacting with your peers and instructors\nBe respectful of different viewpoints and experiences\nProvide and gracefully accept constructive criticism\n\nSee also the TU Delft Code of Conduct.\nIf at any point you’re confronted with undesirable behaviour, please reach out to the instructor or the TU Delft confidential advisors."
   },
   {
     "objectID": "01-Introduction.html#assessment-criteria",
     "href": "01-Introduction.html#assessment-criteria",
     "title": "2  Introduction",
     "section": "2.4 Assessment criteria",
-    "text": "2.4 Assessment criteria\nIn order to receive the 1.5 Graduate School Credits you have to:\n\nComplete all activities\nInteract with all course activities ( topics & quizzes)\nParticipate in all discussions (Q&A are optional)\n\nSubmit assignments (data flow maps) in weeks 1 and 2 and the assignment of week 3 (reflection on RDM strategy).\n\nAttend and participate in all Class Sessions\n\nNote: you will not be graded on your assignments. Use the class sessions and Discussions to gather feedback."
+    "text": "2.4 Assessment criteria\nIn order to receive the 1.5 Graduate School Credits you have to:\n\nComplete all activities\nInteract with all course activities ( topics & quizzes)\nParticipate in all discussions (Q&A are optional)\n\nSubmit assignments (data flow maps) in weeks 1 and 2 and the assignment of week 3 (reflection on RDM strategy).\nWrite a Data Management Plan using DMPonline\n\nAttend and participate in all Class Sessions\n\n<<<<<<< HEAD Note: you will not be graded on your assignments. Use the class sessions and Discussions to gather feedback. ======= Note: you will not be graded on your assignments. Use the class sessions and Discussions to gather feedback. >>>>>>> 08c625f8cd8ee62a943c7c46cbb4f0169c56084d"
   },
   {
     "objectID": "01-Introduction.html#support",
@@ -277,7 +277,7 @@
     "href": "09-Plan-for-RDM.html",
     "title": "10  Plan for RDM",
     "section": "",
-    "text": "We will take a closer look at planning for RDM. In relation to this, data management plans and the tool DMPonline will be further explained. At the end of this module you should be able to: * Recognize the relevance of planning research data management * Get familiar with the concept of Data Management Plans and their format * Create a data management plan using the appropriate tool * Recognize the value of creating a Data Management Plan"
+    "text": "Estimated time: 120 minutes\nWe will take a closer look at planning for RDM. In relation to this, data management plans and the tool DMPonline will be further explained. At the end of this module you should be able to:"
   },
   {
     "objectID": "09-Plan-for-RDM.html#activities",
@@ -298,28 +298,28 @@
     "href": "09-Plan-for-RDM.html#why-create-a-data-management-plan",
     "title": "10  Plan for RDM",
     "section": "10.3 Why create a Data Management Plan?",
-    "text": "10.3 Why create a Data Management Plan?\nWhy is it necessary to create a data management plan? Watch the following video in which a researcher and data steward talk about the importance of creating a data management plan. * Natalia Romero Herrera talking about the benefits of writing a DMP [Embedded video: https://youtu.be/2GSEqmFxNrc ] * Esther Plomp talking about the benefits of writing a DMP"
+    "text": "10.3 Why create a Data Management Plan?\nWhy is it necessary to create a data management plan? Watch the following video in which a researcher and data steward talk about the importance of creating a data management plan.\n\nNatalia Romero Herrera talking about the benefits of writing a DMP\nEsther Plomp talking about the benefits of writing a DMP"
   },
   {
     "objectID": "09-Plan-for-RDM.html#introduction-to-dmp-online",
     "href": "09-Plan-for-RDM.html#introduction-to-dmp-online",
     "title": "10  Plan for RDM",
     "section": "10.4 Introduction to DMP online",
-    "text": "10.4 Introduction to DMP online\nThis introduction will provide you with a step-by-step guide for creating a DMPonline account and with an explanation of its main features. You will create your own account and explore the TU Delft template. With DMPonline you can: ● Write your plan and easily update it throughout the lifecycle of your project; ● Share your plan with internal and external collaborators and ask for feedback from your Faculty Data Steward; ● Download your plan in a variety of formats."
+    "text": "10.4 Introduction to DMP online\nThis introduction will provide you with a step-by-step guide for creating a DMPonline account and with an explanation of its main features. You will create your own account and explore the TU Delft template. With DMPonline you can:\n\nWrite your plan and easily update it throughout the lifecycle of your project;\nShare your plan with internal and external collaborators and ask for feedback from your Faculty Data Steward;\nDownload your plan in a variety of formats."
   },
   {
     "objectID": "09-Plan-for-RDM.html#activity---create-a-dmp",
     "href": "09-Plan-for-RDM.html#activity---create-a-dmp",
     "title": "10  Plan for RDM",
     "section": "10.5 Activity - Create a DMP:",
-    "text": "10.5 Activity - Create a DMP:\nIn this activity you will be creating an account for DMPonline, and use the TU Delft template to create a plan for your project. In the following document, DMPonline user guide, you will find a clear step-by-step guide to complete this activity. We expect you to: 1. Create an account in DMPonline 2. ‘Create a new plan’ for your project choosing ‘Delft University of Technology’ as the primary research organisation a. Tick ‘No funder associated with this plan or my funder is not listed’ in the ‘primary funding organisation’ 3. Fill in the ‘Project Details’ according to your project. 4. Go to ‘Write Plan’ 5. Go back to your slides or papers and post-it’s of your data flow map of week 1 and 2 and use the information in there to fill in the questions of the data management plan. If appropriate, you can use the ‘Additional Information’ box in the template to add as many details as possible according to your data flow map. 6. If you don’t know how to answer any of the questions please let us know in Issue ? on GitHub."
+    "text": "10.5 Activity - Create a DMP:\nIn this activity you will be creating an account for DMPonline, and use the TU Delft template to create a plan for your project. In the following document, DMPonline user guide, you will find a clear step-by-step guide to complete this activity. We expect you to:\n\nCreate an account in DMPonline\n‘Create a new plan’ for your project choosing ‘Delft University of Technology’ as the primary research organisation and tick ‘No funder associated with this plan or my funder is not listed’ in the ‘primary funding organisation’\nFill in the ‘Project Details’ according to your project.\nGo to ‘Write Plan’\nGo back to your slides or papers and post-it’s of your data flow map of week 1 and 2 and use the information in there to fill in the questions of the data management plan. If appropriate, you can use the ‘Additional Information’ box in the template to add as many details as possible according to your data flow map.\nIf you don’t know how to answer any of the questions please let us know in Issue ? on GitHub."
   },
   {
     "objectID": "09-Plan-for-RDM.html#discussion---questions-reflections-about-your-dmp-mandatory",
     "href": "09-Plan-for-RDM.html#discussion---questions-reflections-about-your-dmp-mandatory",
     "title": "10  Plan for RDM",
     "section": "10.6 Discussion - Questions & Reflections about your DMP (mandatory)",
-    "text": "10.6 Discussion - Questions & Reflections about your DMP (mandatory)\nPlease share your questions and/or reflections that came up while filling in the DMP of your project. For example: * Were you able to answer all the questions on the DMP template using your Data Flow Map? * If not, which sections were you not able to answer? What kind of additional information would you need?"
+    "text": "10.6 Discussion - Questions & Reflections about your DMP (mandatory)\nPlease share your questions and/or reflections that came up while filling in the DMP of your project. For example:\n\nWere you able to answer all the questions on the DMP template using your Data Flow Map?\nIf not, which sections were you not able to answer? What kind of additional information would you need?"
   },
   {
     "objectID": "09-Plan-for-RDM.html#assignment---reflection-on-your-data-flow-map",
