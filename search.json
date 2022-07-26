@@ -368,14 +368,28 @@
     "href": "10-Realising-FAIR-Publication.html#data-access",
     "title": "11  Realising FAIR: Data Publication",
     "section": "11.1 Data access",
-    "text": "11.1 Data access\nIt is important to reflect about data access at the beginning of your project to ensure that the right people have access to the right data.\nOne way to make the data of your project Findable and Accessible to a broad audience is to publish it in a data repository. Data repositories help you comply with the FAIR principles and make it easy to apply some of their main elements, such as Licences and Persistent identifiers.\nIn the next video we will delve into data access during and after a research project. You will also be introduced to the topic of data publication and data repositories.\n\n04-3_Module-4_Video_Presentation_DataAccess_DataPublication (9 minutes, audio will play automatically in full presentation mode)\n\nTU Delft researchers can always use the 4TU.ResearchData repository (free up to 1 TB per researcher per year)\n\nFor more information, see the (How to videos on the 4TU.ResearchData YouTube channel\n\nIf you would like to look for a disciplinary specific data repository, you can use:\n\nre3data.org\nfairsharing.org\n\nYou can also share your data and code via a data or software article.\n\nlist of data journals with TU Delft resources indicated\nIn which journal should I publish my software?\n\nfor example: the Journal of Open Source Software (JOSS)"
+    "text": "11.1 Data access\nIt is important to reflect about data access at the beginning of your project to ensure that the right people have access to the right data.\nOne way to make the data of your project Findable and Accessible to a broad audience is to publish it in a data repository. Data repositories help you comply with the FAIR principles and make it easy to apply some of their main elements, such as Licences and Persistent identifiers.\nIn the next video we will delve into data access during and after a research project. You will also be introduced to the topic of data publication and data repositories.\n\n04-3_Module-4_Video_Presentation_DataAccess_DataPublication (9 minutes, audio will play automatically in full presentation mode)\n\nTU Delft researchers can always use the 4TU.ResearchData repository (free up to 1 TB per researcher per year)\n\nFor more information, see the (How to videos on the 4TU.ResearchData YouTube channel\n\nIf you would like to look for a disciplinary specific data repository, you can use:\n\nre3data.org\nfairsharing.org"
+  },
+  {
+    "objectID": "10-Realising-FAIR-Publication.html#datasoftware-articles",
+    "href": "10-Realising-FAIR-Publication.html#datasoftware-articles",
+    "title": "11  Realising FAIR: Data Publication",
+    "section": "11.2 Data/Software Articles",
+    "text": "11.2 Data/Software Articles\nYou can also share your data and code via a data or software article.\n\nlist of data journals with TU Delft resources indicated\nIn which journal should I publish my software?\n\nfor example: the Journal of Open Source Software (JOSS)"
+  },
+  {
+    "objectID": "10-Realising-FAIR-Publication.html#why-not-the-supplemental-materials",
+    "href": "10-Realising-FAIR-Publication.html#why-not-the-supplemental-materials",
+    "title": "11  Realising FAIR: Data Publication",
+    "section": "11.3 Why not the supplemental materials?",
+    "text": "11.3 Why not the supplemental materials?\n\nCheck this slide on some downsides of sharing your data/code in supplemental materials"
   },
   {
     "objectID": "10-Realising-FAIR-Publication.html#references",
     "href": "10-Realising-FAIR-Publication.html#references",
     "title": "11  Realising FAIR: Data Publication",
-    "section": "11.2 References:",
-    "text": "11.2 References:\n\nColavizza, G., Hrynaszkiewicz, I., Staden, I., Whitaker, K., & McGillivray, B. The citation advantage of linking publications to research data. PLOS ONE 15(4), e0230416 (2020). https://doi.org/10.1371/journal.pone.0230416\nEuropean Commission. Directorate-General for Research & Innovation. H2020 Programme Guidelines on FAIR Data Management in Horizon 2020. Version 3.0. 26 July 2016. URL:https://core.ac.uk/download/pdf/301306355.pdf Resources:"
+    "section": "11.4 References:",
+    "text": "11.4 References:\n\nColavizza, G., Hrynaszkiewicz, I., Staden, I., Whitaker, K., & McGillivray, B. The citation advantage of linking publications to research data. PLOS ONE 15(4), e0230416 (2020). https://doi.org/10.1371/journal.pone.0230416\nEuropean Commission. Directorate-General for Research & Innovation. H2020 Programme Guidelines on FAIR Data Management in Horizon 2020. Version 3.0. 26 July 2016. URL:https://core.ac.uk/download/pdf/301306355.pdf Resources:"
   },
   {
     "objectID": "11-Assignment-Data-Flow-Map-2.html",
@@ -452,7 +466,7 @@
     "href": "12-Plan-for-RDM.html#why-create-a-data-management-plan",
     "title": "13  Plan for RDM",
     "section": "13.3 Why create a Data Management Plan?",
-    "text": "13.3 Why create a Data Management Plan?\nWhy is it necessary to create a data management plan? Watch the following video in which a researcher and data steward talk about the importance of creating a data management plan.\n\nNatalia Romero Herrera talking about the benefits of writing a DMP\nEsther Plomp talking about the benefits of writing a DMP\n\nSee the next module for the assignment to create your DMP."
+    "text": "13.3 Why create a Data Management Plan?\nWhy is it necessary to create a data management plan? Watch the following video in which a researcher and data steward talk about the importance of creating a data management plan.\n\nNatalia Romero Herrera talking about the benefits of writing a DMP\nEsther Plomp talking about the benefits of writing a DMP\n\n\nSee the next module for the assignment to create your DMP."
   },
   {
     "objectID": "13-Assignment-DMP.html",
@@ -515,6 +529,6 @@
     "href": "16-Wrap-up.html#other-courses",
     "title": "17  Wrap Up",
     "section": "17.2 Other Courses",
-    "text": "17.2 Other Courses\n\nCheck out the RDM website of the Library for an overview of what other courses are available!\nOpen Science MOOC: Sharing your research with the world\nOpen Life Science program which can be attended for 5 Discipline Specific Graduate School . For the course description and more details, see intranet."
+    "text": "17.2 Other Courses\n\nCheck out the RDM website of the Library for an overview of what other courses are available!\nOpen Science MOOC: Sharing your research with the world\nOpen Life Science program which can be attended for 5 Discipline Specific Graduate School. For the course description and more details, see intranet."
   }
 ]
