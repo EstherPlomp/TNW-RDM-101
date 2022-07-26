@@ -100,16 +100,16 @@
   {
     "objectID": "04-Class-1.html",
     "href": "04-Class-1.html",
-    "title": "5  Class 2",
+    "title": "5  Class 1",
     "section": "",
-    "text": "This week will conclude with the final class 3. Make sure to submit [the assignment] before the meeting as you will present it in groups during the class. See you there!"
+    "text": "Watch the Presentation (before class 1) - Why is RDM important?\nRead Markowetz 2015: Five selfish reasons to work reproducibly OR Watch the presentation (50 min) before class 1\nSet up a GitHub account (see Assignment 1) before class 1"
   },
   {
-    "objectID": "04-Class-1.html#class-3",
-    "href": "04-Class-1.html#class-3",
-    "title": "5  Class 2",
-    "section": "5.2 Class 3:",
-    "text": "5.2 Class 3:\n\nWe will summarise some of the main takeaways of the course.\nYou will have the opportunity to discuss what you learned from the data flow maps.\nYour instructor will answer any final question you might have. [You can find the programme and activities of the virtual class in the following files: 06-1_Module-6_Virtual_Class_Presentation and 06-2_Module-6_Virtual_Class_Description_of_activities]"
+    "objectID": "04-Class-1.html#class-1",
+    "href": "04-Class-1.html#class-1",
+    "title": "5  Class 1",
+    "section": "5.2 Class 1:",
+    "text": "5.2 Class 1:\n\nIntroductions\nDiscuss why RDM is important to you\nIntroduction Data Flow Map assignment\nCheck GitHub accounts and issues"
   },
   {
     "objectID": "05-Essentials-for-Research-Data.html",
@@ -228,7 +228,7 @@
     "href": "08-Realising-FAIR-Organisation.html",
     "title": "9  Realising FAIR: Data organisation",
     "section": "",
-    "text": "In this module, we will focus on the realisation of FAIR data. We will explore some best practices and tools that can facilitate the implementation of the FAIR principles. At the end of this module you should be able to:"
+    "text": "Estimated time: 30 minutes?\nIn this module, we will focus on the realisation of FAIR data. We will explore some best practices and tools that can facilitate the implementation of the FAIR principles. At the end of this module you should be able to:"
   },
   {
     "objectID": "08-Realising-FAIR-Organisation.html#activities",
@@ -242,49 +242,42 @@
     "href": "08-Realising-FAIR-Organisation.html#data-organisation",
     "title": "9  Realising FAIR: Data organisation",
     "section": "9.2 Data Organisation",
-    "text": "9.2 Data Organisation\nIn the next video we will go through some recommended practices to help you organise the data of your project efficiently. These recommended practices are using a good folder structure and an appropriate file naming convention to enhance the findability of the data in your directories.\nIn the previous module you learned that ‘Documentation’ is one of the main elements of the FAIR principles. Good data documentation starts with good organisation and file naming of the data of your project! Good data organisation on your computer or your Project Data (U:) drive will allow you to make the data Findable both for yourself and for your collaborators who have access to the data. Making the data findable also indirectly improves the re-usability of the data. You need to be able to find the data before you can re-use it! Implementing a good folder structure, data organisation and a meaningful file naming convention is a simple first step towards making data FAIR.\nIn the next video, we will go through some best practices to help you organise the data of your project efficiently. These best practices are using a good folder structure, tagging files (if possible) and an appropriate file naming convention to enhance the findability of the data in your directories.\n04-1_Module-4_Video_Presentation_Data organisation"
-  },
-  {
-    "objectID": "08-Realising-FAIR-Organisation.html#resources",
-    "href": "08-Realising-FAIR-Organisation.html#resources",
-    "title": "9  Realising FAIR: Data organisation",
-    "section": "9.3 Resources",
-    "text": "9.3 Resources\n\nFolder structure explanation of Neuroscientist Nikola Vukovic\nThe Turing Way - Data storage and organisation The Turing Way Community (2019, March 25).\nTagging and Finding Your Files: Home. MIT Libraries\n\n\n9.3.1 Quiz Data Organisation\nTest your knowledge after watching the ‘Data organisation’ video. Indicate if the following sentences are True or False.\n\nGood data organisation makes the data Findable for yourself and your collaborators. (Answer: True)\nThinking about data organisation at the beginning of your project can save you a lot of time later on. (Answer: True)\nA Research Compendium does not follow a Hierarchical structure. (Answer: False)\nIn a Research Compendium data, methods, and outputs should be clearly separated. (Answer: True)\nConsistency is not relevant in data organisation. (Answer: False)"
+    "text": "9.2 Data Organisation\nIn the previous module you learned that ‘Documentation’ is one of the main elements of the FAIR principles. Good data documentation starts with good organisation and file naming of the data of your project! Good data organisation on your computer or your Project Data (U:) drive will allow you to make the data Findable both for yourself and for your collaborators who have access to the data. Making the data findable also indirectly improves the re-usability of the data. You need to be able to find the data before you can re-use it! Implementing a good folder structure, data organisation and a meaningful file naming convention is a simple first step towards making data FAIR.\nIn the next video, we will go through some best practices to help you organise the data of your project efficiently. These best practices are using a good folder structure, tagging files (if possible) and an appropriate file naming convention to enhance the findability of the data in your directories.\n04-1_Module-4_Video_Presentation_Data organisation\n\n9.2.1 Resources\n\nFolder structure explanation of Neuroscientist Nikola Vukovic\nThe Turing Way - Data storage and organisation The Turing Way Community (2019, March 25).\nTagging and Finding Your Files: Home. MIT Libraries\n\n\n\n9.2.2 Quiz Data Organisation\nTest your knowledge after watching the ‘Data organisation’ video. Indicate if the following sentences are True or False.\n\nGood data organisation makes the data Findable for yourself and your collaborators. (Answer: True)\nThinking about data organisation at the beginning of your project can save you a lot of time later on. (Answer: True)\nA Research Compendium does not follow a Hierarchical structure. (Answer: False)\nIn a Research Compendium data, methods, and outputs should be clearly separated. (Answer: True)\nConsistency is not relevant in data organisation. (Answer: False)"
   },
   {
     "objectID": "08-Realising-FAIR-Organisation.html#assignment-using-cookiecutter",
     "href": "08-Realising-FAIR-Organisation.html#assignment-using-cookiecutter",
     "title": "9  Realising FAIR: Data organisation",
-    "section": "9.4 Assignment: Using Cookiecutter",
-    "text": "9.4 Assignment: Using Cookiecutter\nEstimated time: 20 minutes\nNote that you need to have Python and pip (or conda) installed to easily follow the video.\n\nWatch the video on setting up a research compendium using Cookiecutter (3:36 min). Watching the video requires logging in to vimeo (find another link)\nFor instructions on how to clone the cookiecutter template see here. For instructions to see hidden folders on Windows, see here.\n\n\nIf you couldn’t get the template when following any of the methods described in the video, see here.\n\n\nWork on your own to populate the template with information/files from your project.\nShare your folder structure on [GitHub] and comment on another person’s folder structure\nDiscuss with your peers how similar your own folder structure is to the one you created using Cookiecutter. What additional elements are there in the Cookiecutter project? Is there anything that the Cookiecutter template is missing?\n\nIf you didn’t find this template useful, you can browse these templates to see if one of these fits your needs better: a. Data Science b. Python template c. Reproducible Science d. More templates"
+    "section": "9.3 Assignment: Using Cookiecutter",
+    "text": "9.3 Assignment: Using Cookiecutter\nEstimated time: 20 minutes\nNote that you need to have Python and pip (or conda) installed to easily follow the video.\n\nWatch the video on setting up a research compendium using Cookiecutter (3:36 min). Watching the video requires logging in to vimeo (find another link)\nFor instructions on how to clone the cookiecutter template see here. For instructions to see hidden folders on Windows, see here.\n\n\nIf you couldn’t get the template when following any of the methods described in the video, see here.\n\n\nWork on your own to populate the template with information/files from your project.\nShare your folder structure on [GitHub] and comment on another person’s folder structure\nDiscuss with your peers how similar your own folder structure is to the one you created using Cookiecutter. What additional elements are there in the Cookiecutter project? Is there anything that the Cookiecutter template is missing?\n\nIf you didn’t find this template useful, you can browse these templates to see if one of these fits your needs better:\n\nData Science\nPython template\nReproducible Science\nMore templates"
   },
   {
     "objectID": "08-Realising-FAIR-Organisation.html#discussion",
     "href": "08-Realising-FAIR-Organisation.html#discussion",
     "title": "9  Realising FAIR: Data organisation",
-    "section": "9.5 Discussion",
-    "text": "9.5 Discussion\nlink to issue FAIR realisation"
+    "section": "9.4 Discussion",
+    "text": "9.4 Discussion\nlink to issue FAIR realisation"
   },
   {
     "objectID": "08-Realising-FAIR-Organisation.html#assignment",
     "href": "08-Realising-FAIR-Organisation.html#assignment",
     "title": "9  Realising FAIR: Data organisation",
-    "section": "9.6 Assignment",
-    "text": "9.6 Assignment\nData Flow map_part 2"
+    "section": "9.5 Assignment",
+    "text": "9.5 Assignment\nData Flow map_part 2"
   },
   {
     "objectID": "08-Realising-FAIR-Organisation.html#references",
     "href": "08-Realising-FAIR-Organisation.html#references",
     "title": "9  Realising FAIR: Data organisation",
-    "section": "9.7 References",
-    "text": "9.7 References\n● Colavizza, G., Hrynaszkiewicz, I., Staden, I., Whitaker, K., & McGillivray, B. The citation advantage of linking publications to research data. PLOS ONE 15(4), e0230416 (2020). https://doi.org/10.1371/journal.pone.0230416 ● European Commission. Directorate-General for Research & Innovation. H2020 Programme Guidelines on FAIR Data Management in Horizon 2020. Version 3.0. 26 July 2016. URL:https://core.ac.uk/download/pdf/301306355.pdf\nThe Turing Way: A Handbook for Reproducible Data Science (Version v0.0.4). Zenodo. http://doi.org/10.5281/zenodo.3233986"
+    "section": "9.6 References",
+    "text": "9.6 References\n\nColavizza, G., Hrynaszkiewicz, I., Staden, I., Whitaker, K., & McGillivray, B. The citation advantage of linking publications to research data. PLOS ONE 15(4), e0230416 (2020). https://doi.org/10.1371/journal.pone.0230416\nEuropean Commission. Directorate-General for Research & Innovation. H2020 Programme Guidelines on FAIR Data Management in Horizon 2020. Version 3.0. 26 July 2016. URL:https://core.ac.uk/download/pdf/301306355.pdf\nThe Turing Way: A Handbook for Reproducible Data Science (Version v0.0.4). Zenodo. http://doi.org/10.5281/zenodo.3233986"
   },
   {
     "objectID": "09-Realising-FAIR-Documentation.html",
     "href": "09-Realising-FAIR-Documentation.html",
     "title": "10  Realising FAIR: Data Documentation",
     "section": "",
-    "text": "In this module, we will focus on the realisation of FAIR data. We will explore some best practices and tools that can facilitate the implementation of the FAIR principles. At the end of this module you should be able to: * Recognize the relevance of documentation and be familiar with diverse tools to document data * Identify relevant tools to advance towards FAIR data"
+    "text": "Estimated time: 60 minutes\nIn this module, we will focus on the realisation of FAIR data. We will explore some best practices and tools that can facilitate the implementation of the FAIR principles. At the end of this module you should be able to: * Recognize the relevance of documentation and be familiar with diverse tools to document data * Identify relevant tools to advance towards FAIR data"
   },
   {
     "objectID": "09-Realising-FAIR-Documentation.html#activities",
@@ -312,14 +305,14 @@
     "href": "09-Realising-FAIR-Documentation.html#assignment-data-dictionaries-for-tabular-data---optional",
     "title": "10  Realising FAIR: Data Documentation",
     "section": "10.4 Assignment: Data Dictionaries (for tabular data - optional)",
-    "text": "10.4 Assignment: Data Dictionaries (for tabular data - optional)\nEstimated time: 15 minutes 1. Watch a video on data dictionaries 2. Go to a tabular dataset you are working on or have worked on. 3. In an excel spreadsheet, start creating your data dictionary. Ave the data dictionary in the same folder as the dataset you’re describing. List all the variables that you find in the dataset on column A. Then, add a clear and understandable description of that variable on column B.\nNote that you can also create a package for your data with Frictionless Data"
+    "text": "10.4 Assignment: Data Dictionaries (for tabular data - optional)\nEstimated time: 15 minutes\n\nWatch a video on data dictionaries\nGo to a tabular dataset you are working on or have worked on.\nIn an excel spreadsheet, start creating your data dictionary. Ave the data dictionary in the same folder as the dataset you’re describing. List all the variables that you find in the dataset on column A. Then, add a clear and understandable description of that variable on column B.\n\nNote that you can also create a package for your data with Frictionless Data"
   },
   {
     "objectID": "09-Realising-FAIR-Documentation.html#assignment-electronic-lab-notebooks-optional",
     "href": "09-Realising-FAIR-Documentation.html#assignment-electronic-lab-notebooks-optional",
     "title": "10  Realising FAIR: Data Documentation",
     "section": "10.5 Assignment: Electronic Lab Notebooks (optional)",
-    "text": "10.5 Assignment: Electronic Lab Notebooks (optional)\nEstimated time: 20 minutes TU Delft offers two different Electronic Lab Notebooks, eLABjournal and Rspace. Watch the short videos introducing them: * eLABjournal intro (4:11 minutes): * RSpace intro (1:43 minutes):\nTry out one of the Electronic Lab Notebooks: * RSpace\nAnswer the following questions to see if the Electronic Lab Notebooks are helpful to your work: - Was there any specific feature in one or both of the ELNs that would be particularly useful? - What are the pros and cons that you can already think of when using an ELN for documenting your lab work?"
+    "text": "10.5 Assignment: Electronic Lab Notebooks (optional)\nEstimated time: 20 minutes\nTU Delft offers two different Electronic Lab Notebooks, eLABjournal and Rspace. Watch the short videos introducing them:\n\neLABjournal intro (4:11 minutes):\nRSpace intro (1:43 minutes):\n\nTry out one of the Electronic Lab Notebooks:\nTo access eLABJournal\n\nGo to https://www.elabjournal.com/login/\nSelect ‘log in with your institute account’ (below the login form)\nLogin with your netID\n\nNote: new ELN groups must be reported to support@elabnext.com (eLABJournal Support) to get full access to eLABJournal.\nTo access RSpace:\n\nGo to https://rspace.tudelft.nl\nOn the first time you log in to this tool, following authentication, you will be directed to the RSpace signup page, pre-populated with some information released from your netID, where you need to confirm that you want an account. (On subsequent logins, you will go straight to RSpace after authentication using your netID.)\n\nAnswer the following questions to see if the Electronic Lab Notebooks are helpful to your work:\n\nWas there any specific feature in one or both of the ELNs that would be particularly useful?\nWhat are the pros and cons that you can already think of when using an ELN for documenting your lab work?"
   },
   {
     "objectID": "09-Realising-FAIR-Documentation.html#resources",
@@ -333,7 +326,7 @@
     "href": "10-Realising-FAIR-Publication.html",
     "title": "11  Realising FAIR: Data Publication",
     "section": "",
-    "text": "In the next video we will delve more into data access during and after a research project. You will also be introduced to the topic of data publication and data repositories. Data access is one of the main elements of the FAIR principles you heard about in Module 3. Remember that it is important to reflect about data access at the beginning of your project to ensure that the right people have access to the right data.\nOne way to make the data of your project Findable and Accessible to a broad audience is to publish it in a data repository. Data repositories help you comply with the FAIR principles and make it easy to apply some of their main elements, such as Licences and Persistent identifiers.\nIn the next video we will delve into data access during and after a research project. You will also be introduced to the topic of data publication and data repositories.\n[An embedded video is displayed here based on the following file: 04-3_Module-4_Video_Presentation_DataAccess_DataPublication ]\n● For a list of data journals, both discipline-agnostic and discipline-specific see: https://the-turing-way.netlify.app/reproducible-research/rdm/rdm-article.html"
+    "text": "Estimated time: 15 minutes\nIn the next video we will delve more into data access during and after a research project. You will also be introduced to the topic of data publication and data repositories. Data access is one of the main elements of the FAIR principles you heard about in Module 3. Remember that it is important to reflect about data access at the beginning of your project to ensure that the right people have access to the right data.\nOne way to make the data of your project Findable and Accessible to a broad audience is to publish it in a data repository. Data repositories help you comply with the FAIR principles and make it easy to apply some of their main elements, such as Licences and Persistent identifiers.\nIn the next video we will delve into data access during and after a research project. You will also be introduced to the topic of data publication and data repositories.\n[An embedded video is displayed here based on the following file: 04-3_Module-4_Video_Presentation_DataAccess_DataPublication ]\nYou can also share your data via a data article."
   },
   {
     "objectID": "10-Realising-FAIR-Publication.html#references",
@@ -368,28 +361,28 @@
     "href": "11-Plan-for-RDM.html#why-create-a-data-management-plan",
     "title": "12  Plan for RDM",
     "section": "12.3 Why create a Data Management Plan?",
-    "text": "12.3 Why create a Data Management Plan?\nWhy is it necessary to create a data management plan? Watch the following video in which a researcher and data steward talk about the importance of creating a data management plan.\n\nNatalia Romero Herrera talking about the benefits of writing a DMP\nEsther Plomp talking about the benefits of writing a DMP"
-  },
-  {
-    "objectID": "11-Plan-for-RDM.html#introduction-to-dmp-online",
-    "href": "11-Plan-for-RDM.html#introduction-to-dmp-online",
-    "title": "12  Plan for RDM",
-    "section": "12.4 Introduction to DMP online",
-    "text": "12.4 Introduction to DMP online\nThis introduction will provide you with a step-by-step guide for creating a DMPonline account and with an explanation of its main features. You will create your own account and explore the TU Delft template. With DMPonline you can:\n\nWrite your plan and easily update it throughout the lifecycle of your project;\nShare your plan with internal and external collaborators and ask for feedback from your Faculty Data Steward;\nDownload your plan in a variety of formats.\n\nSee the next module for the assignment to create your DMP."
+    "text": "12.3 Why create a Data Management Plan?\nWhy is it necessary to create a data management plan? Watch the following video in which a researcher and data steward talk about the importance of creating a data management plan.\n\nNatalia Romero Herrera talking about the benefits of writing a DMP\nEsther Plomp talking about the benefits of writing a DMP\n\nSee the next module for the assignment to create your DMP."
   },
   {
     "objectID": "12-Assignment-DMP.html",
     "href": "12-Assignment-DMP.html",
     "title": "13  Assignment - Create DMP",
     "section": "",
-    "text": "For this assignment, please create an account for DMPonline, and use the TU Delft template to create a plan for your project. In the following document, DMPonline user guide, you will find a clear step-by-step guide to complete this activity. We expect you to:"
+    "text": "With DMPonline you can:\n\nWrite your plan and easily update it throughout the lifecycle of your project;\nShare your plan with internal and external collaborators and ask for feedback from your Faculty Data Steward;\nDownload your plan in a variety of formats."
+  },
+  {
+    "objectID": "12-Assignment-DMP.html#create-a-dmp-using-dmponline",
+    "href": "12-Assignment-DMP.html#create-a-dmp-using-dmponline",
+    "title": "13  Assignment - Create DMP",
+    "section": "13.2 Create a DMP using DMPonline",
+    "text": "13.2 Create a DMP using DMPonline\nFor this assignment, please create an account for DMPonline, and use the TU Delft template to create a plan for your project. In the following document, DMPonline user guide, you will find a clear step-by-step guide to complete this activity. We expect you to:\n\nCreate an account in DMPonline\n‘Create a new plan’ for your project choosing ‘Delft University of Technology’ as the primary research organisation and tick ‘No funder associated with this plan or my funder is not listed’ in the ‘primary funding organisation’\nFill in the ‘Project Details’ according to your project.\nGo to ‘Write Plan’\nGo back to your slides or papers and post-it’s of your data flow map of week 1 and 2 and use the information in there to fill in the questions of the data management plan. If appropriate, you can use the ‘Additional Information’ box in the template to add as many details as possible according to your data flow map.\nIf you don’t know how to answer any of the questions please let us know in Issue ? on GitHub."
   },
   {
     "objectID": "12-Assignment-DMP.html#discussion---questions-reflections-about-your-dmp-mandatory",
     "href": "12-Assignment-DMP.html#discussion---questions-reflections-about-your-dmp-mandatory",
     "title": "13  Assignment - Create DMP",
-    "section": "13.1 Discussion - Questions & Reflections about your DMP (mandatory)",
-    "text": "13.1 Discussion - Questions & Reflections about your DMP (mandatory)\nPlease share your questions and/or reflections that came up while filling in the DMP of your project. For example:\n\nWere you able to answer all the questions on the DMP template using your Data Flow Map?\nIf not, which sections were you not able to answer? What kind of additional information would you need?"
+    "section": "13.3 Discussion - Questions & Reflections about your DMP (mandatory)",
+    "text": "13.3 Discussion - Questions & Reflections about your DMP (mandatory)\nPlease share your questions and/or reflections that came up while filling in the DMP of your project. For example:\n\nWere you able to answer all the questions on the DMP template using your Data Flow Map?\nIf not, which sections were you not able to answer? What kind of additional information would you need?"
   },
   {
     "objectID": "13-Assignment-Data-Flow-Map-3.html",
@@ -403,14 +396,14 @@
     "href": "14-Class-2.html",
     "title": "15  Class 2",
     "section": "",
-    "text": "This week will conclude with the final class 3. Make sure to submit [the assignment] before the meeting as you will present it in groups during the class. See you there!"
+    "text": "This week will conclude with the final class 2. Make sure to submit [the assignment] before the meeting as you will present it in groups during the class. See you there!"
   },
   {
-    "objectID": "14-Class-2.html#class-3",
-    "href": "14-Class-2.html#class-3",
+    "objectID": "14-Class-2.html#class-2",
+    "href": "14-Class-2.html#class-2",
     "title": "15  Class 2",
-    "section": "15.2 Class 3:",
-    "text": "15.2 Class 3:\n\nWe will summarise some of the main takeaways of the course.\nYou will have the opportunity to discuss what you learned from the data flow maps.\nYour instructor will answer any final question you might have. [You can find the programme and activities of the virtual class in the following files: 06-1_Module-6_Virtual_Class_Presentation and 06-2_Module-6_Virtual_Class_Description_of_activities]"
+    "section": "15.2 Class 2:",
+    "text": "15.2 Class 2:\n\nWe will summarise some of the main takeaways of the course.\nYou will have the opportunity to discuss what you learned from the data flow maps.\nYour instructor will answer any final question you might have. [You can find the programme and activities of the virtual class in the following files: 06-1_Module-6_Virtual_Class_Presentation and 06-2_Module-6_Virtual_Class_Description_of_activities]"
   },
   {
     "objectID": "15-Wrap-up.html",
