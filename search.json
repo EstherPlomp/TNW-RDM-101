@@ -459,7 +459,7 @@
     "href": "13-Assignment-DMP.html",
     "title": "14  Assignment 4 - Create DMP",
     "section": "",
-    "text": "With DMPonline you can:\n\nWrite your plan and easily update it throughout the lifecycle of your project;\nShare your plan with internal and external collaborators and ask for feedback from your Faculty Data Steward;\nDownload your plan in a variety of formats."
+    "text": "With DMPonline you can:\n\nWrite your plan and easily update it throughout the lifecycle of your project\nShare your plan with internal and external collaborators and ask for feedback from your Faculty Data Steward\nDownload your plan in a variety of formats"
   },
   {
     "objectID": "13-Assignment-DMP.html#create-a-dmp-using-dmponline",
@@ -469,11 +469,11 @@
     "text": "14.2 Create a DMP using DMPonline\nFor this assignment, please create an account for DMPonline, and use the TU Delft template to create a plan for your project. In the following document, DMPonline user guide, you will find a clear step-by-step guide to complete this activity. We expect you to:\n\nCreate an account in DMPonline\n‘Create a new plan’ for your project choosing ‘Delft University of Technology’ as the primary research organisation and tick ‘No funder associated with this plan or my funder is not listed’ in the ‘primary funding organisation’\nFill in the ‘Project Details’ according to your project.\nGo to ‘Write Plan’\nGo back to your slides or papers and post-it’s of your data flow map of week 1 and 2 and use the information in there to fill in the questions of the data management plan. If appropriate, you can use the ‘Additional Information’ box in the template to add as many details as possible according to your data flow map.\nIf you don’t know how to answer any of the questions please let us know in Issue ? on GitHub."
   },
   {
-    "objectID": "13-Assignment-DMP.html#share-your-dmp",
-    "href": "13-Assignment-DMP.html#share-your-dmp",
+    "objectID": "13-Assignment-DMP.html#submit-your-assignment",
+    "href": "13-Assignment-DMP.html#submit-your-assignment",
     "title": "14  Assignment 4 - Create DMP",
-    "section": "14.3 Share your DMP",
-    "text": "14.3 Share your DMP\nPlease add a link to your DMP to GitHub issue #.\nIf you want, you can elaborate and answer the following questions:\n\nWere you able to answer all the questions on the DMP template using your Data Flow Map?\nIf not, which sections were you not able to answer? What kind of additional information would you need?"
+    "section": "14.3 Submit your assignment",
+    "text": "14.3 Submit your assignment\nWhen you’re done filling out your Data Management Plan, you can ask for Feedback using the ‘Feedback’ button. This will notify Esther that your plan is ready. If you weren’t able to answer all the questions, this is also the way to ask for support. Please finalise your DMP before class 2"
   },
   {
     "objectID": "14-Assignment-Data-Flow-Map-3.html",
@@ -487,14 +487,14 @@
     "href": "15-Class-2.html",
     "title": "16  Class 2",
     "section": "",
-    "text": "submit your slide to Esther before class 2 as you will present it in groups during the class.\nSee you there!"
+    "text": "Respond to all the GitHub issues and update your checklist in Issue #\nFinalise your DMP and ask for Feedback on DMPonline\nsubmit your slide to Esther\n\nSee you there!"
   },
   {
     "objectID": "15-Class-2.html#class-2",
     "href": "15-Class-2.html#class-2",
     "title": "16  Class 2",
     "section": "16.2 Class 2:",
-    "text": "16.2 Class 2:\n\nWe will summarise some of the main takeaways of the course.\nYou will discuss what you learned from the Data Flow Maps.\nYour instructor will answer any final question you might have."
+    "text": "16.2 Class 2:\n\nWe will summarise some of the main takeaways of the course\nYou will present your slide\nwill discuss what you learned from the Data Flow Maps\nYour instructor will answer any final question you might have"
   },
   {
     "objectID": "16-Wrap-up.html",
