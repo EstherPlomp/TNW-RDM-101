@@ -4,7 +4,7 @@
     "href": "index.html",
     "title": "TNW RDM 101",
     "section": "",
-    "text": "This website is an adaptation of the Research Data Management 101 Course provided by TU Delft Library.\nThis course provides PhD candidates with the essential knowledge and the core skills to manage research data according to best practice. Learners will be able to integrate good data management practices within their workflows from the beginning of their projects. The application of this knowledge to their research will allow them to reflect on how to work efficiently and in a reproducible manner with their research data, while complying with funders and institutional requirements.\nThis is a three weeks blended course, meaning that is a mix of self-studying and two in-person class meetings.\n\nThe time to be spent for the course is approximately 16 hours in total, which is equivalent to 1.5 GS credits in the category of Research skills of the GS Education Programme, if the requirements are fulfilled.\nThe online learning environment is this website and it’s GitHub Repository. Participants will have to set up a GitHub account to participate and will be instructed on how GitHub works.\n\nAll the course materials can be found here: Martinez-Lavanchy, P.M., van Schöll, Pim, & Zormpa, Eirini. (2022). TU Delft Research Data Management 101 course. Zenodo. https://doi.org/10.5281/zenodo.6325919\nParts of the content of this course are based on: Holmstrand, K.F., den Boer, S.P.A., Vlachos, E., Martínez-Lavanchy, P.M., Hansen, K.K. (Eds.) (2019). Research Data Management (eLearning course). doi: 10.11581/dtu:00000047\nThis website is made using Quarto Allaire, J., Teague, C., Scheidegger, C., Xie, Y., & Dervieux, C. (2022). Quarto (Version 0.3) [Computer software]. https://doi.org/10.5281/zenodo.5960048\n This website is a copy of the lab manual for the Fay Lab at the University of Massachusetts Dartmouth School for Marine Science and Technology thanks to their group’s participation in the Openscapes Champions program.\n < link to this book’s template GitHub repository. Also see Quick steps to making a copy of the lab manual and publishing it!\n \n\nThis webpage is licensed under a Creative Commons Attribution 4.0 International License. and requires the attribution of the lab manual for the Fay Lab and Martinez-Lavanchy, P.M., van Schöll, Pim, & Zormpa, Eirini. (2022, July 8). TU Delft Research Data Management 101 course. Zenodo. https://doi.org/10.5281/zenodo.6325919."
+    "text": "This website is an adaptation of the Research Data Management 101 Course provided by TU Delft Library.\nThis course provides PhD candidates with the essential knowledge and the core skills to manage research data according to best practice. Learners will be able to integrate good data management practices within their workflows from the beginning of their projects. The application of this knowledge to their research will allow them to reflect on how to work efficiently and in a reproducible manner with their research data, while complying with funders and institutional requirements.\nThis is a three weeks blended course, meaning that is a mix of self-studying and two in-person class meetings.\n\nThe time to be spent for the course is approximately 16 hours in total, which is equivalent to 1.5 GS credits in the category of Research skills of the GS Education Programme, if the requirements are fulfilled.\nThe online learning environment is this website and it’s GitHub Repository. Participants will have to set up a GitHub account to participate and will be instructed on how GitHub works.\n\n\n\nAll the course materials can be found here: Martinez-Lavanchy, P.M., van Schöll, Pim, & Zormpa, Eirini. (2022). TU Delft Research Data Management 101 course. Zenodo. https://doi.org/10.5281/zenodo.6325919\nParts of the content of this course are based on: Holmstrand, K.F., den Boer, S.P.A., Vlachos, E., Martínez-Lavanchy, P.M., Hansen, K.K. (Eds.) (2019). Research Data Management (eLearning course). doi: 10.11581/dtu:00000047\nThis website is made using Quarto Allaire, J., Teague, C., Scheidegger, C., Xie, Y., & Dervieux, C. (2022). Quarto (Version 0.3) [Computer software]. https://doi.org/10.5281/zenodo.5960048\n This website is a copy of the lab manual for the Fay Lab at the University of Massachusetts Dartmouth School for Marine Science and Technology thanks to their group’s participation in the Openscapes Champions program.\n < link to this book’s template GitHub repository. Also see Quick steps to making a copy of the lab manual and publishing it!\n \n\nThis webpage is licensed under a Creative Commons Attribution 4.0 International License. and requires the attribution of the lab manual for the Fay Lab and Martinez-Lavanchy, P.M., van Schöll, Pim, & Zormpa, Eirini. (2022, July 8). TU Delft Research Data Management 101 course. Zenodo. https://doi.org/10.5281/zenodo.6325919."
   },
   {
     "objectID": "01-Introduction.html",
@@ -39,21 +39,21 @@
     "href": "01-Introduction.html#assessment-criteria",
     "title": "2  Introduction",
     "section": "2.4 Assessment criteria",
-    "text": "2.4 Assessment criteria\nIn order to receive the 1.5 Graduate School Credits you have to:\n\nComplete all activities\nInteract with all course activities ( topics & quizzes)\nParticipate in all discussions (Q&A are optional)\n\nSubmit assignments (data flow maps) in weeks 1 and 2 and the assignment of week 3 (reflection on RDM strategy).\nWrite a Data Management Plan using DMPonline\n\nAttend and participate in all Class Sessions\n\nNote: you will not be graded on your assignments. Use the class sessions and Discussions to gather feedback."
+    "text": "2.4 Assessment criteria\nIn order to receive the 1.5 Graduate School Credits you have to:\n\nComplete all activities\nParticipate in all discussions and respond to the relevant GitHub issues\n\nSubmit assignments (data flow maps) in weeks 1 and 2 and the assignment of week 3 (reflection on RDM strategy).\nWrite a Data Management Plan using DMPonline\n\nAttend and participate in both class Sessions\n\nNote: you will not be graded on your assignments. Use the class sessions and discussions to gather feedback."
+  },
+  {
+    "objectID": "01-Introduction.html#deadlines",
+    "href": "01-Introduction.html#deadlines",
+    "title": "2  Introduction",
+    "section": "2.5 Deadlines",
+    "text": "2.5 Deadlines\n\nAssignment 1 - GitHub - Before class 1 (date)\nAssignment 2 - Data Flow Map 1 - Before … (date)\nAssignment 3 - Data Flow Map 2 - Before … (date)\nAssignment 4 - Data Management Plan - Before class 2 (date)\nAssignment 5 - Data Flow Map 3 Before class 2 (date)"
   },
   {
     "objectID": "01-Introduction.html#support",
     "href": "01-Introduction.html#support",
     "title": "2  Introduction",
-    "section": "2.5 Support",
-    "text": "2.5 Support\nYou will get most out of this course by interacting with your peers and the instructor. You can do this via GitHub issues, where you can also ask questions.\nFor all deadlines: * see the Course Schedule\nFor other questions please contact Esther."
-  },
-  {
-    "objectID": "01-Introduction.html#license-and-attribution",
-    "href": "01-Introduction.html#license-and-attribution",
-    "title": "2  Introduction",
-    "section": "2.6 License and attribution",
-    "text": "2.6 License and attribution\nAll the course materials can be found here: Martinez-Lavanchy, P.M., van Schöll, Pim, & Zormpa, Eirini. (2022). TU Delft Research Data Management 101 course. Zenodo. doi: 10.5281/zenodo.6325919\nParts of the content of this course are based on: Holmstrand, K.F., den Boer, S.P.A., Vlachos, E., Martínez-Lavanchy, P.M., Hansen, K.K. (Eds.) (2019). Research Data Management (eLearning course). doi: 10.11581/dtu:00000047\nThis website is made using Quarto Allaire, J., Teague, C., Scheidegger, C., Xie, Y., & Dervieux, C. (2022). Quarto (Version 0.3) [Computer software]. https://doi.org/10.5281/zenodo.5960048\nThis website is a copy of the lab manual for the Fay Lab at the University of Massachusetts Dartmouth School for Marine Science and Technology thanks to their group’s participation in the Openscapes Champions program."
+    "section": "2.6 Support",
+    "text": "2.6 Support\nYou will get most out of this course by interacting with your peers and the instructor. You can do this via GitHub issues, where you can also ask questions.\nFor other questions please contact Esther."
   },
   {
     "objectID": "02-Importance-of-RDM.html",
@@ -67,7 +67,7 @@
     "href": "02-Importance-of-RDM.html#activities",
     "title": "3  The importance of RDM",
     "section": "3.1 Activities",
-    "text": "3.1 Activities\n\nWatch the Presentation (before class 1) - Why is RDM important?\nRead Markowetz 2015: Five selfish reasons to work reproducibly OR Watch the presentation (50 min)\nSet up a GitHub account (see Assignment 1) before class 1\nParticipate (and interact) in class 1"
+    "text": "3.1 Activities\n\nWatch the Presentation (before class 1) - Why is RDM important?\nRead Markowetz 2015: Five selfish reasons to work reproducibly OR Watch the presentation (50 min) before class 1\nSet up a GitHub account (see Assignment 1) before class 1"
   },
   {
     "objectID": "02-Importance-of-RDM.html#why-care-about-rdm",
@@ -102,14 +102,14 @@
     "href": "04-Class-1.html",
     "title": "5  Class 1",
     "section": "",
-    "text": "Watch the Presentation (before class 1) - Why is RDM important?\nRead Markowetz 2015: Five selfish reasons to work reproducibly OR Watch the presentation (50 min) before class 1\nSet up a GitHub account (see Assignment 1) before class 1"
+    "text": "Note: this is a repeat of the activities mentioned in Importance of RDM\n\nWatch the Presentation (before class 1) - Why is RDM important?\nRead Markowetz 2015: Five selfish reasons to work reproducibly OR Watch the presentation (50 min) before class 1\nSet up a GitHub account (see Assignment 1) before class 1"
   },
   {
     "objectID": "04-Class-1.html#class-1",
     "href": "04-Class-1.html#class-1",
     "title": "5  Class 1",
     "section": "5.2 Class 1:",
-    "text": "5.2 Class 1:\n\nIntroductions\nDiscuss why RDM is important to you\nIntroduction Data Flow Map assignment\nCheck GitHub accounts and issues"
+    "text": "5.2 Class 1:\n\nIntroductions\nDiscuss why RDM is important to you\nIntroduction Data Flow Map assignment\nCheck GitHub accounts and issues\nImportance of Documentation"
   },
   {
     "objectID": "05-Essentials-for-Research-Data.html",
@@ -179,49 +179,98 @@
     "href": "06-Assignment-Data-Flow-Map-1.html",
     "title": "7  Assignment 2 - Data Flow Map",
     "section": "",
-    "text": "[Assignment 1] Assignment week 1- Data Flow map_part 1 [After completing Modules 1 and 2, the course participants create a Data Flow Map to apply what they learned to their own research project. For a detailed description see the publication: https://doi.org/10.5281/zenodo.6325938 ]\nMartinez-Lavanchy, P.M., van Schöll, Pim, Zormpa, Eirini, & Singotani, Roséane Cathy. (2022, July 8). TU Delft Research Data Management 101 course - Assignments Data Flow Map. Zenodo. https://doi.org/10.5281/zenodo.6325938"
+    "text": "Estimated time: 60 minutes\n[Assignment 1] Assignment week 1- Data Flow map_part 1\nIn this assignment you will have to write down what data you expect to collect/create during your project. After this, you will reflect on the back-up and storage for your data. We will provide you with a toolbox and a step-by-step guide to help you reflect on your data. At the bottom of the page you will find some examples we prepared. You can download the PowerPoint template via a data repository.\nYou can either use the template, or work on a sheet of paper with Post-its. At the end, make sure you submit the reflections for every step."
+  },
+  {
+    "objectID": "06-Assignment-Data-Flow-Map-1.html#step-1---fill-out-the-data-you-will-collectcreate-with-a-short-description",
+    "href": "06-Assignment-Data-Flow-Map-1.html#step-1---fill-out-the-data-you-will-collectcreate-with-a-short-description",
+    "title": "7  Assignment 2 - Data Flow Map",
+    "section": "7.1 Step 1 - Fill out the data you will collect/create with a short description",
+    "text": "7.1 Step 1 - Fill out the data you will collect/create with a short description\n\nStart with identifying and listing the different datasets that you will be collecting or creating during your project. Remember that code, models, interviews, etc. are also important types of research data.\n\nGive each dataset a descriptive name and fill this out on the template. For example: Interview videos, Sequencing data, Sensor data.\nAdd to the template a very short description of each dataset e.g. what is the data, how it is collected/created, what is the file format, what is the (file)size.\nDo not restrict yourself to list only three types of datasets! Please provide a comprehensive list. If you would like to extend the list, you can do so by duplicating the slides we have provided."
+  },
+  {
+    "objectID": "06-Assignment-Data-Flow-Map-1.html#step-2---indicate-actions-to-the-data",
+    "href": "06-Assignment-Data-Flow-Map-1.html#step-2---indicate-actions-to-the-data",
+    "title": "7  Assignment 2 - Data Flow Map",
+    "section": "7.2 Step 2 - Indicate actions to the data",
+    "text": "7.2 Step 2 - Indicate actions to the data\n\nGo to the toolbox in the PowerPoint template (slide 2).\nSelect/Copy the green actions arrows that are related to the datasets you listed and add them on your template. This will help to add some extra description to the data that can influence your reflections.\nActions to consider: Were the data collected, were they created or are you re-using data from others? If necessary, add new data sets depending on your action. For example, if you collected interviews, you might need to transcribe them generating a new dataset consisting of transcription files."
+  },
+  {
+    "objectID": "06-Assignment-Data-Flow-Map-1.html#step-3---reflect-on-your-data",
+    "href": "06-Assignment-Data-Flow-Map-1.html#step-3---reflect-on-your-data",
+    "title": "7  Assignment 2 - Data Flow Map",
+    "section": "7.3 Step 3 - Reflect on your data",
+    "text": "7.3 Step 3 - Reflect on your data\n\nUse the red flags in the toolbox in the PowerPoint template (slide 2) to indicate important characteristics of your data that might influence how you need to manage it."
+  },
+  {
+    "objectID": "06-Assignment-Data-Flow-Map-1.html#step-4---reflect-on-the-theme-back-up-and-storage",
+    "href": "06-Assignment-Data-Flow-Map-1.html#step-4---reflect-on-the-theme-back-up-and-storage",
+    "title": "7  Assignment 2 - Data Flow Map",
+    "section": "7.4 Step 4 - Reflect on the theme Back-up and Storage",
+    "text": "7.4 Step 4 - Reflect on the theme Back-up and Storage\n\nWe talked about the infrastructure that TU Delft offers for storing and backing up data, so think:\n\nWhere will you be storing the data?\nWhere will the master copy be stored?\nWhat infrastructure will you use as a backup?\n\nKeep in mind the flags you have added to the list of datasets when selecting the storage and backup for the data and code.\nReflect about the Theme “Back-up and storage”, think about a strategy to securely store the data of your project and add your choice and considerations to the template."
+  },
+  {
+    "objectID": "06-Assignment-Data-Flow-Map-1.html#references",
+    "href": "06-Assignment-Data-Flow-Map-1.html#references",
+    "title": "7  Assignment 2 - Data Flow Map",
+    "section": "7.5 References",
+    "text": "7.5 References\nMartinez-Lavanchy, P.M., van Schöll, Pim, Zormpa, Eirini, & Singotani, Roséane Cathy. (2022, July 8). TU Delft Research Data Management 101 course - Assignments Data Flow Map. Zenodo. https://doi.org/10.5281/zenodo.6325938"
   },
   {
     "objectID": "07-FAIR-principles.html",
     "href": "07-FAIR-principles.html",
     "title": "8  FAIR principles",
     "section": "",
-    "text": "Estimated time: 90 minutes\nIn this module, we will discover the FAIR data principles and their main elements. At the end of this module, you should be able to:\nThere are different activities in this module you should complete:"
+    "text": "Estimated time: 30 minutes\nIn this module, we will discover the FAIR data principles and their main elements. At the end of this module, you should be able to:"
+  },
+  {
+    "objectID": "07-FAIR-principles.html#activities",
+    "href": "07-FAIR-principles.html#activities",
+    "title": "8  FAIR principles",
+    "section": "8.1 Activities",
+    "text": "8.1 Activities\n\nWatch the videos about the key elements to make data FAIR\nShare your thoughts on FAIR via the GitHub Issue"
   },
   {
     "objectID": "07-FAIR-principles.html#what-are-the-fair-principles",
     "href": "07-FAIR-principles.html#what-are-the-fair-principles",
     "title": "8  FAIR principles",
-    "section": "8.1 What are the FAIR principles?",
-    "text": "8.1 What are the FAIR principles?\nThe FAIR principles were created in order to maximize the reuse of scientific data, to promote best practices on Research Data Management and to enable Open Science. Applying the FAIR principles means to make research data Findable, Accessible, Interoperable and Reusable.\n\nFindable means that others (both human and machines) can discover the data\nAccessible means that the data can be made available to others\nInteroperable means that the data can be integrated with other data and can be easily used by machines or in data analysis workflows.\nReusable means that the data can be used for new research\n\nThese four principles should be applied (as much as possible) throughout the entire research cycle and they are closely interconnected with each other.\nThe FAIR Data principles are NOT:\n\nA standard. The FAIR principles need to be adapted and followed as much as possible by considering the research practices in your field. FAIR principles should be rather seen as progressive steps that help you make your data re-usable.\nEquivalent to Open Data. FAIR data does not necessarily mean openly available: it should be clear to others that the data exists and which steps they could take to potentially access the data.\nApplied using a particular technology or tool. There might be different tools that enable FAIR data within different disciplines or research workflows.\n\nThere are important elements to consider within your research workflows if you aim to make the data of your project FAIR:\n\nDocumentation & Metadata\n\nInteroperability\nAccess to data\nPersistent identifiers\nLicences\n\nIn the next videos we will explore these different elements and their importance to make the data of your project FAIR."
-  },
-  {
-    "objectID": "07-FAIR-principles.html#references",
-    "href": "07-FAIR-principles.html#references",
-    "title": "8  FAIR principles",
-    "section": "8.2 References:",
-    "text": "8.2 References:\n\n“The FAIR Guiding Principles for scientific data management and stewardship” Wilkinson et al. 2016. https://doi.org/10.1038/sdata.2016.18\nScripts of the videos copied or adapted from: Holmstrand, K.F., den Boer, S.P.A., Vlachos, E., Martínez-Lavanchy, P.M., Hansen, K.K. (Eds.) (2019). Research Data Management (eLearning course). doi: 10.11581/dtu:00000047 Videos: Key elements to make data FAIR What are the key elements to make data FAIR? In the following videos we will explain these elements and give you the opportunity to test your knowledge. The objective of the following videos is to identify the key elements that help make research data Findable, Accessible, Interoperable and Reusable (FAIR). The following videos are an elaboration on these key elements of FAIR. Test your knowledge afterwards with the ‘Fill in the missing words’ assignment beneath. Documentation and Metadata [Embedded video: https://youtu.be/q-NxFTlcKgs ] Quiz - Fill in the missing words based on the animation on Documentation and metadata\n_______ _________ is the recording the changes of data and code in time to recall previous versions (Answers: versioning control, version control, Versioning control, Version control)\nAn important type of documentation is _____ which is data describing data (Answer: metadata)\nMetadata ________ intend to establish a common understanding of the meaning of the data (Answer: standards) Interoperability\n\n[Embedded video: https://youtu.be/83Jnyd5_vxM ]\nQuiz - Fill in the missing words based on the animation on Interoperability 1. Storing and sharing data in ______ ________ formats increases interoperability (Answers: open file) 2. Data become more interoperable when using metadata __________ (Answer: standards) and when _____________ (Answer: connecting / linking) them to other relevant datasets. 3. Making data ____________ (Answer: interoperable) allows you and others to ____________ (Answer: re-use /reuse ) the data without much pre-processing Access to Data\n[Embedded video: https://youtu.be/3TWye1ftR1w ]\nQuiz - Fill in the missing words based on the animation on Access to data 1. When following the FAIR principles, access to data ensures the _____________ (Possible Answers: re-usability/reusability/re-use/reuse) of data. 2. FAIR data is ___________ (Answer: not) equivalent to ____________ data (Answer: open). 3. If data contains __________ (Possible Answers: confidential/sensitive/personal) information, the data should remain closed, but you need to provide access to the ____________ (Answer: metadata) to comply with the FAIR principles. Persistent Identifiers\n[Embedded video: https://youtu.be/m-oWVp92xG0 ]\nQuiz - Fill in the missing words based on the animation on Persistent Identifiers\n\nIf you want to make data ___________( Possible Answer: accessible/findable) and ____________(Possible Answer: findable/accessible) a data set should have a persistent identifier.\nAn example of persistent identifier is a _______ ________ _______ (Answers: digital object identifier) or DOI commonly used for referencing publications.\nA DOI allows to easily _______ (Answer: cite) a dataset for those reusing it."
+    "section": "8.2 What are the FAIR principles?",
+    "text": "8.2 What are the FAIR principles?\nThe FAIR principles were created in order to maximize the reuse of scientific data, to promote best practices on Research Data Management and to enable Open Science. Applying the FAIR principles means to make research data Findable, Accessible, Interoperable and Reusable.\n\nFindable means that others (both human and machines) can discover the data\nAccessible means that the data can be made available to others\nInteroperable means that the data can be integrated with other data and can be easily used by machines or in data analysis workflows.\nReusable means that the data can be used for new research\n\nThese four principles should be applied (as much as possible) throughout the entire research cycle and they are closely interconnected with each other.\nThe FAIR Data principles are NOT:\n\nA standard. The FAIR principles need to be adapted and followed as much as possible by considering the research practices in your field. FAIR principles should be rather seen as progressive steps that help you make your data re-usable.\nEquivalent to Open Data. FAIR data does not necessarily mean openly available: it should be clear to others that the data exists and which steps they could take to potentially access the data.\nApplied using a particular technology or tool. There might be different tools that enable FAIR data within different disciplines or research workflows.\n\nThere are important elements to consider within your research workflows if you aim to make the data of your project FAIR:\n\nDocumentation & Metadata\n\nInteroperability\nAccess to data\nPersistent identifiers\nLicences\n\nScripts of the videos copied or adapted from: Holmstrand, K.F., den Boer, S.P.A., Vlachos, E., Martínez-Lavanchy, P.M., Hansen, K.K. (Eds.) (2019). Research Data Management (eLearning course). doi: 10.11581/dtu:00000047 Videos: Key elements to make data FAIR"
   },
   {
     "objectID": "07-FAIR-principles.html#data-and-code-licences",
     "href": "07-FAIR-principles.html#data-and-code-licences",
     "title": "8  FAIR principles",
     "section": "8.3 Data and Code Licences",
-    "text": "8.3 Data and Code Licences\n[Embedded video: https://youtu.be/3nl_Z7Jt-Z4 ]\nMore resources on licences: - Information on the Creative Commons (CC) licences (for research outputs like data, presentations, papers): https://creativecommons.org/licenses/ - Overview of commonly used software licences: https://choosealicense.com/licenses/ - If in doubt, talk to the data steward of your faculty!\nQuiz - Fill in the missing words based on the animation on Licenses\n\nWhen making the data or code of your project openly available, you should provide a usage ___________ (Possible Answers: license/ licence)\nThe most popular licenses for data are the_________ __________ (Possible Answers: creative/Creative commons/Commons) licenses.\nAs for data, there are __________ (Possible Answer: permissive/ restrictive) and _________ (Possible Answers: restrictive /permissive) licenses for software\nBefore adding a license to your code or software consult the guidelines of the university or contact the _________ __________ (Answers: data steward) of your Faculty."
+    "text": "8.3 Data and Code Licences\nMore resources on licences:\n\nInformation on the Creative Commons (CC) licences (for research outputs like data, presentations, papers): https://creativecommons.org/licenses/\nOverview of commonly used software licences: https://choosealicense.com/licenses/\nIf in doubt, talk to the data steward of your faculty!"
+  },
+  {
+    "objectID": "07-FAIR-principles.html#assessing-fairness",
+    "href": "07-FAIR-principles.html#assessing-fairness",
+    "title": "8  FAIR principles",
+    "section": "8.4 Assessing FAIRness",
+    "text": "8.4 Assessing FAIRness\nCheck out one of these datasets and evaluate how Findable, Accessible, Interoperable, Re-usable (FAIR) you think this data set is. If you have other examples to share, please do so in GitHub Issue"
   },
   {
     "objectID": "07-FAIR-principles.html#summary",
     "href": "07-FAIR-principles.html#summary",
     "title": "8  FAIR principles",
-    "section": "8.4 Summary",
-    "text": "8.4 Summary\nBy now, you have learned about different elements that help you make the data of your project FAIR. Many of them are straightforward to implement in your daily work, for example organizing your files and folders, keeping documentation of the data, reflecting about data access, etc. Other elements might require special tools or at least special tools would make your work easier. We will talk about some tools for documentation and data publication when we meet in class 2."
+    "section": "8.5 Summary",
+    "text": "8.5 Summary\nBy now, you have learned about different elements that help you make the data of your project FAIR. Many of them are straightforward to implement in your daily work, for example organizing your files and folders, keeping documentation of the data, reflecting about data access, etc. Other elements might require special tools or at least special tools would make your work easier."
   },
   {
     "objectID": "07-FAIR-principles.html#discussion",
     "href": "07-FAIR-principles.html#discussion",
     "title": "8  FAIR principles",
-    "section": "8.5 Discussion",
-    "text": "8.5 Discussion\nDiscussion topic - Share your thoughts on the FAIR principles This discussion is centered on the key elements of FAIR. Which principle is the most challenging, the easiest, the most relevant for the type of data you work with? What topic around FAIR would you like to discuss in more detail?"
+    "section": "8.6 Discussion",
+    "text": "8.6 Discussion\nDiscussion topic - Share your thoughts on the FAIR principles This discussion is centered on the key elements of FAIR. Which principle is the most challenging, the easiest, the most relevant for the type of data you work with? What topic around FAIR would you like to discuss in more detail? Share in this GitHub issue"
+  },
+  {
+    "objectID": "07-FAIR-principles.html#references",
+    "href": "07-FAIR-principles.html#references",
+    "title": "8  FAIR principles",
+    "section": "8.7 References:",
+    "text": "8.7 References:\n\n“The FAIR Guiding Principles for scientific data management and stewardship” Wilkinson et al. 2016. https://doi.org/10.1038/sdata.2016.18\nScripts of the videos copied or adapted from: Holmstrand, K.F., den Boer, S.P.A., Vlachos, E., Martínez-Lavanchy, P.M., Hansen, K.K. (Eds.) (2019). Research Data Management (eLearning course). doi: 10.11581/dtu:00000047 Videos: Key elements to make data FAIR"
   },
   {
     "objectID": "08-Realising-FAIR-Organisation.html",
@@ -284,14 +333,14 @@
     "href": "09-Realising-FAIR-Documentation.html#activities",
     "title": "10  Realising FAIR: Data Documentation",
     "section": "10.1 Activities",
-    "text": "10.1 Activities\n\nWatch the videos about ‘Data Documentation tools’ and complete the corresponding quizzes.\nWrite a readme file and share it on GitHub. Comment on another person’s readme and provide them with some tips to improve."
+    "text": "10.1 Activities\n\nWatch the presentation about Data Documentation tools\nWrite a readme file and share it on GitHub. Comment on another person’s readme and provide them with some tips to improve."
   },
   {
     "objectID": "09-Realising-FAIR-Documentation.html#documentation-tools",
     "href": "09-Realising-FAIR-Documentation.html#documentation-tools",
     "title": "10  Realising FAIR: Data Documentation",
     "section": "10.2 Documentation tools",
-    "text": "10.2 Documentation tools\nNow that you know more about how to organise your data and name your files, we can talk about documentation. Documentation is vital to making your work understandable, which is, in turn, necessary for your work to be reusable. Documentation is important not only for data, but for your projects in general, including the code you write. Your documentation should provide context for your project and its data and should, for example, provide information about the data collection, structure, and ownership.\nIn the next video we will talk about different methods and tools you can use to document projects, datasets, and code. We will also briefly talk about metadata. 04-2_Module-4_Video_Presentation_DataDocumentation]"
+    "text": "10.2 Documentation tools\nNow that you know more about how to organise your data and name your files, we can talk about documentation. Documentation is vital to making your work understandable, which is, in turn, necessary for your work to be reusable. Documentation is important not only for data, but for your projects in general, including the code you write. Your documentation should provide context for your project and its data and should, for example, provide information about the data collection, structure, and ownership.\nIn the next video we will talk about different methods and tools you can use to document projects, datasets, and code. We will also briefly talk about metadata. 04-2_Module-4_Video_Presentation_DataDocumentation (12 minutes, audio will play automatically in full presentation mode)"
   },
   {
     "objectID": "09-Realising-FAIR-Documentation.html#assignment-create-a-readme-file",
@@ -315,18 +364,32 @@
     "text": "10.5 Assignment: Electronic Lab Notebooks (optional)\nEstimated time: 20 minutes\nTU Delft offers two different Electronic Lab Notebooks, eLABjournal and Rspace. Watch the short videos introducing them:\n\neLABjournal intro (4:11 minutes):\nRSpace intro (1:43 minutes):\n\nTry out one of the Electronic Lab Notebooks:\nTo access eLABJournal\n\nGo to https://www.elabjournal.com/login/\nSelect ‘log in with your institute account’ (below the login form)\nLogin with your netID\n\nNote: new ELN groups must be reported to support@elabnext.com (eLABJournal Support) to get full access to eLABJournal.\nTo access RSpace:\n\nGo to https://rspace.tudelft.nl\nOn the first time you log in to this tool, following authentication, you will be directed to the RSpace signup page, pre-populated with some information released from your netID, where you need to confirm that you want an account. (On subsequent logins, you will go straight to RSpace after authentication using your netID.)\n\nAnswer the following questions to see if the Electronic Lab Notebooks are helpful to your work:\n\nWas there any specific feature in one or both of the ELNs that would be particularly useful?\nWhat are the pros and cons that you can already think of when using an ELN for documenting your lab work?"
   },
   {
+    "objectID": "09-Realising-FAIR-Documentation.html#paper-lab-notebooks",
+    "href": "09-Realising-FAIR-Documentation.html#paper-lab-notebooks",
+    "title": "10  Realising FAIR: Data Documentation",
+    "section": "10.6 Paper Lab Notebooks",
+    "text": "10.6 Paper Lab Notebooks\nIn case you prefer to stick to paper, here are some organisation tips:\n\nState the name of the researcher and period of use on the cover of the notebook\nNumber all pages consecutively\nAll entries should be written with permanent ink (no pencils)\nStandard language should be English\nEach record requires a date\nMake sure that it is possible to separate the different experiments recorded (use meaningful titles)\nAdd a note where the raw data linked to the experiment will be stored and the name of the corresponding data file\nDo not keep loose pages in your notebook. Fix to the notebook any relevant piece of paper and/or picture in a proper way\n\nMake sure you scan your paper notebook so that you have a back up copy!"
+  },
+  {
+    "objectID": "09-Realising-FAIR-Documentation.html#softwarecode-documentation",
+    "href": "09-Realising-FAIR-Documentation.html#softwarecode-documentation",
+    "title": "10  Realising FAIR: Data Documentation",
+    "section": "10.7 Software/code documentation",
+    "text": "10.7 Software/code documentation\n\ntemplate to set up a GitHub (or GitLab) repository with all the relevant documentation about the project\nCode Refinery materials on Code Documentation\nUse the CodeMeta creator to create a .json metadata file to add to your repo\nJupyter Notebooks\nFor Julia you can use DrWatson to create consistent folder structures. Particularly useful for simulation data."
+  },
+  {
     "objectID": "09-Realising-FAIR-Documentation.html#resources",
     "href": "09-Realising-FAIR-Documentation.html#resources",
     "title": "10  Realising FAIR: Data Documentation",
-    "section": "10.6 Resources",
-    "text": "10.6 Resources\n\nCornell University Research Data Management Service Group. Guide to writing “readme” style metadata. URL: https://data.research.cornell.edu/content/readme\nAlderliesten, René; Yao, L. (Liaojun) (2017): Mode I fatigue delamination growth in composite laminates with fibre bridging. 4TU.ResearchData. Dataset. https://doi.org/10.4121/uuid:6da548f6-f801-41b4-8d88-db9ae81f6913\nJupyterLab. Demo: The Lorenz Differential Equations. URL: https://mybinder.org/v2/gh/jupyterlab/jupyterlab-demo/master?urlpath=lab/tree/demo\nFrictionless Data. Data Package Creator. URL: https://create.frictionlessdata.io/\nSoftware Heritage. CodeMeta generator. URL: https://codemeta.github.io/codemeta-generator/\nElectronic Lab Notebooks at TU Delft\nFAIRsharing.org: standards, databases, policies.\n\n\n10.6.1 Quiz Data Documentation tools\nTest your knowledge after watching the ‘Data Documentation tools’ video. Indicate if the following sentences are True or False.\n\nMetadata - data about data - is an important type of documentation (Answer: True)\nREADME files can be used only to document whole projects (Answer: False)\nCodebooks are used for the documentation of code (Answer: - False)\nGitHub/GitLab and Jupyter notebooks are good tools for documenting code (Answer: True)\nMetadata can be added to data as part of the file name, using a README file and using tags (Answer: True)"
+    "section": "10.8 Resources",
+    "text": "10.8 Resources\n\nCornell University Research Data Management Service Group. Guide to writing “readme” style metadata. URL: https://data.research.cornell.edu/content/readme\nAlderliesten, René; Yao, L. (Liaojun) (2017): Mode I fatigue delamination growth in composite laminates with fibre bridging. 4TU.ResearchData. Dataset. https://doi.org/10.4121/uuid:6da548f6-f801-41b4-8d88-db9ae81f6913\nJupyterLab. Demo: The Lorenz Differential Equations. URL: https://mybinder.org/v2/gh/jupyterlab/jupyterlab-demo/master?urlpath=lab/tree/demo\nFrictionless Data. Data Package Creator. URL: https://create.frictionlessdata.io/\nSoftware Heritage. CodeMeta generator. URL: https://codemeta.github.io/codemeta-generator/\nElectronic Lab Notebooks at TU Delft\nFAIRsharing.org: standards, databases, policies."
   },
   {
     "objectID": "10-Realising-FAIR-Publication.html",
     "href": "10-Realising-FAIR-Publication.html",
     "title": "11  Realising FAIR: Data Publication",
     "section": "",
-    "text": "Estimated time: 15 minutes\nIn the next video we will delve more into data access during and after a research project. You will also be introduced to the topic of data publication and data repositories. Data access is one of the main elements of the FAIR principles you heard about in Module 3. Remember that it is important to reflect about data access at the beginning of your project to ensure that the right people have access to the right data.\nOne way to make the data of your project Findable and Accessible to a broad audience is to publish it in a data repository. Data repositories help you comply with the FAIR principles and make it easy to apply some of their main elements, such as Licences and Persistent identifiers.\nIn the next video we will delve into data access during and after a research project. You will also be introduced to the topic of data publication and data repositories.\n[An embedded video is displayed here based on the following file: 04-3_Module-4_Video_Presentation_DataAccess_DataPublication ]\nYou can also share your data via a data article."
+    "text": "Estimated time: 15 minutes\nIn the next video we will delve more into data access during and after a research project. You will also be introduced to the topic of data publication and data repositories. Data access is one of the main elements of the FAIR principles you heard about in Module 3. Remember that it is important to reflect about data access at the beginning of your project to ensure that the right people have access to the right data.\nOne way to make the data of your project Findable and Accessible to a broad audience is to publish it in a data repository. Data repositories help you comply with the FAIR principles and make it easy to apply some of their main elements, such as Licences and Persistent identifiers.\nIn the next video we will delve into data access during and after a research project. You will also be introduced to the topic of data publication and data repositories.\n[An embedded video is displayed here based on the following file: 04-3_Module-4_Video_Presentation_DataAccess_DataPublication ]\nFor more information, see the (How to videos on the 4TU.ResearchData YouTube channel\nYou can also share your data via a data article."
   },
   {
     "objectID": "10-Realising-FAIR-Publication.html#references",
