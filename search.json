@@ -39,7 +39,7 @@
     "href": "01-Introduction.html#assessment-criteria",
     "title": "2  Introduction",
     "section": "2.4 Assessment criteria",
-    "text": "2.4 Assessment criteria\nIn order to receive the 1.5 Graduate School Credits you have to:\n\nComplete all activities\nParticipate in all discussions and respond to the relevant GitHub issues\n\nSubmit assignments (data flow maps) in weeks 1 and 2 and the assignment of week 3 (reflection on RDM strategy).\nWrite a Data Management Plan using DMPonline\n\nAttend and participate in both class Sessions\n\nNote: you will not be graded on your assignments. Use the class sessions and discussions to gather feedback."
+    "text": "2.4 Assessment criteria\nIn order to receive the 1.5 Graduate School Credits you have to:\n\nComplete all activities\n\nParticipate in all discussions and respond to the relevant GitHub issues\nSubmit assignments (data flow maps) in weeks 1 and 2 and the assignment of week 3.\nWrite a Data Management Plan using DMPonline\n\nAttend and participate in both class sessions (including a 4 minute presentation of your data flow map assignment)\n\nNote: you will not be graded on your assignments. Use the class sessions and discussions to gather feedback."
   },
   {
     "objectID": "01-Introduction.html#deadlines",
@@ -95,14 +95,14 @@
     "href": "04-Class-1.html",
     "title": "5  Class 1",
     "section": "",
-    "text": "Note: this is a repeat of the activities mentioned in Importance of RDM\n\nWatch the presentations on ‘Why is RDM important’? (10 minutes)\nRead Markowetz 2015: Five selfish reasons to work reproducibly OR Watch the presentation (50 minutes)\nSet up a GitHub account (see Assignment 1) (10 minutes)"
+    "text": "Note: this is a repeat of the activities mentioned in Importance of RDM\n\nWatch the presentations on ‘Why is RDM important’? (10 minutes)\nRead (Markowetz 2015): Five selfish reasons to work reproducibly OR Watch the presentation (50 minutes)\nSet up a GitHub account (see Assignment 1) (10 minutes)"
   },
   {
     "objectID": "04-Class-1.html#class-1",
     "href": "04-Class-1.html#class-1",
     "title": "5  Class 1",
     "section": "5.2 Class 1",
-    "text": "5.2 Class 1\n\nIntroductions\nDiscuss why RDM is important to you\n\nDo you find the horror stories or the benefits more convincing?\nDo you have a horror story to share?\n\nIntroduction Data Flow Map assignment\nCheck GitHub accounts and issues\nImportance of Documentation"
+    "text": "5.2 Class 1\n\nIntroductions\nDiscuss why RDM is important to you\n\nDo you find the horror stories or the benefits more convincing?\nDo you have a horror story to share?\n\nIntroduction Data Flow Map assignment\nCheck GitHub accounts and issues\nImportance of Documentation\n\n\n\n\n\nMarkowetz, Florian. 2015. “Five Selfish Reasons to Work Reproducibly.” Genome Biology 16 (1). https://doi.org/10.1186/s13059-015-0850-7."
   },
   {
     "objectID": "05-Essentials-for-Research-Data.html",
@@ -179,7 +179,7 @@
     "href": "06-Assignment-Data-Flow-Map-1.html",
     "title": "7  Assignment 2 - Data Flow Map",
     "section": "",
-    "text": "Estimated time: 60 minutes\nIn this assignment you will have to write down what data you expect to collect/create during your project. After this, you will reflect on the back-up and storage for your data. We will provide you with a toolbox and a step-by-step guide to help you reflect on your data. At the bottom of the page you will find some examples we prepared. You can download the PowerPoint template via a data repository.\nYou can either use the template, or work on a sheet of paper with post-its.\nAt the end, make sure you submit the reflections for every step."
+    "text": "Estimated time: 60 minutes\nIn this assignment (based on (martinez-lavanchy2022?)) you will have to write down what data you expect to collect/create during your project. After this, you will reflect on the back-up and storage for your data. We will provide you with a toolbox and a step-by-step guide to help you reflect on your data. At the bottom of the page you will find some examples we prepared. You can download the PowerPoint template via a data repository.\nYou can either use the template, or work on a sheet of paper with post-its.\nAt the end, make sure you submit the reflections for every step."
   },
   {
     "objectID": "06-Assignment-Data-Flow-Map-1.html#step-1---fill-out-the-data-you-will-collectcreate-with-a-short-description",
@@ -210,13 +210,6 @@
     "text": "7.4 Step 4 - Reflect on the theme Back-up and Storage\n\nWe talked about the infrastructure that TU Delft offers for storing and backing up data, so think:\n\nWhere will you be storing the data?\nWhere will the master copy be stored?\nWhat infrastructure will you use as a backup?\n\nKeep in mind the flags you have added to the list of datasets when selecting the storage and backup for the data and code.\nReflect about the Theme “Back-up and storage”, think about a strategy to securely store the data of your project and add your choice and considerations to the template."
   },
   {
-    "objectID": "06-Assignment-Data-Flow-Map-1.html#references",
-    "href": "06-Assignment-Data-Flow-Map-1.html#references",
-    "title": "7  Assignment 2 - Data Flow Map",
-    "section": "7.5 References",
-    "text": "7.5 References\nMartinez-Lavanchy, P.M., van Schöll, Pim, Zormpa, Eirini, & Singotani, Roséane Cathy. (2022, July 8). TU Delft Research Data Management 101 course - Assignments Data Flow Map. Zenodo. https://doi.org/10.5281/zenodo.6325938"
-  },
-  {
     "objectID": "07-FAIR-principles.html",
     "href": "07-FAIR-principles.html",
     "title": "8  FAIR principles",
@@ -235,28 +228,21 @@
     "href": "07-FAIR-principles.html#what-are-the-fair-principles",
     "title": "8  FAIR principles",
     "section": "8.2 What are the FAIR principles?",
-    "text": "8.2 What are the FAIR principles?\nThe FAIR principles were created in order to maximize the reuse of scientific data, to promote best practices on Research Data Management and to enable Open Science. Applying the FAIR principles means to make research data Findable, Accessible, Interoperable and Reusable.\n\nFindable means that others (both human and machines) can discover the data\nAccessible means that the data can be made available to others\nInteroperable means that the data can be integrated with other data and can be easily used by machines or in data analysis workflows.\nReusable means that the data can be used for new research\n\nThese four principles should be applied (as much as possible) throughout the entire research cycle and they are closely interconnected with each other.\n\n\n\nThe Turing Way illustration by Scriberia. CC-BY 4.0. DOI: 10.5281/zenodo.3332807\n\n\nThe FAIR Data principles are NOT:\n\nA standard. The FAIR principles need to be adapted and followed as much as possible by considering the research practices in your field. FAIR principles should be rather seen as progressive steps that help you make your data re-usable.\nEquivalent to Open Data. FAIR data does not necessarily mean openly available: it should be clear to others that the data exists and which steps they could take to potentially access the data.\nApplied using a particular technology or tool. There might be different tools that enable FAIR data within different disciplines or research workflows.\n\nThere are important elements to consider within your research workflows if you aim to make the data of your project FAIR:\n\nDocumentation & Metadata\nInteroperability\nAccess to data\nPersistent identifiers\nLicences\n\nScripts of the videos copied or adapted from (Holmstrand et al. 2019)."
+    "text": "8.2 What are the FAIR principles?\nThe FAIR principles were created in order to maximize the reuse of scientific data, to promote best practices on Research Data Management and to enable Open Science. Applying the FAIR principles means to make research data Findable, Accessible, Interoperable and Reusable (Wilkinson et al. 2016).\n\nFindable means that others (both human and machines) can discover the data\nAccessible means that the data can be made available to others\nInteroperable means that the data can be integrated with other data and can be easily used by machines or in data analysis workflows.\nReusable means that the data can be used for new research\n\nThese four principles should be applied (as much as possible) throughout the entire research cycle and they are closely interconnected with each other.\n\n\n\nThe Turing Way illustration by Scriberia. CC-BY 4.0. DOI: 10.5281/zenodo.3332807\n\n\nThe FAIR Data principles are NOT:\n\nA standard. The FAIR principles need to be adapted and followed as much as possible by considering the research practices in your field. FAIR principles should be rather seen as progressive steps that help you make your data re-usable.\nEquivalent to Open Data. FAIR data does not necessarily mean openly available: it should be clear to others that the data exists and which steps they could take to potentially access the data.\nApplied using a particular technology or tool. There might be different tools that enable FAIR data within different disciplines or research workflows.\n\nThere are important elements to consider within your research workflows if you aim to make the data of your project FAIR:\n\nDocumentation & Metadata\nInteroperability\nAccess to data\nPersistent identifiers\nLicences\n\nScripts of the videos copied or adapted from (Holmstrand et al. 2019)."
   },
   {
     "objectID": "07-FAIR-principles.html#data-and-code-licences",
     "href": "07-FAIR-principles.html#data-and-code-licences",
     "title": "8  FAIR principles",
     "section": "8.3 Data and Code Licences",
-    "text": "8.3 Data and Code Licences\nMore resources on licences:\n\nLicenses for data, presentations and articles: Creative Commons (CC), or use the license chooser.\nSoftware: Choose a License.\nIf in doubt, talk to Esther."
+    "text": "8.3 Data and Code Licences\nMore resources on licences:\n\nLicenses for data, presentations and articles: Creative Commons (CC), or use the license chooser.\nSoftware: Choose a License. (For more detailed information, see ‘How to choose a software licence’.\nIf in doubt, talk to Esther."
   },
   {
     "objectID": "07-FAIR-principles.html#assessing-fairness",
     "href": "07-FAIR-principles.html#assessing-fairness",
     "title": "8  FAIR principles",
     "section": "8.4 Assessing FAIRness",
-    "text": "8.4 Assessing FAIRness\nCheck out one of these datasets and evaluate how Findable, Accessible, Interoperable, Re-usable (FAIR) you think this data set is. If you have other examples to share, please do so in GitHub Issue"
-  },
-  {
-    "objectID": "07-FAIR-principles.html#references",
-    "href": "07-FAIR-principles.html#references",
-    "title": "8  FAIR principles",
-    "section": "8.5 References:",
-    "text": "8.5 References:\n\n(Wilkinson et al. 2016)\nScripts of the videos copied or adapted from (Holmstrand et al. 2019)\n\n\n\n\n\nHolmstrand, K. F., S. P. A. den Boer, E. Vlachos, P. M. Martínez-Lavanchy, K. K. Hansen, A. V. Larsen, S. Zurcher, et al. 2019. “Research Data Management (eLearning Course).” https://doi.org/10.11581/DTU:00000047.\n\n\nWilkinson, Mark D., Michel Dumontier, IJsbrand Jan Aalbersberg, Gabrielle Appleton, Myles Axton, Arie Baak, Niklas Blomberg, et al. 2016. “The FAIR Guiding Principles for Scientific Data Management and Stewardship.” Scientific Data 3 (1). https://doi.org/10.1038/sdata.2016.18."
+    "text": "8.4 Assessing FAIRness\nCheck out one of these datasets and evaluate how Findable, Accessible, Interoperable, Re-usable (FAIR) you think this data set is. If you have other examples to share, please do so in GitHub Issue #\n\n\n\n\nHolmstrand, K. F., S. P. A. den Boer, E. Vlachos, P. M. Martínez-Lavanchy, K. K. Hansen, A. V. Larsen, S. Zurcher, et al. 2019. “Research Data Management (eLearning Course).” https://doi.org/10.11581/DTU:00000047.\n\n\nWilkinson, Mark D., Michel Dumontier, IJsbrand Jan Aalbersberg, Gabrielle Appleton, Myles Axton, Arie Baak, Niklas Blomberg, et al. 2016. “The FAIR Guiding Principles for Scientific Data Management and Stewardship.” Scientific Data 3 (1). https://doi.org/10.1038/sdata.2016.18."
   },
   {
     "objectID": "08-Realising-FAIR-Organisation.html",
@@ -277,7 +263,7 @@
     "href": "08-Realising-FAIR-Organisation.html#data-organisation",
     "title": "9  Realising FAIR: Data organisation",
     "section": "9.2 Data Organisation",
-    "text": "9.2 Data Organisation\nIn the previous module you learned that ‘Documentation’ is one of the main elements of the FAIR principles. Good data documentation starts with good organisation and file naming of the data of your project! Good data organisation on your computer or your Project Data (U:) drive will allow you to make the data Findable both for yourself and for your collaborators who have access to the data. Making the data findable also indirectly improves the re-usability of the data. You need to be able to find the data before you can re-use it! Implementing a good folder structure, data organisation and a meaningful file naming convention is a simple first step towards making data FAIR.\nIn the next video, we will go through some best practices to help you organise the data of your project efficiently. These best practices are using a good folder structure, tagging files (if possible) and an appropriate file naming convention to enhance the findability of the data in your directories.\n\n04-1_Module-4_Video_Presentation_Data organisation (15 minutes, audio will play automatically in full presentation modus)\n\n\n9.2.1 Presentation Resources\n\nFolder structure explanation of Neuroscientist Nikola Vukovic\nThe Turing Way - Data storage and organisation The Turing Way Community (2021).\nTagging and Finding Your Files: Home. MIT Libraries\n\n\n\n9.2.2 Quiz Data Organisation\nTest your knowledge after watching the ‘Data organisation’ video. Indicate if the following sentences are True or False.\n\nGood data organisation makes the data Findable for yourself and your collaborators. (Answer: True)\nThinking about data organisation at the beginning of your project can save you a lot of time later on. (Answer: True)\nA Research Compendium does not follow a Hierarchical structure. (Answer: False)\nIn a Research Compendium data, methods, and outputs should be clearly separated. (Answer: True)\nConsistency is not relevant in data organisation. (Answer: False)"
+    "text": "9.2 Data Organisation\nIn the previous module you learned that ‘Documentation’ is one of the main elements of the FAIR principles. Good data documentation starts with good organisation and file naming of the data of your project! Good data organisation on your computer or your Project Data (U:) drive will allow you to make the data Findable both for yourself and for your collaborators who have access to the data. Making the data findable also indirectly improves the re-usability of the data. You need to be able to find the data before you can re-use it! Implementing a good folder structure, data organisation and a meaningful file naming convention is a simple first step towards making data FAIR.\nIn the next video, we will go through some best practices to help you organise the data of your project efficiently. These best practices are using a good folder structure, tagging files (if possible) and an appropriate file naming convention to enhance the findability of the data in your directories.\n\n04-1_Module-4_Video_Presentation_Data organisation (15 minutes, audio will play automatically in full presentation modus)\n\n\n9.2.1 Presentation Resources\n\nFolder structure explanation of Neuroscientist Nikola Vukovic\nThe Turing Way - Data storage and organisation (community2022?)\nTagging and Finding Your Files: Home. MIT Libraries\n\n\n\n9.2.2 Quiz Data Organisation\nTest your knowledge after watching the ‘Data organisation’ video. Indicate if the following sentences are True or False.\n\nGood data organisation makes the data Findable for yourself and your collaborators. (Answer: True)\nThinking about data organisation at the beginning of your project can save you a lot of time later on. (Answer: True)\nA Research Compendium does not follow a Hierarchical structure. (Answer: False)\nIn a Research Compendium data, methods, and outputs should be clearly separated. (Answer: True)\nConsistency is not relevant in data organisation. (Answer: False)"
   },
   {
     "objectID": "08-Realising-FAIR-Organisation.html#assignment-using-cookiecutter",
@@ -285,13 +271,6 @@
     "title": "9  Realising FAIR: Data organisation",
     "section": "9.3 Assignment: Using Cookiecutter",
     "text": "9.3 Assignment: Using Cookiecutter\nEstimated time: 20 minutes\nNote that you need to have Python and pip (or Anaconda) installed to easily follow the video. To install Anaconda:\n\nWindows (instruction video)\n\nOpen https://www.anaconda.com/products/individual#download-section with your web browser.\nDownload the Anaconda for Windows installer with Python 3. (If you are not sure which version to choose, you probably want the 64-bit Graphical Installer Anaconda3-…-Windows-x86_64.exe)\nInstall Python 3 by running the Anaconda Installer, using all of the defaults for installation except make sure to check Add Anaconda to my PATH environment variable.\n\nLinux\n\nOpen https://www.anaconda.com/products/individual#download-section with your web browser.\nDownload the Anaconda Installer with Python 3 for Linux.\nOpen a terminal window and navigate to the directory where the executable is downloaded (e.g., cd ~/Downloads).\nType 'bash Anaconda3- and then press Tab to autocomplete the full file name. The name of file you just downloaded should appear.\nPress Enter (or Return depending on your keyboard). You will follow the text-only prompts. To move through the text, press Spacebar.\nType Yes and press Enter to approve the license.\nPress Enter to approve the default location for the files.\nType Yes and press Enter to prepend Anaconda to your PATH (this makes the Anaconda distribution the default Python).\nClose the terminal window.\n\nMac (instruction video)\n\nOpen https://www.anaconda.com/products/individual#download-section with your web browser.\nDownload the Anaconda Installer with Python 3 for macOS (you can either use the Graphical or the Command Line Installer).\nInstall Python 3 by running the Anaconda Installer using all of the defaults for installation.\n\n\n\nWatch the video on setting up a research compendium using Cookiecutter (3:36 min).\nFor instructions on how to clone the cookiecutter template see here. For instructions to see hidden folders on Windows, see here.\n\n\nyou can also find a visualisation of the template on the GitHub repository\n\n\nWork on your own to populate the template with information/files from your project.\nShare your folder structure on GitHub issue# and comment on another person’s folder structure\nDiscuss with your peers how similar your own folder structure is to the one you created using Cookiecutter. What additional elements are there in the Cookiecutter project? Is there anything that the Cookiecutter template is missing?\n\nIf you didn’t find this template useful, you can browse these templates to see if one of these fits your needs better:\n\nData Science\nPython template\nReproducible Science\nMore templates\n\n\n\n\nThe Turing Way illustration by Scriberia. CC-BY 4.0. DOI: 10.5281/zenodo.3332807"
-  },
-  {
-    "objectID": "08-Realising-FAIR-Organisation.html#references",
-    "href": "08-Realising-FAIR-Organisation.html#references",
-    "title": "9  Realising FAIR: Data organisation",
-    "section": "9.4 References",
-    "text": "9.4 References\n\nColavizza, G., Hrynaszkiewicz, I., Staden, I., Whitaker, K., & McGillivray, B. The citation advantage of linking publications to research data. PLOS ONE 15(4), e0230416 (2020). https://doi.org/10.1371/journal.pone.0230416\nEuropean Commission. Directorate-General for Research & Innovation. H2020 Programme Guidelines on FAIR Data Management in Horizon 2020. Version 3.0. 26 July 2016. URL:https://core.ac.uk/download/pdf/301306355.pdf\nThe Turing Way: A Handbook for Reproducible Data Science (2022). Zenodo. 10.5281/zenodo.3233853"
   },
   {
     "objectID": "09-Realising-FAIR-Documentation.html",
@@ -312,7 +291,7 @@
     "href": "09-Realising-FAIR-Documentation.html#documentation-tools",
     "title": "10  Realising FAIR: Data Documentation",
     "section": "10.2 Documentation tools",
-    "text": "10.2 Documentation tools\nNow that you know more about how to organise your data and name your files, we can talk about documentation. Documentation is vital to making your work understandable, which is, in turn, necessary for your work to be reusable. Documentation is important not only for data, but for your projects in general, including the code you write. Your documentation should provide context for your project and its data and should, for example, provide information about the data collection, structure, and ownership.\nIn the next video we will talk about different methods and tools you can use to document projects, datasets, and code. We will also briefly talk about metadata.\n*04-2_Module-4_Video_Presentation_DataDocumentation (12 minutes, audio will play automatically in full presentation mode)"
+    "text": "10.2 Documentation tools\nNow that you know more about how to organise your data and name your files, we can talk about documentation. Documentation is vital to making your work understandable, which is, in turn, necessary for your work to be reusable. Documentation is important not only for data, but for your projects in general, including the code you write. Your documentation should provide context for your project and its data and should, for example, provide information about the data collection, structure, and ownership.\nIn the next video we will talk about different methods and tools you can use to document projects, datasets, and code. We will also briefly talk about metadata.\n\n04-2_Module-4_Video_Presentation_DataDocumentation (12 minutes, audio will play automatically in full presentation mode)"
   },
   {
     "objectID": "09-Realising-FAIR-Documentation.html#assignment-create-a-readme-file",
@@ -347,7 +326,7 @@
     "href": "09-Realising-FAIR-Documentation.html#softwarecode-documentation",
     "title": "10  Realising FAIR: Data Documentation",
     "section": "10.7 Software/code documentation",
-    "text": "10.7 Software/code documentation\n\nSee the example used in the presentation using JupyterLab\ntemplate to set up a GitHub (or GitLab) repository with all the relevant documentation about the project\nCode Refinery materials on Code Documentation\nUse the CodeMeta creator to create a .json metadata file to add to your repo\nBarbara Vreede’s presentation on Best Practices for Writing Reproducible Code\nJupyter Notebooks\nFor Julia you can use DrWatson to create consistent folder structures. Particularly useful for simulation data."
+    "text": "10.7 Software/code documentation\n\nSee the example used in the presentation using JupyterLab\ntemplate to set up a GitHub (or GitLab) repository with all the relevant documentation about the project\nCode Refinery materials on Code Documentation\nUse the CodeMeta creator to create a .json metadata file to add to your repo\nBarbara Vreede’s presentation on Best Practices for Writing Reproducible Code\nJupyter Notebooks\nAim For Understandability If You Want To Write Good Research Software\nFor Julia you can use DrWatson to create consistent folder structures. Particularly useful for simulation data."
   },
   {
     "objectID": "10-Realising-FAIR-Publication.html",
@@ -361,7 +340,7 @@
     "href": "10-Realising-FAIR-Publication.html#data-access",
     "title": "11  Realising FAIR: Data Publication",
     "section": "11.1 Data access",
-    "text": "11.1 Data access\nIt is important to reflect about data access at the beginning of your project to ensure that the right people have access to the right data.\nOne way to make the data of your project Findable and Accessible to a broad audience is to publish it in a data repository. Data repositories help you comply with the FAIR principles and make it easy to apply some of their main elements, such as licences and persistent identifiers.\n The Turing Way project illustration by Scriberia. Used under a CC-BY 4.0 licence. DOI: 10.5281/zenodo.3332807.\nIn the next video we will delve into data access during and after a research project. You will also be introduced to the topic of data publication and data repositories.\n\n04-3_Module-4_Video_Presentation_DataAccess_DataPublication (9 minutes, audio will play automatically in full presentation mode)\n\nTU Delft researchers can always use the 4TU.ResearchData repository (free up to 1 TB per researcher per year)\n\nFor more information, see the (How to videos on the 4TU.ResearchData YouTube channel\n\nIf you would like to look for a disciplinary specific data repository, you can use:\n\nre3data.org\nfairsharing.org\n\nData repositories will facilitate sustainable access to your data. For more information, watch this short video on ‘Sustainability of data use’ (from the Open Data Governance and Use - released under the CC-BY-NC-SA 4.0 license)\n\n\n\nImage by Errant Science"
+    "text": "11.1 Data access\nIt is important to reflect about data access at the beginning of your project to ensure that the right people have access to the right data.\nOne way to make the data of your project Findable and Accessible to a broad audience is to publish it in a data repository. Data repositories help you comply with the FAIR principles and make it easy to apply some of their main elements, such as licences and persistent identifiers.\n\n\n\nThe Turing Way project illustration by Scriberia. Used under a CC-BY 4.0 licence. DOI: 10.5281/zenodo.3332807.\n\n\nThe Turing Way project illustration by Scriberia. Used under a CC-BY 4.0 licence. DOI: 10.5281/zenodo.3332807.\nIn the next video we will delve into data access during and after a research project. You will also be introduced to the topic of data publication and data repositories.\n\n04-3_Module-4_Video_Presentation_DataAccess_DataPublication (9 minutes, audio will play automatically in full presentation mode)\n\nTU Delft researchers can always use the 4TU.ResearchData repository (free up to 1 TB per researcher per year)\n\nFor more information, see the How to videos on the 4TU.ResearchData YouTube channel\n\nIf you would like to look for a disciplinary specific data repository, you can use:\n\nre3data.org\nfairsharing.org\n\nData repositories will facilitate sustainable access to your data. For more information, watch this short video on ‘Sustainability of data use’ (from the Open Data Governance and Use - released under the CC-BY-NC-SA 4.0 license)\n\n\n\nImage by Errant Science"
   },
   {
     "objectID": "10-Realising-FAIR-Publication.html#datasoftware-articles",
@@ -382,14 +361,14 @@
     "href": "10-Realising-FAIR-Publication.html#references",
     "title": "11  Realising FAIR: Data Publication",
     "section": "11.4 References:",
-    "text": "11.4 References:\n\nColavizza, G., Hrynaszkiewicz, I., Staden, I., Whitaker, K., & McGillivray, B. The citation advantage of linking publications to research data. PLOS ONE 15(4), e0230416 (2020). https://doi.org/10.1371/journal.pone.0230416\nEuropean Commission. Directorate-General for Research & Innovation. H2020 Programme Guidelines on FAIR Data Management in Horizon 2020. Version 3.0. 26 July 2016. URL:https://core.ac.uk/download/pdf/301306355.pdf Resources:"
+    "text": "11.4 References:\n\n(colavizza2020?)\nH2020 Programme Guidelines on FAIR Data Management in Horizon 2020. Version 3.0. 26 July 2016."
   },
   {
     "objectID": "11-Assignment-Data-Flow-Map-2.html",
     "href": "11-Assignment-Data-Flow-Map-2.html",
     "title": "12  Assignment 3 - Data Flow Map Update",
     "section": "",
-    "text": "Estimated time: 60 minutes\nNow that you learned about how to make your data more FAIR, you will have another look at the Data Flow Map assignment."
+    "text": "Estimated time: 60 minutes\nNow that you learned about how to make your data more FAIR, you will have another look at the Data Flow Map assignment (based on (martinez-lavanchy2022?))."
   },
   {
     "objectID": "11-Assignment-Data-Flow-Map-2.html#step-1---how-to-apply-fair-to-your-data-flow-map",
@@ -427,13 +406,6 @@
     "text": "12.5 Step 6 - Reflect on the theme Access and Publication\nIt is important to reflect early in your project about who will be accessing the datasets you collect/create, when they will access the data in the different steps of the project and how. Also, before preparing your data for publication, you need to reflect if it is possible/allowed for you to publish the data. You might need to process some data before you can make them available, especially if you are working with confidential data.\nReflect and answer these questions for each dataset:\n\nWho will have access to this dataset during the project?\nIf others than you will have access to the dataset during the project, how will you share the data?\nAt the end of the project this dataset can be:\n\nopen - no confidential information in it , it can be published\n\nIn which repository will you publish it?\nDoes the repository provide a DOI and license for the dataset?\nWhat license do you plan to use?\n\nrestricted access - there is confidential information in it, can’t be anonymize, can’t be published\n\nHow can somebody request the data after you finish your project?\n\nrestricted access with public metadata - there is confidential information in it, but the description of the dataset can be published\n\nWhere will you publish the metadata and where will the data be stored?\nDoes the repository provide a DOI and license for the metadata?\nWhat license do you plan to use?\n\n\nGo to the toolbox and use the action arrows to indicate if you need to process the data before publishing them"
   },
   {
-    "objectID": "11-Assignment-Data-Flow-Map-2.html#references",
-    "href": "11-Assignment-Data-Flow-Map-2.html#references",
-    "title": "12  Assignment 3 - Data Flow Map Update",
-    "section": "12.6 References",
-    "text": "12.6 References\n\nMartinez-Lavanchy, P.M., van Schöll, Pim, Zormpa, Eirini, & Singotani, Roséane Cathy. (2022, July 8). TU Delft Research Data Management 101 course - Assignments Data Flow Map. Zenodo. https://doi.org/10.5281/zenodo.6325938"
-  },
-  {
     "objectID": "12-Plan-for-RDM.html",
     "href": "12-Plan-for-RDM.html",
     "title": "13  Plan for RDM",
@@ -452,21 +424,21 @@
     "href": "12-Plan-for-RDM.html#what-is-a-data-management-plan-dmp",
     "title": "13  Plan for RDM",
     "section": "13.2 What is a Data Management Plan (DMP)?",
-    "text": "13.2 What is a Data Management Plan (DMP)?\nWhat exactly is a data management plan? Watch the video for an introduction to data management plans.\nScript adapted from: Holmstrand, K.F., den Boer, S.P.A., Vlachos, E., Martínez-Lavanchy, P.M., Hansen, K.K. (Eds.) (2019). Research Data Management (eLearning course). doi: 10.11581/dtu:00000047"
+    "text": "13.2 What is a Data Management Plan (DMP)?\nWhat exactly is a data management plan? Watch the video for an introduction to data management plans.\nScript adapted from (Holmstrand et al. 2019)."
   },
   {
     "objectID": "12-Plan-for-RDM.html#why-create-a-data-management-plan",
     "href": "12-Plan-for-RDM.html#why-create-a-data-management-plan",
     "title": "13  Plan for RDM",
     "section": "13.3 Why create a Data Management Plan?",
-    "text": "13.3 Why create a Data Management Plan?\nWhy is it necessary to create a data management plan? Watch the following video in which a researcher and data steward talk about the importance of creating a data management plan.\n\nNatalia Romero Herrera talking about the benefits of writing a DMP\nEsther Plomp talking about the benefits of writing a DMP\n\n\nSee the next module for the assignment to create your DMP."
+    "text": "13.3 Why create a Data Management Plan?\nWhy is it necessary to create a data management plan? Watch the following video in which a researcher and data steward talk about the importance of creating a data management plan.\n\nNatalia Romero Herrera talking about the benefits of writing a DMP\nEsther Plomp talking about the benefits of writing a DMP\n\n\nSee the next module for the assignment to create your DMP.\n\n\n\n\nHolmstrand, K. F., S. P. A. den Boer, E. Vlachos, P. M. Martínez-Lavanchy, K. K. Hansen, A. V. Larsen, S. Zurcher, et al. 2019. “Research Data Management (eLearning Course).” https://doi.org/10.11581/DTU:00000047."
   },
   {
     "objectID": "13-Assignment-DMP.html",
     "href": "13-Assignment-DMP.html",
     "title": "14  Assignment 4 - Create DMP",
     "section": "",
-    "text": "With DMPonline you can:\n\nWrite your plan and easily update it throughout the lifecycle of your project\nShare your plan with internal and external collaborators and ask for feedback from your Faculty Data Steward\nDownload your plan in a variety of formats"
+    "text": "With DMPonline you can:\n\nWrite your plan and easily update it throughout the life cycle of your project\nShare your plan with internal and external collaborators and ask for feedback from your Faculty Data Steward\nDownload your plan in a variety of formats"
   },
   {
     "objectID": "13-Assignment-DMP.html#create-a-dmp-using-dmponline",
@@ -487,7 +459,7 @@
     "href": "14-Assignment-Data-Flow-Map-3.html",
     "title": "15  Assignment 5 - Data Flow Map reflection",
     "section": "",
-    "text": "Go back to your Data Flow Map and reflect on your challenges, experiences and tips.\nYou will have to prepare and submit a slide before class 2 about:\n\nWhich data flow map theme challenged you the most? And why?\nWhat theme (from the data flow map) challenged you the least because you were already implementing RDM best practices before this course? (If any)\nWhat RDM best practice have you already started implementing in your daily practice during the course?\nIf you haven’t implemented anything yet, what will you get started with tomorrow after the course ends?\n\nYou will have 4 minutes to present your slide during class 2 to your peers and they will have the chance to ask questions or exchange ideas!\nPlease submit your slide to Esther before … \nMartinez-Lavanchy, P.M., van Schöll, Pim, Zormpa, Eirini, & Singotani, Roséane Cathy. (2022, July 8). TU Delft Research Data Management 101 course - Assignments Data Flow Map. Zenodo. https://doi.org/10.5281/zenodo.6325938"
+    "text": "Go back to your Data Flow Map and reflect on your challenges, experiences and tips.\nYou will have to prepare and submit a slide before class 2 about:\n\nWhich data flow map theme challenged you the most? And why?\nWhat theme (from the data flow map) challenged you the least because you were already implementing RDM best practices before this course? (If any)\nWhat RDM best practice have you already started implementing in your daily practice during the course?\nIf you haven’t implemented anything yet, what will you get started with tomorrow after the course ends?\n\nYou will have 4 minutes to present your slide during class 2 to your peers and they will have the chance to ask questions or exchange ideas!\nPlease submit your slide to Esther before …\nThis assignment is based on (martinez-lavanchy2022?)"
   },
   {
     "objectID": "15-Class-2.html",
@@ -508,7 +480,7 @@
     "href": "16-Wrap-up.html",
     "title": "17  Wrap Up",
     "section": "",
-    "text": "In the past modules we focused on relevant topics concerning RDM. Starting with creating awareness about RDM, we have seen the essentials of RDM, the importance of FAIR data and how to create a planning for RDM. In this final module we give the opportunity to reflect on the course and share remaining questions.\nAt the end of this course you will be able to:"
+    "text": "Estimated time: 5 minutes\nIn the past modules we focused on relevant topics concerning RDM. Starting with creating awareness about RDM, we have seen the essentials of RDM, the importance of FAIR data and how to create a planning for RDM. In this final module we give the opportunity to reflect on the course and share remaining questions.\nAt the end of this course you will be able to:"
   },
   {
     "objectID": "16-Wrap-up.html#feedback",
