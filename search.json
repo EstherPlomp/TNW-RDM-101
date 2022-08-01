@@ -74,21 +74,49 @@
     "href": "02-Importance-of-RDM.html#why-care-about-rdm",
     "title": "3  The importance of RDM",
     "section": "3.2 Why care about RDM?",
-    "text": "3.2 Why care about RDM?\nWhy should you be aware of your Research Data Management?\n\n01-1_Module-1_Video_Presentation_Why RDM is relevant for you_Part1 (3 minutes, audio will play automatically in full presentation modus) - Data horror stories\n01-2_Module-1_Video_Presentation_Why RDM is relevant for you_Part2 (5 minutes) - Benefits of managing and sharing data\n\nReflect about what you heard on the video and bring your thoughts and your horror stories to class 1.\n\n\n\n\nMarkowetz, Florian. 2015. “Five Selfish Reasons to Work Reproducibly.” Genome Biology 16 (1). https://doi.org/10.1186/s13059-015-0850-7."
+    "text": "3.2 Why care about RDM?\nWhy should you be aware of your Research Data Management?\n\n01-1_Module-1_Video_Presentation_Why RDM is relevant for you_Part1 (3 minutes, audio will play automatically in full presentation modus) - Data horror stories\n01-2_Module-1_Video_Presentation_Why RDM is relevant for you_Part2 (5 minutes) - Benefits of managing and sharing data\n\nReflect about what you heard on the video and bring your thoughts and your horror stories to class 1."
+  },
+  {
+    "objectID": "02-Importance-of-RDM.html#references",
+    "href": "02-Importance-of-RDM.html#references",
+    "title": "3  The importance of RDM",
+    "section": "3.3 References",
+    "text": "3.3 References\n\n\n\n\nMarkowetz, Florian. 2015. “Five Selfish Reasons to Work Reproducibly.” Genome Biology 16 (1). https://doi.org/10.1186/s13059-015-0850-7."
   },
   {
     "objectID": "03-Assignment-GitHub-1.html",
     "href": "03-Assignment-GitHub-1.html",
     "title": "4  Assignment 1 - Getting started with GitHub",
     "section": "",
-    "text": "This part of the course is only relevant if you do not have GitHub experience.\nIn 5.5 you were asked to respond to an Issue. This requires you to set up your GitHub Account."
+    "text": "Estimated time: 60 minutes\nThis part of the course is only relevant if you do not have GitHub experience."
   },
   {
-    "objectID": "03-Assignment-GitHub-1.html#learn-more-about-github",
-    "href": "03-Assignment-GitHub-1.html#learn-more-about-github",
+    "objectID": "03-Assignment-GitHub-1.html#create-a-github-account",
+    "href": "03-Assignment-GitHub-1.html#create-a-github-account",
     "title": "4  Assignment 1 - Getting started with GitHub",
-    "section": "4.1 Learn more about GitHub",
-    "text": "4.1 Learn more about GitHub"
+    "section": "4.1 Create a GitHub Account",
+    "text": "4.1 Create a GitHub Account\n\nGo to https://github.com/\nSelect ‘create an account’ and fill in the required information\nActivate your account using the email address you provided"
+  },
+  {
+    "objectID": "03-Assignment-GitHub-1.html#follow-a-github-tutorial",
+    "href": "03-Assignment-GitHub-1.html#follow-a-github-tutorial",
+    "title": "4  Assignment 1 - Getting started with GitHub",
+    "section": "4.2 Follow a GitHub Tutorial",
+    "text": "4.2 Follow a GitHub Tutorial\nPlease watch and follow along this GitHub tutorial for beginners provided by the Open Life Science program.\nThis tutorial is based on materials that are made available by Malvika Sharan."
+  },
+  {
+    "objectID": "03-Assignment-GitHub-1.html#post-a-response-to-issue",
+    "href": "03-Assignment-GitHub-1.html#post-a-response-to-issue",
+    "title": "4  Assignment 1 - Getting started with GitHub",
+    "section": "4.3 Post a response to Issue #",
+    "text": "4.3 Post a response to Issue #\nWhen you’ve practiced a bit of GitHub, please respond to Issue # with your assignment list, so that you can keep track of your progress in this course. Next to keeping track of your progress, you will use GitHub during this course to interact with your peers."
+  },
+  {
+    "objectID": "03-Assignment-GitHub-1.html#support",
+    "href": "03-Assignment-GitHub-1.html#support",
+    "title": "4  Assignment 1 - Getting started with GitHub",
+    "section": "4.4 Support",
+    "text": "4.4 Support\nPlease contact Esther if you have any problems getting started with GitHub and posting a response to Issue #."
   },
   {
     "objectID": "04-Class-1.html",
@@ -137,7 +165,7 @@
     "href": "05-Essentials-for-Research-Data.html#personal-data",
     "title": "6  Essentials for Research Data",
     "section": "6.4 Personal Data",
-    "text": "6.4 Personal Data\nOnly read these materials if you work with personal data (data that can identify a person)\n\nTU Delft Information about privacy\nIf you conduct research which involves human Research Subjects (ie: where human participants are the source your research data), you will have to submit an application for approval to the TU Delft Human Research Ethic Committee.\nPersonal data management - The Turing Way\n\n\nThe Turing Way project illustration by Scriberia. Used under a CC-BY 4.0 licence. DOI: 10.5281/zenodo.3332807."
+    "text": "6.4 Personal Data\nOnly read these materials if you work with personal data (data that can identify a person)\n\nTU Delft Information about privacy\nIf you conduct research which involves human Research Subjects (ie: where human participants are the source your research data), you will have to submit an application for approval to the TU Delft Human Research Ethic Committee.\nPersonal data management - The Turing Way\n\n\n\n\nThe Turing Way project illustration by Scriberia. Used under a CC-BY 4.0 licence. DOI: 10.5281/zenodo.3332807."
   },
   {
     "objectID": "05-Essentials-for-Research-Data.html#your-data-workflow",
@@ -207,7 +235,14 @@
     "href": "06-Assignment-Data-Flow-Map-1.html#step-4---reflect-on-the-theme-back-up-and-storage",
     "title": "7  Assignment 2 - Data Flow Map",
     "section": "7.4 Step 4 - Reflect on the theme Back-up and Storage",
-    "text": "7.4 Step 4 - Reflect on the theme Back-up and Storage\n\nWe talked about the infrastructure that TU Delft offers for storing and backing up data, so think:\n\nWhere will you be storing the data?\nWhere will the master copy be stored?\nWhat infrastructure will you use as a backup?\n\nKeep in mind the flags you have added to the list of datasets when selecting the storage and backup for the data and code.\nReflect about the Theme “Back-up and storage”, think about a strategy to securely store the data of your project and add your choice and considerations to the template.\n\n\n\n\n\nMartinez-Lavanchy, P. M., Pim van Schöll, Eirini Zormpa, and Roséane Cathy Singotani. 2022. “TU Delft Research Data Management 101 Course - Assignments Data Flow Map,” July. https://doi.org/10.5281/ZENODO.6325938."
+    "text": "7.4 Step 4 - Reflect on the theme Back-up and Storage\n\nWe talked about the infrastructure that TU Delft offers for storing and backing up data, so think:\n\nWhere will you be storing the data?\nWhere will the master copy be stored?\nWhat infrastructure will you use as a backup?\n\nKeep in mind the flags you have added to the list of datasets when selecting the storage and backup for the data and code.\nReflect about the Theme “Back-up and storage”, think about a strategy to securely store the data of your project and add your choice and considerations to the template."
+  },
+  {
+    "objectID": "06-Assignment-Data-Flow-Map-1.html#references",
+    "href": "06-Assignment-Data-Flow-Map-1.html#references",
+    "title": "7  Assignment 2 - Data Flow Map",
+    "section": "7.5 References",
+    "text": "7.5 References\n\n\n\n\nMartinez-Lavanchy, P. M., Pim van Schöll, Eirini Zormpa, and Roséane Cathy Singotani. 2022. “TU Delft Research Data Management 101 Course - Assignments Data Flow Map,” July. https://doi.org/10.5281/ZENODO.6325938."
   },
   {
     "objectID": "07-FAIR-principles.html",
@@ -403,7 +438,14 @@
     "href": "11-Assignment-Data-Flow-Map-2.html#step-6---reflect-on-the-theme-access-and-publication",
     "title": "12  Assignment 3 - Data Flow Map Update",
     "section": "12.5 Step 6 - Reflect on the theme Access and Publication",
-    "text": "12.5 Step 6 - Reflect on the theme Access and Publication\nIt is important to reflect early in your project about who will be accessing the datasets you collect/create, when they will access the data in the different steps of the project and how. Also, before preparing your data for publication, you need to reflect if it is possible/allowed for you to publish the data. You might need to process some data before you can make them available, especially if you are working with confidential data.\nReflect and answer these questions for each dataset:\n\nWho will have access to this dataset during the project?\nIf others than you will have access to the dataset during the project, how will you share the data?\nAt the end of the project this dataset can be:\n\nopen - no confidential information in it , it can be published\n\nIn which repository will you publish it?\nDoes the repository provide a DOI and license for the dataset?\nWhat license do you plan to use?\n\nrestricted access - there is confidential information in it, can’t be anonymize, can’t be published\n\nHow can somebody request the data after you finish your project?\n\nrestricted access with public metadata - there is confidential information in it, but the description of the dataset can be published\n\nWhere will you publish the metadata and where will the data be stored?\nDoes the repository provide a DOI and license for the metadata?\nWhat license do you plan to use?\n\n\nGo to the toolbox and use the action arrows to indicate if you need to process the data before publishing them.\n\n\n\n\n\nMartinez-Lavanchy, P. M., Pim van Schöll, Eirini Zormpa, and Roséane Cathy Singotani. 2022. “TU Delft Research Data Management 101 Course - Assignments Data Flow Map,” July. https://doi.org/10.5281/ZENODO.6325938."
+    "text": "12.5 Step 6 - Reflect on the theme Access and Publication\nIt is important to reflect early in your project about who will be accessing the datasets you collect/create, when they will access the data in the different steps of the project and how. Also, before preparing your data for publication, you need to reflect if it is possible/allowed for you to publish the data. You might need to process some data before you can make them available, especially if you are working with confidential data.\nReflect and answer these questions for each dataset:\n\nWho will have access to this dataset during the project?\nIf others than you will have access to the dataset during the project, how will you share the data?\nAt the end of the project this dataset can be:\n\nopen - no confidential information in it , it can be published\n\nIn which repository will you publish it?\nDoes the repository provide a DOI and license for the dataset?\nWhat license do you plan to use?\n\nrestricted access - there is confidential information in it, can’t be anonymize, can’t be published\n\nHow can somebody request the data after you finish your project?\n\nrestricted access with public metadata - there is confidential information in it, but the description of the dataset can be published\n\nWhere will you publish the metadata and where will the data be stored?\nDoes the repository provide a DOI and license for the metadata?\nWhat license do you plan to use?\n\n\nGo to the toolbox and use the action arrows to indicate if you need to process the data before publishing them."
+  },
+  {
+    "objectID": "11-Assignment-Data-Flow-Map-2.html#references",
+    "href": "11-Assignment-Data-Flow-Map-2.html#references",
+    "title": "12  Assignment 3 - Data Flow Map Update",
+    "section": "12.6 References",
+    "text": "12.6 References\n\n\n\n\nMartinez-Lavanchy, P. M., Pim van Schöll, Eirini Zormpa, and Roséane Cathy Singotani. 2022. “TU Delft Research Data Management 101 Course - Assignments Data Flow Map,” July. https://doi.org/10.5281/ZENODO.6325938."
   },
   {
     "objectID": "12-Plan-for-RDM.html",
