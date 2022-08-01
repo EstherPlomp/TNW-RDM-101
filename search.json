@@ -67,21 +67,14 @@
     "href": "02-Importance-of-RDM.html#activities",
     "title": "3  The importance of RDM",
     "section": "3.1 Activities",
-    "text": "3.1 Activities\n\nWatch the Presentations (before class 1) on ‘Why is RDM important’?\nRead Markowetz 2015: Five selfish reasons to work reproducibly OR Watch the presentation (50 min) before class 1\nSet up a GitHub account (see Assignment 1) before class 1\n\n\n\n\nImage by Errant Science"
+    "text": "3.1 Activities\n\nWatch the Presentations (before class 1) on ‘Why is RDM important’?\nRead (Markowetz 2015): Five selfish reasons to work reproducibly OR Watch the presentation (50 min) before class 1\nSet up a GitHub account (see Assignment 1) before class 1\n\n\n\n\nImage by Errant Science"
   },
   {
     "objectID": "02-Importance-of-RDM.html#why-care-about-rdm",
     "href": "02-Importance-of-RDM.html#why-care-about-rdm",
     "title": "3  The importance of RDM",
     "section": "3.2 Why care about RDM?",
-    "text": "3.2 Why care about RDM?\nWhy should you be aware of your Research Data Management?\n\n01-1_Module-1_Video_Presentation_Why RDM is relevant for you_Part1 (3 minutes, audio will play automatically in full presentation modus) - Data horror stories\n01-2_Module-1_Video_Presentation_Why RDM is relevant for you_Part2 (5 minutes) - Benefits of managing and sharing data\n\nReflect about what you heard on the video and bring your thoughts and your horror stories to class 1."
-  },
-  {
-    "objectID": "02-Importance-of-RDM.html#references",
-    "href": "02-Importance-of-RDM.html#references",
-    "title": "3  The importance of RDM",
-    "section": "3.3 References",
-    "text": "3.3 References\nMarkowetz, F. Five selfish reasons to work reproducibly. Genome Biol 16, 274 (2015). https://doi.org/10.1186/s13059-015-0850-7"
+    "text": "3.2 Why care about RDM?\nWhy should you be aware of your Research Data Management?\n\n01-1_Module-1_Video_Presentation_Why RDM is relevant for you_Part1 (3 minutes, audio will play automatically in full presentation modus) - Data horror stories\n01-2_Module-1_Video_Presentation_Why RDM is relevant for you_Part2 (5 minutes) - Benefits of managing and sharing data\n\nReflect about what you heard on the video and bring your thoughts and your horror stories to class 1.\n\n\n\n\nMarkowetz, Florian. 2015. “Five Selfish Reasons to Work Reproducibly.” Genome Biology 16 (1). https://doi.org/10.1186/s13059-015-0850-7."
   },
   {
     "objectID": "03-Assignment-GitHub-1.html",
@@ -144,7 +137,7 @@
     "href": "05-Essentials-for-Research-Data.html#personal-data",
     "title": "6  Essentials for Research Data",
     "section": "6.4 Personal Data",
-    "text": "6.4 Personal Data\nOnly read these materials if you work with personal data (data that can identify a person)\n\nTU Delft Information about privacy\nIf you conduct research which involves human Research Subjects (ie: where human participants are the source your research data), you will have to submit an application for approval to the TU Delft Human Research Ethic Committee.\nPersonal data management - The Turing Way\n\n The Turing Way project illustration by Scriberia. Used under a CC-BY 4.0 licence. DOI: 10.5281/zenodo.3332807."
+    "text": "6.4 Personal Data\nOnly read these materials if you work with personal data (data that can identify a person)\n\nTU Delft Information about privacy\nIf you conduct research which involves human Research Subjects (ie: where human participants are the source your research data), you will have to submit an application for approval to the TU Delft Human Research Ethic Committee.\nPersonal data management - The Turing Way\n\n\nThe Turing Way project illustration by Scriberia. Used under a CC-BY 4.0 licence. DOI: 10.5281/zenodo.3332807."
   },
   {
     "objectID": "05-Essentials-for-Research-Data.html#your-data-workflow",
@@ -242,7 +235,7 @@
     "href": "07-FAIR-principles.html#what-are-the-fair-principles",
     "title": "8  FAIR principles",
     "section": "8.2 What are the FAIR principles?",
-    "text": "8.2 What are the FAIR principles?\nThe FAIR principles were created in order to maximize the reuse of scientific data, to promote best practices on Research Data Management and to enable Open Science. Applying the FAIR principles means to make research data Findable, Accessible, Interoperable and Reusable.\n\nFindable means that others (both human and machines) can discover the data\nAccessible means that the data can be made available to others\nInteroperable means that the data can be integrated with other data and can be easily used by machines or in data analysis workflows.\nReusable means that the data can be used for new research\n\nThese four principles should be applied (as much as possible) throughout the entire research cycle and they are closely interconnected with each other.\n\n\n\nThe Turing Way illustration by Scriberia. CC-BY 4.0. DOI: 10.5281/zenodo.3332807\n\n\nThe FAIR Data principles are NOT:\n\nA standard. The FAIR principles need to be adapted and followed as much as possible by considering the research practices in your field. FAIR principles should be rather seen as progressive steps that help you make your data re-usable.\nEquivalent to Open Data. FAIR data does not necessarily mean openly available: it should be clear to others that the data exists and which steps they could take to potentially access the data.\nApplied using a particular technology or tool. There might be different tools that enable FAIR data within different disciplines or research workflows.\n\nThere are important elements to consider within your research workflows if you aim to make the data of your project FAIR:\n\nDocumentation & Metadata\n\nInteroperability\nAccess to data\nPersistent identifiers\nLicences\n\nScripts of the videos copied or adapted from: Holmstrand, K.F., den Boer, S.P.A., Vlachos, E., Martínez-Lavanchy, P.M., Hansen, K.K. (Eds.) (2019). Research Data Management (eLearning course). doi: 10.11581/dtu:00000047 Videos: Key elements to make data FAIR"
+    "text": "8.2 What are the FAIR principles?\nThe FAIR principles were created in order to maximize the reuse of scientific data, to promote best practices on Research Data Management and to enable Open Science. Applying the FAIR principles means to make research data Findable, Accessible, Interoperable and Reusable.\n\nFindable means that others (both human and machines) can discover the data\nAccessible means that the data can be made available to others\nInteroperable means that the data can be integrated with other data and can be easily used by machines or in data analysis workflows.\nReusable means that the data can be used for new research\n\nThese four principles should be applied (as much as possible) throughout the entire research cycle and they are closely interconnected with each other.\n\n\n\nThe Turing Way illustration by Scriberia. CC-BY 4.0. DOI: 10.5281/zenodo.3332807\n\n\nThe FAIR Data principles are NOT:\n\nA standard. The FAIR principles need to be adapted and followed as much as possible by considering the research practices in your field. FAIR principles should be rather seen as progressive steps that help you make your data re-usable.\nEquivalent to Open Data. FAIR data does not necessarily mean openly available: it should be clear to others that the data exists and which steps they could take to potentially access the data.\nApplied using a particular technology or tool. There might be different tools that enable FAIR data within different disciplines or research workflows.\n\nThere are important elements to consider within your research workflows if you aim to make the data of your project FAIR:\n\nDocumentation & Metadata\nInteroperability\nAccess to data\nPersistent identifiers\nLicences\n\nScripts of the videos copied or adapted from (Holmstrand et al. 2019)."
   },
   {
     "objectID": "07-FAIR-principles.html#data-and-code-licences",
@@ -263,7 +256,7 @@
     "href": "07-FAIR-principles.html#references",
     "title": "8  FAIR principles",
     "section": "8.5 References:",
-    "text": "8.5 References:\n\n“The FAIR Guiding Principles for scientific data management and stewardship” Wilkinson et al. 2016. https://doi.org/10.1038/sdata.2016.18\nScripts of the videos copied or adapted from: Holmstrand, K.F., den Boer, S.P.A., Vlachos, E., Martínez-Lavanchy, P.M., Hansen, K.K. (Eds.) (2019). Research Data Management (eLearning course). doi: 10.11581/dtu:00000047 Videos: Key elements to make data FAIR"
+    "text": "8.5 References:\n\n(Wilkinson et al. 2016)\nScripts of the videos copied or adapted from (Holmstrand et al. 2019)\n\n\n\n\n\nHolmstrand, K. F., S. P. A. den Boer, E. Vlachos, P. M. Martínez-Lavanchy, K. K. Hansen, A. V. Larsen, S. Zurcher, et al. 2019. “Research Data Management (eLearning Course).” https://doi.org/10.11581/DTU:00000047.\n\n\nWilkinson, Mark D., Michel Dumontier, IJsbrand Jan Aalbersberg, Gabrielle Appleton, Myles Axton, Arie Baak, Niklas Blomberg, et al. 2016. “The FAIR Guiding Principles for Scientific Data Management and Stewardship.” Scientific Data 3 (1). https://doi.org/10.1038/sdata.2016.18."
   },
   {
     "objectID": "08-Realising-FAIR-Organisation.html",
