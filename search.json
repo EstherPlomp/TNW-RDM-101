@@ -88,28 +88,28 @@
     "href": "03-Assignment-GitHub-1.html",
     "title": "4  Assignment 1 - Getting started with GitHub",
     "section": "",
-    "text": "Estimated time: 60 minutes\nThis part of the course is only relevant if you do not have GitHub experience."
+    "text": "Estimated time: 60 minutes\nParts of the explanations below can be skipped if you already have some experience with GitHub. Go directly to ‘Create an Issue’."
+  },
+  {
+    "objectID": "03-Assignment-GitHub-1.html#what-is-github",
+    "href": "03-Assignment-GitHub-1.html#what-is-github",
+    "title": "4  Assignment 1 - Getting started with GitHub",
+    "section": "4.1 What is GitHub?",
+    "text": "4.1 What is GitHub?\nGitHub is a website and cloud-based service that allows you to store and manage code. It is based on Git, which allows you to track and control changes to code. It also allows you to collaborate with others, which is our primary reason for using it during this course. You will not need to actually code to be able to use the platform!\n\nWhat is GitHub? (3.32 minutes)"
   },
   {
     "objectID": "03-Assignment-GitHub-1.html#create-a-github-account",
     "href": "03-Assignment-GitHub-1.html#create-a-github-account",
     "title": "4  Assignment 1 - Getting started with GitHub",
-    "section": "4.1 Create a GitHub Account",
-    "text": "4.1 Create a GitHub Account\n\nGo to https://github.com/\nSelect ‘create an account’ and fill in the required information\nActivate your account using the email address you provided"
+    "section": "4.2 Create a GitHub Account",
+    "text": "4.2 Create a GitHub Account\n\nGo to https://github.com/\nSelect ‘create an account’ and fill in the required information\nActivate your account using the email address you provided"
   },
   {
-    "objectID": "03-Assignment-GitHub-1.html#follow-a-github-tutorial",
-    "href": "03-Assignment-GitHub-1.html#follow-a-github-tutorial",
+    "objectID": "03-Assignment-GitHub-1.html#create-a-github-issue",
+    "href": "03-Assignment-GitHub-1.html#create-a-github-issue",
     "title": "4  Assignment 1 - Getting started with GitHub",
-    "section": "4.2 Follow a GitHub Tutorial",
-    "text": "4.2 Follow a GitHub Tutorial\nPlease watch and follow along this GitHub tutorial for beginners provided by the Open Life Science program.\nThis tutorial is based on materials that are made available by Malvika Sharan."
-  },
-  {
-    "objectID": "03-Assignment-GitHub-1.html#post-a-response-to-issue",
-    "href": "03-Assignment-GitHub-1.html#post-a-response-to-issue",
-    "title": "4  Assignment 1 - Getting started with GitHub",
-    "section": "4.3 Post a response to Issue #",
-    "text": "4.3 Post a response to Issue #\nWhen you’ve practiced a bit of GitHub, please respond to Issue # with your assignment list, so that you can keep track of your progress in this course. Next to keeping track of your progress, you will use GitHub during this course to interact with your peers."
+    "section": "4.3 Create a GitHub issue",
+    "text": "4.3 Create a GitHub issue\nWhen you have set up your GitHub Account, please respond to Issue # with your assignment list, so that you can keep track of your progress in this course. Next to keeping track of your progress, you will use GitHub during this course to interact with your peers."
   },
   {
     "objectID": "03-Assignment-GitHub-1.html#support",
@@ -119,18 +119,25 @@
     "text": "4.4 Support\nPlease contact Esther if you have any problems getting started with GitHub and posting a response to Issue #."
   },
   {
+    "objectID": "03-Assignment-GitHub-1.html#more-github-tutorials",
+    "href": "03-Assignment-GitHub-1.html#more-github-tutorials",
+    "title": "4  Assignment 1 - Getting started with GitHub",
+    "section": "4.5 More GitHub tutorials",
+    "text": "4.5 More GitHub tutorials\n\nGitHub tutorial for beginners provided by the Open Life Science program (based on materials that are made available by Malvika Sharan)\nGitHub skills\nOpen Source for Researchers"
+  },
+  {
     "objectID": "04-Class-1.html",
     "href": "04-Class-1.html",
     "title": "5  Class 1",
     "section": "",
-    "text": "Note: this is a repeat of the activities mentioned in Importance of RDM\n\nWatch the presentations on ‘Why is RDM important’? (10 minutes)\nRead (Markowetz 2015): Five selfish reasons to work reproducibly OR Watch the presentation (50 minutes)\nSet up a GitHub account (see Assignment 1) (10 minutes)"
+    "text": "Note: this is a repeat of the activities mentioned in Importance of RDM\n\nWatch the presentations on ‘Why is RDM important’? (10 minutes)\nRead (Markowetz 2015): Five selfish reasons to work reproducibly OR Watch the presentation (50 minutes)\nCreate a GitHub issue (see Assignment 1) (10-30 minutes)"
   },
   {
     "objectID": "04-Class-1.html#class-1-120-minutes",
     "href": "04-Class-1.html#class-1-120-minutes",
     "title": "5  Class 1",
     "section": "5.2 Class 1 (120 minutes)",
-    "text": "5.2 Class 1 (120 minutes)\n\nIntroductions\nDiscuss why RDM is important to you\n\nDo you find the horror stories or the benefits more convincing?\nDo you have a horror story to share?\n\nIntroduction Data Flow Map assignment\nCheck GitHub accounts and issues\nImportance of Documentation"
+    "text": "5.2 Class 1 (120 minutes)\n\nIntroductions\nDiscuss why RDM is important to you\n\nDo you find the horror stories or the benefits more convincing?\nDo you have a horror story to share?\n\nIntroduction Data Flow Map assignment\nCheck GitHub Issue\nImportance of Documentation"
   },
   {
     "objectID": "04-Class-1.html#references",
@@ -151,7 +158,7 @@
     "href": "05-Essentials-for-Research-Data.html#activities",
     "title": "6  Essentials for Research Data",
     "section": "6.1 Activities",
-    "text": "6.1 Activities\n\nWatch videos of TU Delft researchers telling you about the research data and confidential research data they work with\nIf you work with personal data, read the information on the two linked websites\n/[Tell your peers about the type of research data you work with using the Mentimeter word cloud.]\nLook at the research cycle image and the RDM questions you need to ask yourself at each step of your project\nWatch the video about data storage & infrastructure available at TU Delft\nRespond to GitHub issue # with your data challenge\nRead the policy responsibilities and ask any questions you have about it"
+    "text": "6.1 Activities\n\nWatch videos of TU Delft researchers telling you about the research data and confidential research data they work with\nIf you work with personal data, read the information on the two linked websites\nTell us about the type of research data you work with using the Mentimeter word cloud.\nLook at the research cycle image and the RDM questions you need to ask yourself at each step of your project\nWatch the video about data storage & infrastructure available at TU Delft\nRespond to GitHub issue # with your data challenge\nRead the policy responsibilities and ask any questions you have about it"
   },
   {
     "objectID": "05-Essentials-for-Research-Data.html#research-data-definition",
@@ -312,7 +319,7 @@
     "href": "08-Realising-FAIR-Organisation.html#data-organisation",
     "title": "9  Realising FAIR: Data organisation",
     "section": "9.2 Data Organisation",
-    "text": "9.2 Data Organisation\nIn the previous module you learned that ‘Documentation’ is one of the main elements of the FAIR principles. Good data documentation starts with good organisation and file naming of the data of your project! Good data organisation on your computer or your Project Data (U:) drive will allow you to make the data Findable both for yourself and for your collaborators who have access to the data. Making the data findable also indirectly improves the re-usability of the data. You need to be able to find the data before you can re-use it! Implementing a good folder structure, data organisation and a meaningful file naming convention is a simple first step towards making data FAIR.\nIn the next video, we will go through some best practices to help you organise the data of your project efficiently. These best practices are using a good folder structure, tagging files (if possible) and an appropriate file naming convention to enhance the findability of the data in your directories.\n\n04-1_Module-4_Video_Presentation_Data organisation (15 minutes, audio will play automatically in full presentation modus)\n\n\n9.2.1 Presentation Resources\n\nFolder structure explanation of Neuroscientist Nikola Vukovic\nThe Turing Way - Data storage and organisation (Community 2022)\nTagging and Finding Your Files: Home. MIT Libraries\n\n\n\n9.2.2 Quiz Data Organisation\nTest your knowledge after watching the ‘Data organisation’ video. Think about whether the following statements are True or False (see answers below).\n\nGood data organisation makes the data Findable for yourself and your collaborators.\nThinking about data organisation at the beginning of your project can save you a lot of time later on.\nA Research Compendium does not follow a Hierarchical structure.\nIn a Research Compendium data, methods, and outputs should be clearly separated.\nConsistency is not relevant in data organisation."
+    "text": "9.2 Data Organisation\nIn the previous module you learned that ‘Documentation’ is one of the main elements of the FAIR principles. Good data documentation starts with good organisation and file naming of the data of your project! Good data organisation on your computer or your Project Data (U:) drive will allow you to make the data Findable both for yourself and for your collaborators who have access to the data. Making the data findable also indirectly improves the re-usability of the data. You need to be able to find the data before you can re-use it! Implementing a good folder structure, data organisation and a meaningful file naming convention is a simple first step towards making data FAIR.\nIn the next video, we will go through some best practices to help you organise the data of your project efficiently. These best practices are using a good folder structure, tagging files (if possible) and an appropriate file naming convention to enhance the findability of the data in your directories.\n\n04-1_Module-4_Video_Presentation_Data organisation (15 minutes, audio will play automatically in full presentation mode)\n\n\n9.2.1 Presentation Resources\n\nFolder structure explanation of Neuroscientist Nikola Vukovic\nThe Turing Way - Data storage and organisation (Community 2022)\nTagging and Finding Your Files: Home. MIT Libraries\n\n\n\n9.2.2 Quiz Data Organisation\nTest your knowledge after watching the ‘Data organisation’ video. Think about whether the following statements are True or False (see answers below).\n\nGood data organisation makes the data Findable for yourself and your collaborators.\nThinking about data organisation at the beginning of your project can save you a lot of time later on.\nA Research Compendium does not follow a Hierarchical structure.\nIn a Research Compendium data, methods, and outputs should be clearly separated.\nConsistency is not relevant in data organisation."
   },
   {
     "objectID": "08-Realising-FAIR-Organisation.html#assignment-using-cookiecutter",
@@ -354,7 +361,7 @@
     "href": "09-Realising-FAIR-Documentation.html#assignment-create-a-readme-file",
     "title": "10  Realising FAIR: Data Documentation",
     "section": "10.3 Assignment: Create a ReadMe file",
-    "text": "10.3 Assignment: Create a ReadMe file\nEstimated time: 15 minutes\n\nDownload the Cornell template for a ReadMe file.\nAdapt and start filling in the template to describe a dataset of your project (you are allowed to delete and add new fields)\nIf you are unsure about the meaning of a component of the ReadMe file, go to: Guide to writing “ReadMe” style metadata - Cornell University\nWhen you’re finished, share your template on GitHub in Issue #.\nPick a ReadMe file of someone else and read it. Provide feedback on the clarity of the ReadMe."
+    "text": "10.3 Assignment: Create a ReadMe file\nEstimated time: 15 minutes\n\nDownload the Cornell template for a ReadMe file.\nAdapt and start filling in the template to describe a dataset of your project (you are allowed to delete and add new fields)\nIf you are unsure about the meaning of a component of the ReadMe file, go to: Guide to writing “ReadMe” style metadata - Cornell University\nWhen you’re finished, share your template in your first Assignment issue.\nPick a ReadMe file of someone else and read it. Provide feedback on the clarity of the ReadMe."
   },
   {
     "objectID": "09-Realising-FAIR-Documentation.html#assignment-data-dictionaries-for-tabular-data---optional",
@@ -494,7 +501,14 @@
     "href": "12-Plan-for-RDM.html#why-create-a-data-management-plan",
     "title": "13  Plan for RDM",
     "section": "13.3 Why create a Data Management Plan?",
-    "text": "13.3 Why create a Data Management Plan?\nWhy is it necessary to create a data management plan? Watch the following video in which a researcher and data steward talk about the importance of creating a data management plan.\n\nNatalia Romero Herrera talking about the benefits of writing a DMP\nEsther Plomp talking about the benefits of writing a DMP\n\n\nSee the next module for the assignment to create your DMP.\n\n\n\n\nHolmstrand, K. F., S. P. A. den Boer, E. Vlachos, P. M. Martínez-Lavanchy, K. K. Hansen, A. V. Larsen, S. Zurcher, et al. 2019. “Research Data Management (eLearning Course).” https://doi.org/10.11581/DTU:00000047."
+    "text": "13.3 Why create a Data Management Plan?\nWhy is it necessary to create a data management plan? Watch the following video in which a researcher and data steward talk about the importance of creating a data management plan.\n\nNatalia Romero Herrera talking about the benefits of writing a DMP\nEsther Plomp talking about the benefits of writing a DMP\n\n\nSee the next module for the assignment to create your DMP."
+  },
+  {
+    "objectID": "12-Plan-for-RDM.html#references",
+    "href": "12-Plan-for-RDM.html#references",
+    "title": "13  Plan for RDM",
+    "section": "13.4 References",
+    "text": "13.4 References\n\n\n\n\nHolmstrand, K. F., S. P. A. den Boer, E. Vlachos, P. M. Martínez-Lavanchy, K. K. Hansen, A. V. Larsen, S. Zurcher, et al. 2019. “Research Data Management (eLearning Course).” https://doi.org/10.11581/DTU:00000047."
   },
   {
     "objectID": "13-Assignment-DMP.html",
@@ -529,7 +543,7 @@
     "href": "15-Class-2.html",
     "title": "16  Class 2",
     "section": "",
-    "text": "Respond to all the GitHub issues and update your checklist in Issue #\nFinalise your DMP and ask for Feedback on DMPonline\nSubmit your slide to Esther\n\nSee you there!"
+    "text": "Respond to all the GitHub issues and update your checklist in Issue #\nFinalise your DMP and ask for Feedback on DMPonline (60 minutes)\nSubmit your slide to Esther (60 minutes)\n\nSee you there!"
   },
   {
     "objectID": "15-Class-2.html#class-2-120-minutes",
