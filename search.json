@@ -18,7 +18,7 @@
     "href": "01-Introduction.html#relevant-dates",
     "title": "2  Introduction",
     "section": "2.1 Relevant dates:",
-    "text": "2.1 Relevant dates:\nCourse start: Monday, DD-MM-YYYY\nCourse end date: Friday, DD-MM-YYYY\nClass sessions:\nCourse load: approximately 4-6 hours per week"
+    "text": "2.1 Relevant dates:\nCourse start: Day, DD-MM-YYYY\nCourse end date: Day, DD-MM-YYYY\nClass sessions:\nCourse load: approximately 4-6 hours per week"
   },
   {
     "objectID": "01-Introduction.html#learning-objectives",
@@ -46,7 +46,7 @@
     "href": "01-Introduction.html#deadlines",
     "title": "2  Introduction",
     "section": "2.5 Deadlines",
-    "text": "2.5 Deadlines\n\nAssignment 1 - GitHub - Before class 1 (date)\nAssignment 2 - Data Flow Map 1 - Before … (date)\nAssignment 3 - Data Flow Map 2 - Before … (date)\nAssignment 4 - Data Management Plan - Before class 2 (date)\nAssignment 5 - Data Flow Map 3 Before class 2 (date)"
+    "text": "2.5 Deadlines\n\nAssignment 1 - GitHub - Before class 1 (TBD)\nAssignment 2 - Data Flow Map 1 - Before … (TBD)\nAssignment 3 - Data Flow Map 2 - Before … (TBD)\nAssignment 4 - Data Management Plan - Before class 2 (TBD)\nAssignment 5 - Data Flow Map 3 Before class 2 (TBD)"
   },
   {
     "objectID": "01-Introduction.html#support",
@@ -63,32 +63,25 @@
     "text": "Estimated time: 70 minutes\nDuring this module we will share different perspectives and let you discuss with each other about the importance of RDM in ensuring research reproducibility. At the end of this module you should be able to:"
   },
   {
-    "objectID": "02-Importance-of-RDM.html#section",
-    "href": "02-Importance-of-RDM.html#section",
-    "title": "3  The importance of RDM",
-    "section": "3.1 ",
-    "text": "3.1 \n\n\n\nImage by Errant Science"
-  },
-  {
     "objectID": "02-Importance-of-RDM.html#why-care-about-rdm",
     "href": "02-Importance-of-RDM.html#why-care-about-rdm",
     "title": "3  The importance of RDM",
-    "section": "3.2 Why care about RDM?",
-    "text": "3.2 Why care about RDM?\nWhy should you be aware of your Research Data Management?\n\n01-1_Module-1_Video_Presentation_Why RDM is relevant for you_Part1 (3 minutes, audio will play automatically in full presentation modus) - Data horror stories\n01-2_Module-1_Video_Presentation_Why RDM is relevant for you_Part2 (5 minutes) - Benefits of managing and sharing data\n\nReflect about what you heard on the video and bring your thoughts and your horror stories to class 1.\n\n\n\nThe Turing Way illustration by Scriberia. CC-BY 4.0. DOI: 10.5281/zenodo.3332807"
+    "section": "3.1 Why care about RDM?",
+    "text": "3.1 Why care about RDM?\nWhy should you be aware of your Research Data Management?\n\n01-1_Module-1_Video_Presentation_Why RDM is relevant for you_Part1 (3 minutes, audio will play automatically in full presentation modus) - Data horror stories\n01-2_Module-1_Video_Presentation_Why RDM is relevant for you_Part2 (5 minutes) - Benefits of managing and sharing data\n\nReflect about what you heard on the video and bring your thoughts and your horror stories to class 1.\n\n\n\nThe Turing Way illustration by Scriberia. CC-BY 4.0. DOI: 10.5281/zenodo.3332807"
   },
   {
     "objectID": "02-Importance-of-RDM.html#selfish-reasons-to-work-reproducibly",
     "href": "02-Importance-of-RDM.html#selfish-reasons-to-work-reproducibly",
     "title": "3  The importance of RDM",
-    "section": "3.3 Selfish reasons to work reproducibly",
-    "text": "3.3 Selfish reasons to work reproducibly\nRead (Markowetz 2015): Five selfish reasons to work reproducibly OR Watch the presentation (50 min) before class 1"
+    "section": "3.2 Selfish reasons to work reproducibly",
+    "text": "3.2 Selfish reasons to work reproducibly\nRead (Markowetz 2015): Five selfish reasons to work reproducibly OR Watch the presentation (50 min) before class 1"
   },
   {
     "objectID": "02-Importance-of-RDM.html#references",
     "href": "02-Importance-of-RDM.html#references",
     "title": "3  The importance of RDM",
-    "section": "3.4 References",
-    "text": "3.4 References\n\n\n\n\nMarkowetz, Florian. 2015. “Five Selfish Reasons to Work Reproducibly.” Genome Biology 16 (1). https://doi.org/10.1186/s13059-015-0850-7."
+    "section": "3.3 References",
+    "text": "3.3 References\n\n\n\n\nMarkowetz, Florian. 2015. “Five Selfish Reasons to Work Reproducibly.” Genome Biology 16 (1). https://doi.org/10.1186/s13059-015-0850-7."
   },
   {
     "objectID": "03-Assignment-GitHub-1.html",
@@ -150,8 +143,8 @@
     "objectID": "04-Class-1.html#references",
     "href": "04-Class-1.html#references",
     "title": "5  Class 1",
-    "section": "5.2 References",
-    "text": "5.2 References\n\n\n\n\nMarkowetz, Florian. 2015. “Five Selfish Reasons to Work Reproducibly.” Genome Biology 16 (1). https://doi.org/10.1186/s13059-015-0850-7."
+    "section": "References",
+    "text": "References\n\n\n\n\nMarkowetz, Florian. 2015. “Five Selfish Reasons to Work Reproducibly.” Genome Biology 16 (1). https://doi.org/10.1186/s13059-015-0850-7."
   },
   {
     "objectID": "05-Essentials-for-Research-Data.html",
@@ -221,42 +214,14 @@
     "href": "06-Assignment-Data-Flow-Map-1.html",
     "title": "7  Assignment 2 - Data Flow Map",
     "section": "",
-    "text": "Estimated time: 60 minutes\nIn this assignment (based on (Martinez-Lavanchy et al. 2022)) you will have to write down what data you expect to collect/create during your project. After this, you will reflect on the back-up and storage for your data. We will provide you with a toolbox and a step-by-step guide to help you reflect on your data. At the bottom of the page you will find some examples we prepared. You can download the PowerPoint template via a data repository.\nYou can either use the template, or work on a sheet of paper with post-its.\nAt the end, make sure you submit the reflections for every step."
-  },
-  {
-    "objectID": "06-Assignment-Data-Flow-Map-1.html#step-1---fill-out-the-data-you-will-collectcreate-with-a-short-description",
-    "href": "06-Assignment-Data-Flow-Map-1.html#step-1---fill-out-the-data-you-will-collectcreate-with-a-short-description",
-    "title": "7  Assignment 2 - Data Flow Map",
-    "section": "7.1 Step 1 - Fill out the data you will collect/create with a short description",
-    "text": "7.1 Step 1 - Fill out the data you will collect/create with a short description\n\nStart with identifying and listing the different datasets that you will be collecting or creating during your project. Remember that code, models, interviews, etc. are also important types of research data.\n\nGive each dataset a descriptive name and fill this out on the template. For example: Interview videos, Sequencing data, Sensor data.\nAdd to the template a very short description of each dataset (what is the data, how it is collected/created, what is the file format, what is the (file)size.)\nDo not restrict yourself to list only three types of datasets! Please provide a comprehensive list. If you would like to extend the list, you can do so by duplicating the slides we have provided."
-  },
-  {
-    "objectID": "06-Assignment-Data-Flow-Map-1.html#step-2---indicate-actions-to-the-data",
-    "href": "06-Assignment-Data-Flow-Map-1.html#step-2---indicate-actions-to-the-data",
-    "title": "7  Assignment 2 - Data Flow Map",
-    "section": "7.2 Step 2 - Indicate actions to the data",
-    "text": "7.2 Step 2 - Indicate actions to the data\n\nGo to the toolbox in the PowerPoint template (slide 2).\nSelect/Copy the green actions arrows that are related to the datasets you listed and add them on your template. This will help to add some extra description to the data that can influence your reflections.\nActions to consider: Were the data collected, were they created or are you re-using data from others? If necessary, add new data sets depending on your action.\n\nFor example, if you collected interviews, you might need to transcribe them generating a new dataset consisting of transcription files."
-  },
-  {
-    "objectID": "06-Assignment-Data-Flow-Map-1.html#step-3---reflect-on-your-data",
-    "href": "06-Assignment-Data-Flow-Map-1.html#step-3---reflect-on-your-data",
-    "title": "7  Assignment 2 - Data Flow Map",
-    "section": "7.3 Step 3 - Reflect on your data",
-    "text": "7.3 Step 3 - Reflect on your data\n\nUse the red flags in the toolbox in the PowerPoint template (slide 2) to indicate important characteristics of your data that might influence how you need to manage it."
-  },
-  {
-    "objectID": "06-Assignment-Data-Flow-Map-1.html#step-4---reflect-on-the-theme-back-up-and-storage",
-    "href": "06-Assignment-Data-Flow-Map-1.html#step-4---reflect-on-the-theme-back-up-and-storage",
-    "title": "7  Assignment 2 - Data Flow Map",
-    "section": "7.4 Step 4 - Reflect on the theme Back-up and Storage",
-    "text": "7.4 Step 4 - Reflect on the theme Back-up and Storage\n\nWe talked about the infrastructure that TU Delft offers for storing and backing up data, so think:\n\nWhere will you be storing the data?\nWhere will the master copy be stored?\nWhat infrastructure will you use as a backup?\n\nKeep in mind the flags you have added to the list of datasets when selecting the storage and backup for the data and code.\nReflect about the Theme “Back-up and storage”, think about a strategy to securely store the data of your project and add your choice and considerations to the template."
+    "text": "Estimated time: 60 minutes\nIn this assignment (based on Martinez-Lavanchy et al. 2022) you will have to write down what data you expect to collect/create during your project. After this, you will reflect on the back-up and storage for your data. We will provide you with a toolbox and a step-by-step guide to help you reflect on your data. At the bottom of the page you will find some examples we prepared. You can download the PowerPoint template via a data repository.\nYou can either use the template, or work on a sheet of paper with post-its.\nAt the end, make sure you submit the reflections for every step."
   },
   {
     "objectID": "06-Assignment-Data-Flow-Map-1.html#references",
     "href": "06-Assignment-Data-Flow-Map-1.html#references",
     "title": "7  Assignment 2 - Data Flow Map",
-    "section": "7.5 References",
-    "text": "7.5 References\n\n\n\n\nMartinez-Lavanchy, P. M., Pim van Schöll, Eirini Zormpa, and Roséane Cathy Singotani. 2022. “TU Delft Research Data Management 101 Course - Assignments Data Flow Map,” July. https://doi.org/10.5281/ZENODO.6325938."
+    "section": "References",
+    "text": "References\n\n\n\n\nMartinez-Lavanchy, P. M., Pim van Schöll, Eirini Zormpa, and Roséane Cathy Singotani. 2022. “TU Delft Research Data Management 101 Course - Assignments Data Flow Map,” July. https://doi.org/10.5281/ZENODO.6325938."
   },
   {
     "objectID": "07-FAIR-principles.html",
@@ -277,7 +242,7 @@
     "href": "07-FAIR-principles.html#data-and-code-licences",
     "title": "8  FAIR principles",
     "section": "8.2 Data and Code Licences",
-    "text": "8.2 Data and Code Licences\nMore resources on licences:\n\nLicenses for data, presentations and articles: Creative Commons (CC), or use the license chooser.\nSoftware: Choose a License. (For more detailed information, see ‘How to choose a software licence’.\nIf in doubt, talk to Esther."
+    "text": "8.2 Data and Code Licences\nMore resources on licences:\n\nLicenses for data, presentations and articles: Creative Commons (CC), or use the license chooser.\nSoftware: Choose a License. (For more detailed information, see ‘How to choose a software licence’).\nIf in doubt, talk to Esther."
   },
   {
     "objectID": "07-FAIR-principles.html#discussion",
@@ -290,8 +255,8 @@
     "objectID": "07-FAIR-principles.html#references",
     "href": "07-FAIR-principles.html#references",
     "title": "8  FAIR principles",
-    "section": "8.4 References",
-    "text": "8.4 References\n\n\n\n\nHolmstrand, K. F., S. P. A. den Boer, E. Vlachos, P. M. Martínez-Lavanchy, K. K. Hansen, A. V. Larsen, S. Zurcher, et al. 2019. “Research Data Management (eLearning Course).” https://doi.org/10.11581/DTU:00000047.\n\n\nWilkinson, Mark D., Michel Dumontier, IJsbrand Jan Aalbersberg, Gabrielle Appleton, Myles Axton, Arie Baak, Niklas Blomberg, et al. 2016. “The FAIR Guiding Principles for Scientific Data Management and Stewardship.” Scientific Data 3 (1). https://doi.org/10.1038/sdata.2016.18."
+    "section": "References",
+    "text": "References\n\n\n\n\nHolmstrand, K. F., S. P. A. den Boer, E. Vlachos, P. M. Martínez-Lavanchy, K. K. Hansen, A. V. Larsen, S. Zurcher, et al. 2019. “Research Data Management (eLearning Course).” https://doi.org/10.11581/DTU:00000047.\n\n\nWilkinson, Mark D., Michel Dumontier, IJsbrand Jan Aalbersberg, Gabrielle Appleton, Myles Axton, Arie Baak, Niklas Blomberg, et al. 2016. “The FAIR Guiding Principles for Scientific Data Management and Stewardship.” Scientific Data 3 (1). https://doi.org/10.1038/sdata.2016.18."
   },
   {
     "objectID": "08-Realising-FAIR-Organisation.html",
@@ -354,7 +319,7 @@
     "href": "09-Realising-FAIR-Documentation.html#assignment-electronic-lab-notebooks-optional",
     "title": "10  Realising FAIR: Data Documentation",
     "section": "10.4 Assignment: Electronic Lab Notebooks (optional)",
-    "text": "10.4 Assignment: Electronic Lab Notebooks (optional)\nEstimated time: 20 minutes\nTU Delft offers two different Electronic Lab Notebooks, eLABjournal and Rspace. Watch the short videos introducing them:\n\neLABjournal intro (4:11 minutes)\nRSpace intro (1:43 minutes)\n\nTry out one of the Electronic Lab Notebooks:\nTo access eLABJournal\n\nGo to https://www.elabjournal.com/login/\nSelect ‘log in with your institute account’ (below the login form)\nLogin with your netID\n\nNote: new ELN groups must be reported to support[at]elabnext.com to get full access to eLABJournal.\nTo access RSpace:\n\nGo to https://rspace.tudelft.nl\nOn the first time you log in to this tool, following authentication, you will be directed to the RSpace signup page, pre-populated with some information released from your netID, where you need to confirm that you want an account. (On subsequent logins, you will go straight to RSpace after authentication using your netID.)\n\nAnswer the following questions to see if the Electronic Lab Notebooks are helpful to your work:\n\nWas there any specific feature in one or both of the ELNs that would be particularly useful?\nWhat are the pros and cons that you can already think of when using an ELN for documenting your lab work?"
+    "text": "10.4 Assignment: Electronic Lab Notebooks (optional)\nEstimated time: 20 minutes\nTU Delft offers two different Electronic Lab Notebooks, eLABjournal and RSpace. Watch the short videos introducing them:\n\neLABjournal intro (4:11 minutes)\nRSpace intro (1:43 minutes)\n\nTry out one of the Electronic Lab Notebooks:\nTo access eLABJournal\n\nGo to https://www.elabjournal.com/login/\nSelect ‘log in with your institute account’ (below the login form)\nLogin with your netID\n\nNote: new ELN groups must be reported to support[at]elabnext.com to get full access to eLABJournal.\nTo access RSpace:\n\nGo to https://rspace.tudelft.nl\nOn the first time you log in to this tool, following authentication, you will be directed to the RSpace signup page, pre-populated with some information released from your netID, where you need to confirm that you want an account. (On subsequent logins, you will go straight to RSpace after authentication using your netID.)\n\nAnswer the following questions to see if the Electronic Lab Notebooks are helpful to your work:\n\nWas there any specific feature in one or both of the ELNs that would be particularly useful?\nWhat are the pros and cons that you can already think of when using an ELN for documenting your lab work?"
   },
   {
     "objectID": "09-Realising-FAIR-Documentation.html#paper-lab-notebooks",
@@ -368,7 +333,7 @@
     "href": "09-Realising-FAIR-Documentation.html#softwarecode-documentation",
     "title": "10  Realising FAIR: Data Documentation",
     "section": "10.6 Software/code documentation",
-    "text": "10.6 Software/code documentation\n\nSee the example used in the presentation using JupyterLab\ntemplate to set up a GitHub (or GitLab) repository with all the relevant documentation about the project\nCode Refinery materials on Code Documentation\nUse the CodeMeta creator to create a .json metadata file to add to your repo\nBarbara Vreede’s presentation on Best Practices for Writing Reproducible Code\nJupyter Notebooks\nAim For Understandability If You Want To Write Good Research Software\nFor Julia you can use DrWatson to create consistent folder structures. Particularly useful for simulation data."
+    "text": "10.6 Software/code documentation\n\nSee the example used in the presentation using JupyterLab\nTemplate to set up a GitHub (or GitLab) repository with all the relevant documentation about the project\nCode Refinery materials on Code Documentation\nUse the CodeMeta creator to create a .json metadata file to add to your repo\nBarbara Vreede’s presentation on Best Practices for Writing Reproducible Code\nJupyter Notebooks\nAim For Understandability If You Want To Write Good Research Software\nFor Julia you can use DrWatson to create consistent folder structures. Particularly useful for simulation data."
   },
   {
     "objectID": "10-Realising-FAIR-Publication.html",
@@ -403,7 +368,7 @@
     "href": "10-Realising-FAIR-Publication.html#references",
     "title": "11  Realising FAIR: Data Publication",
     "section": "11.4 References:",
-    "text": "11.4 References:\n\n(Colavizza et al. 2020)\nH2020 Programme Guidelines on FAIR Data Management in Horizon 2020. Version 3.0. 26 July 2016.\n\n\n\n\n\nColavizza, Giovanni, Iain Hrynaszkiewicz, Isla Staden, Kirstie Whitaker, and Barbara McGillivray. 2020. “The Citation Advantage of Linking Publications to Research Data.” Edited by Jelte M. Wicherts. PLOS ONE 15 (4): e0230416. https://doi.org/10.1371/journal.pone.0230416."
+    "text": "11.4 References:\n\nColavizza et al. (2020)\nH2020 Programme Guidelines on FAIR Data Management in Horizon 2020. Version 3.0. 26 July 2016.\n\n\n\n\n\nColavizza, Giovanni, Iain Hrynaszkiewicz, Isla Staden, Kirstie Whitaker, and Barbara McGillivray. 2020. “The Citation Advantage of Linking Publications to Research Data.” Edited by Jelte M. Wicherts. PLOS ONE 15 (4): e0230416. https://doi.org/10.1371/journal.pone.0230416."
   },
   {
     "objectID": "11-Assignment-Data-Flow-Map-2.html",
@@ -413,46 +378,11 @@
     "text": "Estimated time: 60 minutes\nNow that you learned about how to make your data more FAIR, you will have another look at the Data Flow Map assignment (based on (Martinez-Lavanchy et al. 2022))."
   },
   {
-    "objectID": "11-Assignment-Data-Flow-Map-2.html#step-1---how-to-apply-fair-to-your-data-flow-map",
-    "href": "11-Assignment-Data-Flow-Map-2.html#step-1---how-to-apply-fair-to-your-data-flow-map",
-    "title": "12  Assignment 3 - Data Flow Map Update",
-    "section": "12.1 Step 1 - How to apply FAIR to your Data Flow Map",
-    "text": "12.1 Step 1 - How to apply FAIR to your Data Flow Map\n\nWe are providing you with new themes and some guiding text that can help you in your reflection and will allow you to structure the information.\n\nDowload this week’s template from the data repository:\n\nGo to https://doi.org/10.5281/zenodo.6325938\nDownload the 4th file: RDM101_Assignment2_Week2_DataFlowMap_Template.pptx\n\n\nYou can duplicate slides if you have more than three datasets.\nCopy the datasets to the new template\n\nRemember to take into consideration the flags (relevant attributes) you have added to the different data types, which can determine the way you handle each of the themes."
-  },
-  {
-    "objectID": "11-Assignment-Data-Flow-Map-2.html#step-2---reflect-on-the-theme-data-organisation",
-    "href": "11-Assignment-Data-Flow-Map-2.html#step-2---reflect-on-the-theme-data-organisation",
-    "title": "12  Assignment 3 - Data Flow Map Update",
-    "section": "12.2 Step 2 - Reflect on the theme Data organisation",
-    "text": "12.2 Step 2 - Reflect on the theme Data organisation\nReflect and answer this as one theme for all the datasets:\n\nWhat folder structure will you use for your project? (and how does the data fit in there)\nWhat naming convention are you going to use? (show us an example based on your expected dataset)\n\nYou can select one convention to use across all datasets or you can define different ones for each dataset.\nRemember that once you choose a convention you need to be consistent.\n\nAdditional remarks\n\n\n\n\nImage by Chaz Hutton"
-  },
-  {
-    "objectID": "11-Assignment-Data-Flow-Map-2.html#step-3---reflect-on-the-theme-metadata-and-documentation",
-    "href": "11-Assignment-Data-Flow-Map-2.html#step-3---reflect-on-the-theme-metadata-and-documentation",
-    "title": "12  Assignment 3 - Data Flow Map Update",
-    "section": "12.3 Step 3 - Reflect on the theme Metadata and Documentation",
-    "text": "12.3 Step 3 - Reflect on the theme Metadata and Documentation\nReflect and answer these questions for each dataset:\n\nWhat type of documentation do you need to generate/write? (metadata, data collection process, data dictionary, code versioning, etc.)\nWill you use a metadata standard to document your data?\n\nYou can use FAIRsharing.org to check if a metadata standard exists for your discipline or type of data. If one exists, you can provide the name and the link on FAIRsharing to it.\n\nWhat tools are helpful to generate/write the documentation needed?\nAdditional remarks"
-  },
-  {
-    "objectID": "11-Assignment-Data-Flow-Map-2.html#step-4---reflect-on-the-theme-file-formats",
-    "href": "11-Assignment-Data-Flow-Map-2.html#step-4---reflect-on-the-theme-file-formats",
-    "title": "12  Assignment 3 - Data Flow Map Update",
-    "section": "12.4 Step 4 - Reflect on the theme File formats",
-    "text": "12.4 Step 4 - Reflect on the theme File formats\nRemember that file formats can enable or not interoperability and reusability. You already provided the data format in which you will collect/create the different datasets in your project (assignment 2). Go back to that information and think if you can convert those formats to an open file format that would increase interoperability if somebody would like to reuse the data.\nReflect and answer these questions for each dataset:\n\nAre your files in an open file format? Or, is the code in an open programming language?\nCan you convert the proprietary file formats to an open file format? If yes, to which open file format?\nIf the data/code is in a proprietary format, what information/software would others need to re-use the data/code?"
-  },
-  {
-    "objectID": "11-Assignment-Data-Flow-Map-2.html#step-6---reflect-on-the-theme-access-and-publication",
-    "href": "11-Assignment-Data-Flow-Map-2.html#step-6---reflect-on-the-theme-access-and-publication",
-    "title": "12  Assignment 3 - Data Flow Map Update",
-    "section": "12.5 Step 6 - Reflect on the theme Access and Publication",
-    "text": "12.5 Step 6 - Reflect on the theme Access and Publication\nIt is important to reflect early in your project about who will be accessing the datasets you collect/create, when they will access the data in the different steps of the project and how. Also, before preparing your data for publication, you need to reflect if it is possible/allowed for you to publish the data. You might need to process some data before you can make them available, especially if you are working with confidential data.\nReflect and answer these questions for each dataset:\n\nWho will have access to this dataset during the project?\nIf others than you will have access to the dataset during the project, how will you share the data?\nAt the end of the project this dataset can be:\n\nopen - no confidential information in it , it can be published\n\nIn which repository will you publish it?\nDoes the repository provide a DOI and license for the dataset?\nWhat license do you plan to use?\n\nrestricted access - there is confidential information in it, can’t be anonymize, can’t be published\n\nHow can somebody request the data after you finish your project?\n\nrestricted access with public metadata - there is confidential information in it, but the description of the dataset can be published\n\nWhere will you publish the metadata and where will the data be stored?\nDoes the repository provide a DOI and license for the metadata?\nWhat license do you plan to use?\n\n\nGo to the toolbox and use the action arrows to indicate if you need to process the data before publishing them."
-  },
-  {
     "objectID": "11-Assignment-Data-Flow-Map-2.html#references",
     "href": "11-Assignment-Data-Flow-Map-2.html#references",
     "title": "12  Assignment 3 - Data Flow Map Update",
-    "section": "12.6 References",
-    "text": "12.6 References\n\n\n\n\nMartinez-Lavanchy, P. M., Pim van Schöll, Eirini Zormpa, and Roséane Cathy Singotani. 2022. “TU Delft Research Data Management 101 Course - Assignments Data Flow Map,” July. https://doi.org/10.5281/ZENODO.6325938."
+    "section": "References",
+    "text": "References\n\n\n\n\nMartinez-Lavanchy, P. M., Pim van Schöll, Eirini Zormpa, and Roséane Cathy Singotani. 2022. “TU Delft Research Data Management 101 Course - Assignments Data Flow Map,” July. https://doi.org/10.5281/ZENODO.6325938."
   },
   {
     "objectID": "12-Plan-for-RDM.html",
@@ -501,14 +431,21 @@
     "href": "13-Assignment-DMP.html#submit-your-assignment",
     "title": "14  Assignment 4 - Create DMP",
     "section": "14.3 Submit your assignment",
-    "text": "14.3 Submit your assignment\nWhen you’re done filling out your Data Management Plan, you can ask for Feedback using the ‘Feedback’ button. This will notify Esther that your plan is ready. If you weren’t able to answer all the questions, this is also the way to ask for support. Please finalise your DMP before class 2!"
+    "text": "14.3 Submit your assignment\nWhen you’re done filling out your Data Management Plan, you can ask for Feedback using the ‘Request Feedback’ button. This will notify Esther that your plan is ready. If you weren’t able to answer all the questions, this is also the way to ask for support. Please finalise your DMP before class 2!"
   },
   {
     "objectID": "14-Assignment-Data-Flow-Map-3.html",
     "href": "14-Assignment-Data-Flow-Map-3.html",
     "title": "15  Assignment 5 - Data Flow Map reflection",
     "section": "",
-    "text": "Go back to your Data Flow Map and reflect on your challenges, experiences and tips.\nYou will have to prepare and submit a slide before class 2 about:\n\nWhich data flow map theme challenged you the most? And why?\nWhat theme (from the data flow map) challenged you the least because you were already implementing RDM best practices before this course? (If any)\nWhat RDM best practice have you already started implementing in your daily practice during the course?\nIf you haven’t implemented anything yet, what will you get started with tomorrow after the course ends?\n\nYou will have 4 minutes to present your slide during class 2 to your peers and they will have the chance to ask questions or exchange ideas!\nPlease submit your slide to Esther before …\nThis assignment is based on (Martinez-Lavanchy et al. 2022)\n\n\n\n\nMartinez-Lavanchy, P. M., Pim van Schöll, Eirini Zormpa, and Roséane Cathy Singotani. 2022. “TU Delft Research Data Management 101 Course - Assignments Data Flow Map,” July. https://doi.org/10.5281/ZENODO.6325938."
+    "text": "Estimated time: 60 minutes\nGo back to your Data Flow Map and reflect on your challenges, experiences and tips.\nYou will have to prepare and submit a slide before class 2 about:\nYou will have 4 minutes to present your slide during class 2 to your peers and they will have the chance to ask questions or exchange ideas!\nPlease submit your slide to Esther before TBD\nThis assignment is based on Martinez-Lavanchy et al. (2022)"
+  },
+  {
+    "objectID": "14-Assignment-Data-Flow-Map-3.html#references",
+    "href": "14-Assignment-Data-Flow-Map-3.html#references",
+    "title": "15  Assignment 5 - Data Flow Map reflection",
+    "section": "References",
+    "text": "References\n\n\n\n\nMartinez-Lavanchy, P. M., Pim van Schöll, Eirini Zormpa, and Roséane Cathy Singotani. 2022. “TU Delft Research Data Management 101 Course - Assignments Data Flow Map,” July. https://doi.org/10.5281/ZENODO.6325938."
   },
   {
     "objectID": "15-Class-2.html",
