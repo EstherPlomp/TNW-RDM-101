@@ -2,7 +2,7 @@
 <html xmlns="http://www.w3.org/1999/xhtml" lang="en" xml:lang="en"><head>
 
 <meta charset="utf-8">
-<meta name="generator" content="quarto-1.0.38">
+<meta name="generator" content="quarto-1.1.149">
 
 <meta name="viewport" content="width=device-width, initial-scale=1.0, user-scalable=yes">
 
@@ -12,10 +12,15 @@
 <style>
 code{white-space: pre-wrap;}
 span.smallcaps{font-variant: small-caps;}
-span.underline{text-decoration: underline;}
-div.column{display: inline-block; vertical-align: top; width: 50%;}
+div.columns{display: flex; gap: min(4vw, 1.5em);}
+div.column{flex: auto; overflow-x: auto;}
 div.hanging-indent{margin-left: 1.5em; text-indent: -1.5em;}
 ul.task-list{list-style: none;}
+ul.task-list li input[type="checkbox"] {
+  width: 0.8em;
+  margin: 0 0.8em 0.2em -1.6em;
+  vertical-align: middle;
+}
 div.csl-bib-body { }
 div.csl-entry {
   clear: both;
@@ -201,16 +206,16 @@ div.csl-indent {
 </nav>
 <!-- margin-sidebar -->
     <div id="quarto-margin-sidebar" class="sidebar margin-sidebar">
-        <nav id="TOC" role="doc-toc">
+        <nav id="TOC" role="doc-toc" class="toc-active">
     <h2 id="toc-title">Table of contents</h2>
    
   <ul>
-  <li><a href="#step-1---how-to-apply-fair-to-your-data-flow-map" id="toc-step-1---how-to-apply-fair-to-your-data-flow-map" class="nav-link active" data-scroll-target="#step-1---how-to-apply-fair-to-your-data-flow-map"> <span class="header-section-number">12.1</span> Step 1 - How to apply FAIR to your Data Flow Map</a></li>
-  <li><a href="#step-2---reflect-on-the-theme-data-organisation" id="toc-step-2---reflect-on-the-theme-data-organisation" class="nav-link" data-scroll-target="#step-2---reflect-on-the-theme-data-organisation"> <span class="header-section-number">12.2</span> Step 2 - Reflect on the theme <span>Data organisation</span></a></li>
-  <li><a href="#step-3---reflect-on-the-theme-metadata-and-documentation" id="toc-step-3---reflect-on-the-theme-metadata-and-documentation" class="nav-link" data-scroll-target="#step-3---reflect-on-the-theme-metadata-and-documentation"> <span class="header-section-number">12.3</span> Step 3 - Reflect on the theme <span>Metadata and Documentation</span></a></li>
-  <li><a href="#step-4---reflect-on-the-theme-file-formats" id="toc-step-4---reflect-on-the-theme-file-formats" class="nav-link" data-scroll-target="#step-4---reflect-on-the-theme-file-formats"> <span class="header-section-number">12.4</span> Step 4 - Reflect on the theme File formats</a></li>
-  <li><a href="#step-6---reflect-on-the-theme-access-and-publication" id="toc-step-6---reflect-on-the-theme-access-and-publication" class="nav-link" data-scroll-target="#step-6---reflect-on-the-theme-access-and-publication"> <span class="header-section-number">12.5</span> Step 6 - Reflect on the theme <span>Access and Publication</span></a></li>
-  <li><a href="#references" id="toc-references" class="nav-link" data-scroll-target="#references"> <span class="header-section-number">12.6</span> References</a></li>
+  <li><a href="#step-1---how-to-apply-fair-to-your-data-flow-map" id="toc-step-1---how-to-apply-fair-to-your-data-flow-map" class="nav-link active" data-scroll-target="#step-1---how-to-apply-fair-to-your-data-flow-map"><span class="toc-section-number">12.1</span>  Step 1 - How to apply FAIR to your Data Flow Map</a></li>
+  <li><a href="#step-2---reflect-on-the-theme-data-organisation" id="toc-step-2---reflect-on-the-theme-data-organisation" class="nav-link" data-scroll-target="#step-2---reflect-on-the-theme-data-organisation"><span class="toc-section-number">12.2</span>  Step 2 - Reflect on the theme Data organisation</a></li>
+  <li><a href="#step-3---reflect-on-the-theme-metadata-and-documentation" id="toc-step-3---reflect-on-the-theme-metadata-and-documentation" class="nav-link" data-scroll-target="#step-3---reflect-on-the-theme-metadata-and-documentation"><span class="toc-section-number">12.3</span>  Step 3 - Reflect on the theme Metadata and Documentation</a></li>
+  <li><a href="#step-4---reflect-on-the-theme-file-formats" id="toc-step-4---reflect-on-the-theme-file-formats" class="nav-link" data-scroll-target="#step-4---reflect-on-the-theme-file-formats"><span class="toc-section-number">12.4</span>  Step 4 - Reflect on the theme File formats</a></li>
+  <li><a href="#step-6---reflect-on-the-theme-access-and-publication" id="toc-step-6---reflect-on-the-theme-access-and-publication" class="nav-link" data-scroll-target="#step-6---reflect-on-the-theme-access-and-publication"><span class="toc-section-number">12.5</span>  Step 6 - Reflect on the theme Access and Publication</a></li>
+  <li><a href="#references" id="toc-references" class="nav-link" data-scroll-target="#references"><span class="toc-section-number">12.6</span>  References</a></li>
   </ul>
 <div class="toc-actions"><div><i class="bi bi-github"></i></div><div class="action-links"><p><a href="https://github.com/EstherPlomp/TNW-RDM-101/edit/main/11-Assignment-Data-Flow-Map-2.qmd" class="toc-action">Edit this page</a></p><p><a href="https://github.com/EstherPlomp/TNW-RDM-101/issues/new" class="toc-action">Report an issue</a></p></div></div></nav>
     </div>
@@ -410,7 +415,8 @@ window.document.addEventListener("DOMContentLoaded", function (event) {
   for (var i=0; i<noterefs.length; i++) {
     const ref = noterefs[i];
     tippyHover(ref, function() {
-      let href = ref.getAttribute('href');
+      // use id or data attribute instead here
+      let href = ref.getAttribute('data-footnote-href') || ref.getAttribute('href');
       try { href = new URL(href).hash; } catch {}
       const id = href.replace(/^#\/?/, "");
       const note = window.document.getElementById(id);

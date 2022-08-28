@@ -2,7 +2,7 @@
 <html xmlns="http://www.w3.org/1999/xhtml" lang="en" xml:lang="en"><head>
 
 <meta charset="utf-8">
-<meta name="generator" content="quarto-1.0.38">
+<meta name="generator" content="quarto-1.1.149">
 
 <meta name="viewport" content="width=device-width, initial-scale=1.0, user-scalable=yes">
 
@@ -12,10 +12,15 @@
 <style>
 code{white-space: pre-wrap;}
 span.smallcaps{font-variant: small-caps;}
-span.underline{text-decoration: underline;}
-div.column{display: inline-block; vertical-align: top; width: 50%;}
+div.columns{display: flex; gap: min(4vw, 1.5em);}
+div.column{flex: auto; overflow-x: auto;}
 div.hanging-indent{margin-left: 1.5em; text-indent: -1.5em;}
 ul.task-list{list-style: none;}
+ul.task-list li input[type="checkbox"] {
+  width: 0.8em;
+  margin: 0 0.8em 0.2em -1.6em;
+  vertical-align: middle;
+}
 </style>
 
 
@@ -182,13 +187,13 @@ ul.task-list{list-style: none;}
 </nav>
 <!-- margin-sidebar -->
     <div id="quarto-margin-sidebar" class="sidebar margin-sidebar">
-        <nav id="TOC" role="doc-toc">
+        <nav id="TOC" role="doc-toc" class="toc-active">
     <h2 id="toc-title">Table of contents</h2>
    
   <ul>
-  <li><a href="#introduction-to-dmponline" id="toc-introduction-to-dmponline" class="nav-link active" data-scroll-target="#introduction-to-dmponline"> <span class="header-section-number">14.1</span> Introduction to DMPonline</a></li>
-  <li><a href="#create-a-dmp-using-dmponline" id="toc-create-a-dmp-using-dmponline" class="nav-link" data-scroll-target="#create-a-dmp-using-dmponline"> <span class="header-section-number">14.2</span> Create a DMP using DMPonline</a></li>
-  <li><a href="#submit-your-assignment" id="toc-submit-your-assignment" class="nav-link" data-scroll-target="#submit-your-assignment"> <span class="header-section-number">14.3</span> Submit your assignment</a></li>
+  <li><a href="#introduction-to-dmponline" id="toc-introduction-to-dmponline" class="nav-link active" data-scroll-target="#introduction-to-dmponline"><span class="toc-section-number">14.1</span>  Introduction to DMPonline</a></li>
+  <li><a href="#create-a-dmp-using-dmponline" id="toc-create-a-dmp-using-dmponline" class="nav-link" data-scroll-target="#create-a-dmp-using-dmponline"><span class="toc-section-number">14.2</span>  Create a DMP using DMPonline</a></li>
+  <li><a href="#submit-your-assignment" id="toc-submit-your-assignment" class="nav-link" data-scroll-target="#submit-your-assignment"><span class="toc-section-number">14.3</span>  Submit your assignment</a></li>
   </ul>
 <div class="toc-actions"><div><i class="bi bi-github"></i></div><div class="action-links"><p><a href="https://github.com/EstherPlomp/TNW-RDM-101/edit/main/13-Assignment-DMP.qmd" class="toc-action">Edit this page</a></p><p><a href="https://github.com/EstherPlomp/TNW-RDM-101/issues/new" class="toc-action">Report an issue</a></p></div></div></nav>
     </div>
@@ -234,7 +239,7 @@ ul.task-list{list-style: none;}
 <li>Fill in the ‘Project Details’ according to your project.</li>
 <li>Go to ‘Write Plan’</li>
 <li>Go back to your slides or papers and post-it’s of your data flow map of week 1 and 2 and use the information in there to fill in the questions of the data management plan. If appropriate, you can use the ‘Additional Information’ box in the template to add as many details as possible according to your data flow map.</li>
-<li>If you don’t know how to answer any of the questions please let us know in <a href="https://github.com/EstherPlomp/TNW-RDM-101/issues/5">GitHub Issue #5</a>.</li>
+<li>If you don’t know how to answer any of the questions please let us know in <a href="https://github.com/EstherPlomp/TNW-RDM-101/issues/5https://github.com/EstherPlomp/TNW-RDM-101/discussions/11">GitHub Discussion #11 Data Management Plan</a>.</li>
 </ol>
 </section>
 <section id="submit-your-assignment" class="level2" data-number="14.3">
@@ -314,7 +319,8 @@ window.document.addEventListener("DOMContentLoaded", function (event) {
   for (var i=0; i<noterefs.length; i++) {
     const ref = noterefs[i];
     tippyHover(ref, function() {
-      let href = ref.getAttribute('href');
+      // use id or data attribute instead here
+      let href = ref.getAttribute('data-footnote-href') || ref.getAttribute('href');
       try { href = new URL(href).hash; } catch {}
       const id = href.replace(/^#\/?/, "");
       const note = window.document.getElementById(id);

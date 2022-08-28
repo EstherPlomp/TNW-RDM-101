@@ -2,7 +2,7 @@
 <html xmlns="http://www.w3.org/1999/xhtml" lang="en" xml:lang="en"><head>
 
 <meta charset="utf-8">
-<meta name="generator" content="quarto-1.0.38">
+<meta name="generator" content="quarto-1.1.149">
 
 <meta name="viewport" content="width=device-width, initial-scale=1.0, user-scalable=yes">
 
@@ -12,10 +12,15 @@
 <style>
 code{white-space: pre-wrap;}
 span.smallcaps{font-variant: small-caps;}
-span.underline{text-decoration: underline;}
-div.column{display: inline-block; vertical-align: top; width: 50%;}
+div.columns{display: flex; gap: min(4vw, 1.5em);}
+div.column{flex: auto; overflow-x: auto;}
 div.hanging-indent{margin-left: 1.5em; text-indent: -1.5em;}
 ul.task-list{list-style: none;}
+ul.task-list li input[type="checkbox"] {
+  width: 0.8em;
+  margin: 0 0.8em 0.2em -1.6em;
+  vertical-align: middle;
+}
 </style>
 
 
@@ -182,24 +187,23 @@ ul.task-list{list-style: none;}
 </nav>
 <!-- margin-sidebar -->
     <div id="quarto-margin-sidebar" class="sidebar margin-sidebar">
-        <nav id="TOC" role="doc-toc">
+        <nav id="TOC" role="doc-toc" class="toc-active">
     <h2 id="toc-title">Table of contents</h2>
    
   <ul>
-  <li><a href="#activities-1" id="toc-activities-1" class="nav-link active" data-scroll-target="#activities-1"> <span class="header-section-number">6.1</span> Activities</a></li>
-  <li><a href="#research-data-definition" id="toc-research-data-definition" class="nav-link" data-scroll-target="#research-data-definition"> <span class="header-section-number">6.2</span> Research Data definition</a></li>
-  <li><a href="#confidential-data" id="toc-confidential-data" class="nav-link" data-scroll-target="#confidential-data"> <span class="header-section-number">6.3</span> Confidential data</a></li>
-  <li><a href="#personal-data" id="toc-personal-data" class="nav-link" data-scroll-target="#personal-data"> <span class="header-section-number">6.4</span> Personal Data</a></li>
-  <li><a href="#your-data-workflow" id="toc-your-data-workflow" class="nav-link" data-scroll-target="#your-data-workflow"> <span class="header-section-number">6.5</span> Your data workflow</a></li>
-  <li><a href="#relevant-rdm-steps-within-a-research-project" id="toc-relevant-rdm-steps-within-a-research-project" class="nav-link" data-scroll-target="#relevant-rdm-steps-within-a-research-project"> <span class="header-section-number">6.6</span> Relevant RDM steps within a research project</a></li>
-  <li><a href="#discussion" id="toc-discussion" class="nav-link" data-scroll-target="#discussion"> <span class="header-section-number">6.7</span> Discussion</a></li>
-  <li><a href="#research-data-infrastructure-at-tu-delft" id="toc-research-data-infrastructure-at-tu-delft" class="nav-link" data-scroll-target="#research-data-infrastructure-at-tu-delft"> <span class="header-section-number">6.8</span> Research Data infrastructure at TU Delft</a>
+  <li><a href="#research-data-definition" id="toc-research-data-definition" class="nav-link active" data-scroll-target="#research-data-definition"><span class="toc-section-number">6.1</span>  Research Data definition</a></li>
+  <li><a href="#confidential-data" id="toc-confidential-data" class="nav-link" data-scroll-target="#confidential-data"><span class="toc-section-number">6.2</span>  Confidential data</a></li>
+  <li><a href="#personal-data" id="toc-personal-data" class="nav-link" data-scroll-target="#personal-data"><span class="toc-section-number">6.3</span>  Personal Data</a></li>
+  <li><a href="#your-data-workflow" id="toc-your-data-workflow" class="nav-link" data-scroll-target="#your-data-workflow"><span class="toc-section-number">6.4</span>  Your data workflow</a></li>
+  <li><a href="#relevant-rdm-steps-within-a-research-project" id="toc-relevant-rdm-steps-within-a-research-project" class="nav-link" data-scroll-target="#relevant-rdm-steps-within-a-research-project"><span class="toc-section-number">6.5</span>  Relevant RDM steps within a research project</a></li>
+  <li><a href="#discussion" id="toc-discussion" class="nav-link" data-scroll-target="#discussion"><span class="toc-section-number">6.6</span>  Discussion</a></li>
+  <li><a href="#research-data-infrastructure-at-tu-delft" id="toc-research-data-infrastructure-at-tu-delft" class="nav-link" data-scroll-target="#research-data-infrastructure-at-tu-delft"><span class="toc-section-number">6.7</span>  Research Data infrastructure at TU Delft</a>
   <ul class="collapse">
-  <li><a href="#tu-delft-resources" id="toc-tu-delft-resources" class="nav-link" data-scroll-target="#tu-delft-resources"> <span class="header-section-number">6.8.1</span> TU Delft Resources:</a></li>
+  <li><a href="#tu-delft-resources" id="toc-tu-delft-resources" class="nav-link" data-scroll-target="#tu-delft-resources"><span class="toc-section-number">6.7.1</span>  TU Delft Resources:</a></li>
   </ul></li>
-  <li><a href="#rdm-responsibilities" id="toc-rdm-responsibilities" class="nav-link" data-scroll-target="#rdm-responsibilities"> <span class="header-section-number">6.9</span> RDM responsibilities</a>
+  <li><a href="#rdm-responsibilities" id="toc-rdm-responsibilities" class="nav-link" data-scroll-target="#rdm-responsibilities"><span class="toc-section-number">6.8</span>  RDM responsibilities</a>
   <ul class="collapse">
-  <li><a href="#policy-summary" id="toc-policy-summary" class="nav-link" data-scroll-target="#policy-summary"> <span class="header-section-number">6.9.1</span> Policy summary</a></li>
+  <li><a href="#policy-summary" id="toc-policy-summary" class="nav-link" data-scroll-target="#policy-summary"><span class="toc-section-number">6.8.1</span>  Policy summary</a></li>
   </ul></li>
   </ul>
 <div class="toc-actions"><div><i class="bi bi-github"></i></div><div class="action-links"><p><a href="https://github.com/EstherPlomp/TNW-RDM-101/edit/main/05-Essentials-for-Research-Data.qmd" class="toc-action">Edit this page</a></p><p><a href="https://github.com/EstherPlomp/TNW-RDM-101/issues/new" class="toc-action">Report an issue</a></p></div></div></nav>
@@ -253,25 +257,13 @@ Activities
 <li>Tell us about the type of research data you work with using the <a href="https://www.menti.com/9p49g5hobo">Mentimeter word cloud</a>.</li>
 <li>Look at the research cycle image and the RDM questions you need to ask yourself at each step of your project</li>
 <li>Watch the video about data storage &amp; infrastructure available at TU Delft</li>
-<li>Respond to <a href="linkhttps://github.com/EstherPlomp/TNW-RDM-101/issues/2">GitHub issue #2</a> with your data challenge</li>
+<li>Respond to <a href="linkhttps://github.com/EstherPlomp/TNW-RDM-101/issues/2https://github.com/EstherPlomp/TNW-RDM-101/discussions/7">GitHub discussion #7</a> with your data challenge</li>
 <li>Read the policy responsibilities and ask any questions you have about it</li>
 </ul>
 </div>
 </div>
-<section id="activities-1" class="level2" data-number="6.1">
-<h2 data-number="6.1" class="anchored" data-anchor-id="activities-1"><span class="header-section-number">6.1</span> Activities</h2>
-<ul>
-<li>Watch videos of TU Delft researchers telling you about the research data and confidential research data they work with</li>
-<li>If you work with personal data, read the information on the two linked websites</li>
-<li>Tell us about the type of research data you work with using the Mentimeter word cloud.</li>
-<li>Look at the research cycle image and the RDM questions you need to ask yourself at each step of your project</li>
-<li>Watch the video about data storage &amp; infrastructure available at TU Delft</li>
-<li>Respond to <a href="link">GitHub issue #</a> with your data challenge</li>
-<li>Read the policy responsibilities and ask any questions you have about it</li>
-</ul>
-</section>
-<section id="research-data-definition" class="level2" data-number="6.2">
-<h2 data-number="6.2" class="anchored" data-anchor-id="research-data-definition"><span class="header-section-number">6.2</span> Research Data definition</h2>
+<section id="research-data-definition" class="level2" data-number="6.1">
+<h2 data-number="6.1" class="anchored" data-anchor-id="research-data-definition"><span class="header-section-number">6.1</span> Research Data definition</h2>
 <p>Research data is any information that has been collected, observed, generated or created to validate research findings. Depending on the discipline you work in, research data can be collected or produced in different ways. You can capture them in real-time (e.g.&nbsp;sensors, images), you can collect them using laboratory instruments and they can derive from interviews or numerical simulations, among others. Research Data can be digital such as tabular data, videos, algorithms, scripts, transcripts, and codebooks. They can also be non-digital, for example, laboratory samples, sketchbooks, and prototypes.</p>
 <p>We talked to some TU Delft researchers working in different disciplines and we asked them: ‘What is the research data you work with?’ Let’s see what they shared with us:</p>
 <ul>
@@ -285,8 +277,8 @@ Activities
 </figure>
 </div>
 </section>
-<section id="confidential-data" class="level2" data-number="6.3">
-<h2 data-number="6.3" class="anchored" data-anchor-id="confidential-data"><span class="header-section-number">6.3</span> Confidential data</h2>
+<section id="confidential-data" class="level2" data-number="6.2">
+<h2 data-number="6.2" class="anchored" data-anchor-id="confidential-data"><span class="header-section-number">6.2</span> Confidential data</h2>
 <p>There are multiple types of confidential data that you might be working with during your research project. Some examples include:</p>
 <ul>
 <li>personal data (information about an identified or identifiable natural person)</li>
@@ -304,8 +296,8 @@ Activities
 <li><a href="https://youtu.be/YCXZce3qGXI">Wirawan Agahari talking about personal data in his research</a></li>
 </ul>
 </section>
-<section id="personal-data" class="level2" data-number="6.4">
-<h2 data-number="6.4" class="anchored" data-anchor-id="personal-data"><span class="header-section-number">6.4</span> Personal Data</h2>
+<section id="personal-data" class="level2" data-number="6.3">
+<h2 data-number="6.3" class="anchored" data-anchor-id="personal-data"><span class="header-section-number">6.3</span> Personal Data</h2>
 <p>Only read these materials if you work with personal data (data that can identify a person)</p>
 <ul>
 <li><a href="https://www.tudelft.nl/en/privacy-security/privacy/">TU Delft Information about privacy</a></li>
@@ -314,35 +306,35 @@ Activities
 </ul>
 <div class="quarto-figure quarto-figure-center">
 <figure class="figure">
-<p><a href="https://doi.org/10.5281/zenodo.3332807"><img src="https://raw.githubusercontent.com/alan-turing-institute/the-turing-way/main/book/website/figures/senitive-data.jpg" class="img-fluid figure-img" alt="A visualisation on how sensitive data requires an additional track or process to be able to share (parts of it). Tools that can help to make research based on senstive data reproducible are: encryption, consent, deidentification, sytnethic data and data safe havens." style="width:68.0%"></a></p>
+<p><a href="https://doi.org/10.5281/zenodo.3332807"><img src="https://raw.githubusercontent.com/alan-turing-institute/the-turing-way/main/book/website/figures/senitive-data.jpg" class="img-fluid figure-img" style="width:68.0%" alt="A visualisation on how sensitive data requires an additional track or process to be able to share (parts of it). Tools that can help to make research based on senstive data reproducible are: encryption, consent, deidentification, sytnethic data and data safe havens."></a></p>
 <p></p><figcaption class="figure-caption">The Turing Way project illustration by Scriberia. Used under a CC-BY 4.0 licence. DOI: 10.5281/zenodo.3332807.</figcaption><p></p>
 </figure>
 </div>
 </section>
-<section id="your-data-workflow" class="level2" data-number="6.5">
-<h2 data-number="6.5" class="anchored" data-anchor-id="your-data-workflow"><span class="header-section-number">6.5</span> Your data workflow</h2>
+<section id="your-data-workflow" class="level2" data-number="6.4">
+<h2 data-number="6.4" class="anchored" data-anchor-id="your-data-workflow"><span class="header-section-number">6.4</span> Your data workflow</h2>
 <p>Now think about your own type of data and let us know <a href="https://www.menti.com/9p49g5hobo">by answering the mentimeter</a></p>
 </section>
-<section id="relevant-rdm-steps-within-a-research-project" class="level2" data-number="6.6">
-<h2 data-number="6.6" class="anchored" data-anchor-id="relevant-rdm-steps-within-a-research-project"><span class="header-section-number">6.6</span> Relevant RDM steps within a research project</h2>
+<section id="relevant-rdm-steps-within-a-research-project" class="level2" data-number="6.5">
+<h2 data-number="6.5" class="anchored" data-anchor-id="relevant-rdm-steps-within-a-research-project"><span class="header-section-number">6.5</span> Relevant RDM steps within a research project</h2>
 <p>In the following presentation you can go through a simplified cycle which can represent your project. Have a look at the RDM questions you might ask at each step of research.</p>
 <p><a href="https://surfdrive.surf.nl/files/index.php/s/KiQo8RsVXHPHUUp">02-1_ Module-2_handout_RDM_steps_Interactive_image</a></p>
 </section>
-<section id="discussion" class="level2" data-number="6.7">
-<h2 data-number="6.7" class="anchored" data-anchor-id="discussion"><span class="header-section-number">6.7</span> Discussion</h2>
+<section id="discussion" class="level2" data-number="6.6">
+<h2 data-number="6.6" class="anchored" data-anchor-id="discussion"><span class="header-section-number">6.6</span> Discussion</h2>
 <p>For this module’s discussion, please answer the following question:</p>
 <ul>
 <li>What is your main challenge regarding your data management?</li>
 </ul>
-<p>Post your answers in <a href="https://github.com/EstherPlomp/TNW-RDM-101/issues/2#issue-1333675920">GitHub Issue #2</a>.</p>
+<p>Post your answers in <a href="https://github.com/EstherPlomp/TNW-RDM-101/issues/2#issue-1333675920https://github.com/EstherPlomp/TNW-RDM-101/discussions/7">GitHub Discussion #7</a>.</p>
 <p>Please read your peers’ responses and reply to any you find interesting!</p>
 </section>
-<section id="research-data-infrastructure-at-tu-delft" class="level2" data-number="6.8">
-<h2 data-number="6.8" class="anchored" data-anchor-id="research-data-infrastructure-at-tu-delft"><span class="header-section-number">6.8</span> Research Data infrastructure at TU Delft</h2>
+<section id="research-data-infrastructure-at-tu-delft" class="level2" data-number="6.7">
+<h2 data-number="6.7" class="anchored" data-anchor-id="research-data-infrastructure-at-tu-delft"><span class="header-section-number">6.7</span> Research Data infrastructure at TU Delft</h2>
 <p>In the next video we will go through the infrastructure provided centrally at TU Delft for storing, backup and sharing Research Data. Before starting the data collection/creation within your project, it is good to reflect where you will store and how you will back up the data. Selecting a storage and backup strategy will mean that data is safe during your research project, including in the case of unpredicted problems. Following good data storage practices protect you from data loss and facilitate effective collaborations. In this video, we will go through the infrastructure provided centrally at TU Delft for storing, backup and sharing Research Data. You should ask your supervisor if within your research group/department/ project there is a preferred approach for data storage and backup, or if there are customised solutions already in place.</p>
 <p><a href="https://surfdrive.surf.nl/files/index.php/s/VIqg4s1ch6JMKtZ">02-4_Module-2 _Presentation _Data_StorageSharing</a> -&gt; needs to be rerecorded as the sound does not work.</p>
-<section id="tu-delft-resources" class="level3" data-number="6.8.1">
-<h3 data-number="6.8.1" class="anchored" data-anchor-id="tu-delft-resources"><span class="header-section-number">6.8.1</span> TU Delft Resources:</h3>
+<section id="tu-delft-resources" class="level3" data-number="6.7.1">
+<h3 data-number="6.7.1" class="anchored" data-anchor-id="tu-delft-resources"><span class="header-section-number">6.7.1</span> TU Delft Resources:</h3>
 <ul>
 <li><a href="https://tudelft.topdesk.net/tas/public/ssp/content/serviceflow?unid=21b6203ec6d74f00a45c32e6034dfc0c&amp;openedFromService=true">Additional information about storage infrastructure at TU Delft on TopDesk</a></li>
 <li>To <a href="https://webdata.tudelft.nl/">download WebDrive</a> for the Project Drive</li>
@@ -350,8 +342,8 @@ Activities
 </ul>
 </section>
 </section>
-<section id="rdm-responsibilities" class="level2" data-number="6.9">
-<h2 data-number="6.9" class="anchored" data-anchor-id="rdm-responsibilities"><span class="header-section-number">6.9</span> RDM responsibilities</h2>
+<section id="rdm-responsibilities" class="level2" data-number="6.8">
+<h2 data-number="6.8" class="anchored" data-anchor-id="rdm-responsibilities"><span class="header-section-number">6.8</span> RDM responsibilities</h2>
 <p>In this section we would like to make you aware of the responsibilities of TU Delft PhD candidates regarding Research Data Management.</p>
 <p>These responsibilities are detailed in the University and Faculty Policies. It is very important for TU Delft that researchers follow best practices on Research Data Management (RDM). That is why since 2018 <strong>TU Delft</strong> has published a set of policies which provide a clear division of roles and responsibilities around RDM.</p>
 <ul>
@@ -365,8 +357,8 @@ Activities
 <ul>
 <li><a href="https://zenodo.org/record/4629662">TUD Research Software Policy</a></li>
 </ul>
-<section id="policy-summary" class="level3" data-number="6.9.1">
-<h3 data-number="6.9.1" class="anchored" data-anchor-id="policy-summary"><span class="header-section-number">6.9.1</span> Policy summary</h3>
+<section id="policy-summary" class="level3" data-number="6.8.1">
+<h3 data-number="6.8.1" class="anchored" data-anchor-id="policy-summary"><span class="header-section-number">6.8.1</span> Policy summary</h3>
 <p>This section summarises your responsibilities as a TU Delft/Applied Sciences PhD candidate:</p>
 <ul>
 <li>Developing a written data management plan (DMP) for managing research outputs within the first 12 months of the PhD study. (As part of the Go/No-Go meeting. For all PhDs starting from 1 January 2020 onwards.)</li>
@@ -454,7 +446,8 @@ window.document.addEventListener("DOMContentLoaded", function (event) {
   for (var i=0; i<noterefs.length; i++) {
     const ref = noterefs[i];
     tippyHover(ref, function() {
-      let href = ref.getAttribute('href');
+      // use id or data attribute instead here
+      let href = ref.getAttribute('data-footnote-href') || ref.getAttribute('href');
       try { href = new URL(href).hash; } catch {}
       const id = href.replace(/^#\/?/, "");
       const note = window.document.getElementById(id);

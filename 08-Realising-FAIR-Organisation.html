@@ -2,7 +2,7 @@
 <html xmlns="http://www.w3.org/1999/xhtml" lang="en" xml:lang="en"><head>
 
 <meta charset="utf-8">
-<meta name="generator" content="quarto-1.0.38">
+<meta name="generator" content="quarto-1.1.149">
 
 <meta name="viewport" content="width=device-width, initial-scale=1.0, user-scalable=yes">
 
@@ -12,10 +12,15 @@
 <style>
 code{white-space: pre-wrap;}
 span.smallcaps{font-variant: small-caps;}
-span.underline{text-decoration: underline;}
-div.column{display: inline-block; vertical-align: top; width: 50%;}
+div.columns{display: flex; gap: min(4vw, 1.5em);}
+div.column{flex: auto; overflow-x: auto;}
 div.hanging-indent{margin-left: 1.5em; text-indent: -1.5em;}
 ul.task-list{list-style: none;}
+ul.task-list li input[type="checkbox"] {
+  width: 0.8em;
+  margin: 0 0.8em 0.2em -1.6em;
+  vertical-align: middle;
+}
 div.csl-bib-body { }
 div.csl-entry {
   clear: both;
@@ -201,17 +206,17 @@ div.csl-indent {
 </nav>
 <!-- margin-sidebar -->
     <div id="quarto-margin-sidebar" class="sidebar margin-sidebar">
-        <nav id="TOC" role="doc-toc">
+        <nav id="TOC" role="doc-toc" class="toc-active">
     <h2 id="toc-title">Table of contents</h2>
    
   <ul>
-  <li><a href="#data-organisation" id="toc-data-organisation" class="nav-link active" data-scroll-target="#data-organisation"> <span class="header-section-number">9.1</span> Data Organisation</a>
+  <li><a href="#data-organisation" id="toc-data-organisation" class="nav-link active" data-scroll-target="#data-organisation"><span class="toc-section-number">9.1</span>  Data Organisation</a>
   <ul class="collapse">
-  <li><a href="#presentation-resources" id="toc-presentation-resources" class="nav-link" data-scroll-target="#presentation-resources"> <span class="header-section-number">9.1.1</span> Presentation Resources</a></li>
-  <li><a href="#quiz-data-organisation" id="toc-quiz-data-organisation" class="nav-link" data-scroll-target="#quiz-data-organisation"> <span class="header-section-number">9.1.2</span> Quiz Data Organisation</a></li>
+  <li><a href="#presentation-resources" id="toc-presentation-resources" class="nav-link" data-scroll-target="#presentation-resources"><span class="toc-section-number">9.1.1</span>  Presentation Resources</a></li>
+  <li><a href="#quiz-data-organisation" id="toc-quiz-data-organisation" class="nav-link" data-scroll-target="#quiz-data-organisation"><span class="toc-section-number">9.1.2</span>  Quiz Data Organisation</a></li>
   </ul></li>
-  <li><a href="#assignment-using-cookiecutter" id="toc-assignment-using-cookiecutter" class="nav-link" data-scroll-target="#assignment-using-cookiecutter"> <span class="header-section-number">9.2</span> Assignment: Using Cookiecutter</a></li>
-  <li><a href="#quiz-answers" id="toc-quiz-answers" class="nav-link" data-scroll-target="#quiz-answers"> <span class="header-section-number">9.3</span> Quiz Answers</a></li>
+  <li><a href="#assignment-using-cookiecutter" id="toc-assignment-using-cookiecutter" class="nav-link" data-scroll-target="#assignment-using-cookiecutter"><span class="toc-section-number">9.2</span>  Assignment: Using Cookiecutter</a></li>
+  <li><a href="#quiz-answers" id="toc-quiz-answers" class="nav-link" data-scroll-target="#quiz-answers"><span class="toc-section-number">9.3</span>  Quiz Answers</a></li>
   </ul>
 <div class="toc-actions"><div><i class="bi bi-github"></i></div><div class="action-links"><p><a href="https://github.com/EstherPlomp/TNW-RDM-101/edit/main/08-Realising-FAIR-Organisation.qmd" class="toc-action">Edit this page</a></p><p><a href="https://github.com/EstherPlomp/TNW-RDM-101/issues/new" class="toc-action">Report an issue</a></p></div></div></nav>
     </div>
@@ -256,7 +261,7 @@ Activities
 <div class="callout-body-container callout-body">
 <ul>
 <li>Watch the videos about ‘Data organisation’ and complete the quiz</li>
-<li>Try out Cookiecutter, share your folder structure on <a href="https://github.com/EstherPlomp/TNW-RDM-101/issues/4">GitHub issue #4</a>, and comment on another person’s folder structure</li>
+<li>Try out Cookiecutter, share your folder structure on <a href="https://github.com/EstherPlomp/TNW-RDM-101/issues/4">GitHub discussion #10 Folder Structure</a>, and comment on another person’s folder structure</li>
 </ul>
 </div>
 </div>
@@ -331,12 +336,9 @@ Activities
 <ol start="2" type="a">
 <li>You can also find a visualisation of the template on the <a href="https://github.com/bvreede/good-enough-project">GitHub repository</a></li>
 </ol></li>
-</ol>
-<!-- -->
-<ol start="3" type="1">
-<li>Work on your own to populate the template with information/files from your project.</li>
-<li>Share your folder structure on <a href="https://github.com/EstherPlomp/TNW-RDM-101/issues/4">GitHub issue #4</a> and comment on another person’s folder structure</li>
-<li>Discuss with your peers how similar your own folder structure is to the one you created using Cookiecutter. What additional elements are there in the Cookiecutter project? Is there anything that the Cookiecutter template is missing?</li>
+<li><p>Work on your own to populate the template with information/files from your project.</p></li>
+<li><p>Share your folder structure on <a href="https://github.com/EstherPlomp/TNW-RDM-101/issues/4">GitHub discussion #10 Folder Structure</a> and comment on another person’s folder structure</p></li>
+<li><p>Discuss with your peers how similar your own folder structure is to the one you created using Cookiecutter. What additional elements are there in the Cookiecutter project? Is there anything that the Cookiecutter template is missing?</p></li>
 </ol>
 <p>If you didn’t find this template useful, you can browse these templates to see if one of these fits your needs better:</p>
 <ol type="a">
@@ -357,7 +359,7 @@ Problems with Cookiecutter?
 <div class="callout-body-container callout-body">
 <p>You can also download the template from GitHub. Note that if you’d like to reuse this template a lot, it will be easier to do it as described above.</p>
 <ol type="1">
-<li><p>Go to "<a href="https://github.com/bvreede/good-enough-project" class="uri">https://github.com/bvreede/good-enough-project</a>"</p></li>
+<li><p>Go to “<a href="https://github.com/bvreede/good-enough-project" class="uri">https://github.com/bvreede/good-enough-project</a>”</p></li>
 <li><p>Go to Code -&gt; Download ZIP</p></li>
 <li><p>Extract all files in the folder where you’d like to save it, and rename the folder {{cookiecutter.project_slug}} to the name of your project</p></li>
 </ol>
@@ -448,7 +450,8 @@ window.document.addEventListener("DOMContentLoaded", function (event) {
   for (var i=0; i<noterefs.length; i++) {
     const ref = noterefs[i];
     tippyHover(ref, function() {
-      let href = ref.getAttribute('href');
+      // use id or data attribute instead here
+      let href = ref.getAttribute('data-footnote-href') || ref.getAttribute('href');
       try { href = new URL(href).hash; } catch {}
       const id = href.replace(/^#\/?/, "");
       const note = window.document.getElementById(id);

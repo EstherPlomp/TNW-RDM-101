@@ -2,7 +2,7 @@
 <html xmlns="http://www.w3.org/1999/xhtml" lang="en" xml:lang="en"><head>
 
 <meta charset="utf-8">
-<meta name="generator" content="quarto-1.0.38">
+<meta name="generator" content="quarto-1.1.149">
 
 <meta name="viewport" content="width=device-width, initial-scale=1.0, user-scalable=yes">
 
@@ -12,10 +12,15 @@
 <style>
 code{white-space: pre-wrap;}
 span.smallcaps{font-variant: small-caps;}
-span.underline{text-decoration: underline;}
-div.column{display: inline-block; vertical-align: top; width: 50%;}
+div.columns{display: flex; gap: min(4vw, 1.5em);}
+div.column{flex: auto; overflow-x: auto;}
 div.hanging-indent{margin-left: 1.5em; text-indent: -1.5em;}
 ul.task-list{list-style: none;}
+ul.task-list li input[type="checkbox"] {
+  width: 0.8em;
+  margin: 0 0.8em 0.2em -1.6em;
+  vertical-align: middle;
+}
 div.csl-bib-body { }
 div.csl-entry {
   clear: both;
@@ -201,15 +206,15 @@ div.csl-indent {
 </nav>
 <!-- margin-sidebar -->
     <div id="quarto-margin-sidebar" class="sidebar margin-sidebar">
-        <nav id="TOC" role="doc-toc">
+        <nav id="TOC" role="doc-toc" class="toc-active">
     <h2 id="toc-title">Table of contents</h2>
    
   <ul>
-  <li><a href="#step-1---fill-out-the-data-you-will-collectcreate-with-a-short-description" id="toc-step-1---fill-out-the-data-you-will-collectcreate-with-a-short-description" class="nav-link active" data-scroll-target="#step-1---fill-out-the-data-you-will-collectcreate-with-a-short-description"> <span class="header-section-number">7.1</span> Step 1 - Fill out the data you will collect/create with a short description</a></li>
-  <li><a href="#step-2---indicate-actions-to-the-data" id="toc-step-2---indicate-actions-to-the-data" class="nav-link" data-scroll-target="#step-2---indicate-actions-to-the-data"> <span class="header-section-number">7.2</span> Step 2 - Indicate actions to the data</a></li>
-  <li><a href="#step-3---reflect-on-your-data" id="toc-step-3---reflect-on-your-data" class="nav-link" data-scroll-target="#step-3---reflect-on-your-data"> <span class="header-section-number">7.3</span> Step 3 - Reflect on your data</a></li>
-  <li><a href="#step-4---reflect-on-the-theme-back-up-and-storage" id="toc-step-4---reflect-on-the-theme-back-up-and-storage" class="nav-link" data-scroll-target="#step-4---reflect-on-the-theme-back-up-and-storage"> <span class="header-section-number">7.4</span> Step 4 - Reflect on the theme Back-up and Storage</a></li>
-  <li><a href="#references" id="toc-references" class="nav-link" data-scroll-target="#references"> <span class="header-section-number">7.5</span> References</a></li>
+  <li><a href="#step-1---fill-out-the-data-you-will-collectcreate-with-a-short-description" id="toc-step-1---fill-out-the-data-you-will-collectcreate-with-a-short-description" class="nav-link active" data-scroll-target="#step-1---fill-out-the-data-you-will-collectcreate-with-a-short-description"><span class="toc-section-number">7.1</span>  Step 1 - Fill out the data you will collect/create with a short description</a></li>
+  <li><a href="#step-2---indicate-actions-to-the-data" id="toc-step-2---indicate-actions-to-the-data" class="nav-link" data-scroll-target="#step-2---indicate-actions-to-the-data"><span class="toc-section-number">7.2</span>  Step 2 - Indicate actions to the data</a></li>
+  <li><a href="#step-3---reflect-on-your-data" id="toc-step-3---reflect-on-your-data" class="nav-link" data-scroll-target="#step-3---reflect-on-your-data"><span class="toc-section-number">7.3</span>  Step 3 - Reflect on your data</a></li>
+  <li><a href="#step-4---reflect-on-the-theme-back-up-and-storage" id="toc-step-4---reflect-on-the-theme-back-up-and-storage" class="nav-link" data-scroll-target="#step-4---reflect-on-the-theme-back-up-and-storage"><span class="toc-section-number">7.4</span>  Step 4 - Reflect on the theme Back-up and Storage</a></li>
+  <li><a href="#references" id="toc-references" class="nav-link" data-scroll-target="#references"><span class="toc-section-number">7.5</span>  References</a></li>
   </ul>
 <div class="toc-actions"><div><i class="bi bi-github"></i></div><div class="action-links"><p><a href="https://github.com/EstherPlomp/TNW-RDM-101/edit/main/06-Assignment-Data-Flow-Map-1.qmd" class="toc-action">Edit this page</a></p><p><a href="https://github.com/EstherPlomp/TNW-RDM-101/issues/new" class="toc-action">Report an issue</a></p></div></div></nav>
     </div>
@@ -367,7 +372,8 @@ window.document.addEventListener("DOMContentLoaded", function (event) {
   for (var i=0; i<noterefs.length; i++) {
     const ref = noterefs[i];
     tippyHover(ref, function() {
-      let href = ref.getAttribute('href');
+      // use id or data attribute instead here
+      let href = ref.getAttribute('data-footnote-href') || ref.getAttribute('href');
       try { href = new URL(href).hash; } catch {}
       const id = href.replace(/^#\/?/, "");
       const note = window.document.getElementById(id);

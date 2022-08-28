@@ -2,7 +2,7 @@
 <html xmlns="http://www.w3.org/1999/xhtml" lang="en" xml:lang="en"><head>
 
 <meta charset="utf-8">
-<meta name="generator" content="quarto-1.0.38">
+<meta name="generator" content="quarto-1.1.149">
 
 <meta name="viewport" content="width=device-width, initial-scale=1.0, user-scalable=yes">
 
@@ -12,10 +12,15 @@
 <style>
 code{white-space: pre-wrap;}
 span.smallcaps{font-variant: small-caps;}
-span.underline{text-decoration: underline;}
-div.column{display: inline-block; vertical-align: top; width: 50%;}
+div.columns{display: flex; gap: min(4vw, 1.5em);}
+div.column{flex: auto; overflow-x: auto;}
 div.hanging-indent{margin-left: 1.5em; text-indent: -1.5em;}
 ul.task-list{list-style: none;}
+ul.task-list li input[type="checkbox"] {
+  width: 0.8em;
+  margin: 0 0.8em 0.2em -1.6em;
+  vertical-align: middle;
+}
 div.csl-bib-body { }
 div.csl-entry {
   clear: both;
@@ -201,13 +206,14 @@ div.csl-indent {
 </nav>
 <!-- margin-sidebar -->
     <div id="quarto-margin-sidebar" class="sidebar margin-sidebar">
-        <nav id="TOC" role="doc-toc">
+        <nav id="TOC" role="doc-toc" class="toc-active">
     <h2 id="toc-title">Table of contents</h2>
    
   <ul>
-  <li><a href="#section" id="toc-section" class="nav-link active" data-scroll-target="#section"> <span class="header-section-number">3.1</span> </a></li>
-  <li><a href="#why-care-about-rdm" id="toc-why-care-about-rdm" class="nav-link" data-scroll-target="#why-care-about-rdm"> <span class="header-section-number">3.2</span> Why care about RDM?</a></li>
-  <li><a href="#references" id="toc-references" class="nav-link" data-scroll-target="#references"> <span class="header-section-number">3.3</span> References</a></li>
+  <li><a href="#section" id="toc-section" class="nav-link active" data-scroll-target="#section"><span class="toc-section-number">3.1</span>  </a></li>
+  <li><a href="#why-care-about-rdm" id="toc-why-care-about-rdm" class="nav-link" data-scroll-target="#why-care-about-rdm"><span class="toc-section-number">3.2</span>  Why care about RDM?</a></li>
+  <li><a href="#selfish-reasons-to-work-reproducibly" id="toc-selfish-reasons-to-work-reproducibly" class="nav-link" data-scroll-target="#selfish-reasons-to-work-reproducibly"><span class="toc-section-number">3.3</span>  Selfish reasons to work reproducibly</a></li>
+  <li><a href="#references" id="toc-references" class="nav-link" data-scroll-target="#references"><span class="toc-section-number">3.4</span>  References</a></li>
   </ul>
 <div class="toc-actions"><div><i class="bi bi-github"></i></div><div class="action-links"><p><a href="https://github.com/EstherPlomp/TNW-RDM-101/edit/main/02-Importance-of-RDM.qmd" class="toc-action">Edit this page</a></p><p><a href="https://github.com/EstherPlomp/TNW-RDM-101/issues/new" class="toc-action">Report an issue</a></p></div></div></nav>
     </div>
@@ -282,8 +288,13 @@ Activities
 </figure>
 </div>
 </section>
-<section id="references" class="level2" data-number="3.3">
-<h2 data-number="3.3" class="anchored" data-anchor-id="references"><span class="header-section-number">3.3</span> References</h2>
+<section id="selfish-reasons-to-work-reproducibly" class="level2" data-number="3.3">
+<h2 data-number="3.3" class="anchored" data-anchor-id="selfish-reasons-to-work-reproducibly"><span class="header-section-number">3.3</span> Selfish reasons to work reproducibly</h2>
+<p>Read <span class="citation" data-cites="markowetz2015">(<a href="#ref-markowetz2015" role="doc-biblioref">Markowetz 2015</a>)</span>: Five selfish reasons to work reproducibly OR <a href="https://youtu.be/1Y_oIjlH-yg?t=355">Watch the presentation</a> (50 min) <strong>before class 1</strong></p>
+<p></p>
+</section>
+<section id="references" class="level2" data-number="3.4">
+<h2 data-number="3.4" class="anchored" data-anchor-id="references"><span class="header-section-number">3.4</span> References</h2>
 
 
 <div id="refs" class="references csl-bib-body hanging-indent" role="doc-bibliography">
@@ -363,7 +374,8 @@ window.document.addEventListener("DOMContentLoaded", function (event) {
   for (var i=0; i<noterefs.length; i++) {
     const ref = noterefs[i];
     tippyHover(ref, function() {
-      let href = ref.getAttribute('href');
+      // use id or data attribute instead here
+      let href = ref.getAttribute('data-footnote-href') || ref.getAttribute('href');
       try { href = new URL(href).hash; } catch {}
       const id = href.replace(/^#\/?/, "");
       const note = window.document.getElementById(id);
