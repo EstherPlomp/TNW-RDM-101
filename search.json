@@ -245,18 +245,25 @@
     "text": "8.2 Data and Code Licences\nMore resources on licences:\n\nLicenses for data, presentations and articles: Creative Commons (CC), or use the license chooser.\nSoftware: Choose a License. (For more detailed information, see ‘How to choose a software licence’).\nIf in doubt, talk to Esther."
   },
   {
+    "objectID": "07-FAIR-principles.html#fair-in-the-literature",
+    "href": "07-FAIR-principles.html#fair-in-the-literature",
+    "title": "8  FAIR principles",
+    "section": "8.3 FAIR in the literature",
+    "text": "8.3 FAIR in the literature\n(Scheffler et al. 2022)\n(Kievits et al. 2022)"
+  },
+  {
     "objectID": "07-FAIR-principles.html#discussion",
     "href": "07-FAIR-principles.html#discussion",
     "title": "8  FAIR principles",
-    "section": "8.3 Discussion",
-    "text": "8.3 Discussion\nPost your license preference for data and/or code in GitHub discussion #9 Licenses."
+    "section": "8.4 Discussion",
+    "text": "8.4 Discussion\nPost your license preference for data and/or code in GitHub discussion #9 Licenses."
   },
   {
     "objectID": "07-FAIR-principles.html#references",
     "href": "07-FAIR-principles.html#references",
     "title": "8  FAIR principles",
     "section": "References",
-    "text": "References\n\n\n\n\nHolmstrand, K. F., S. P. A. den Boer, E. Vlachos, P. M. Martínez-Lavanchy, K. K. Hansen, A. V. Larsen, S. Zurcher, et al. 2019. “Research Data Management (eLearning Course).” https://doi.org/10.11581/DTU:00000047.\n\n\nWilkinson, Mark D., Michel Dumontier, IJsbrand Jan Aalbersberg, Gabrielle Appleton, Myles Axton, Arie Baak, Niklas Blomberg, et al. 2016. “The FAIR Guiding Principles for Scientific Data Management and Stewardship.” Scientific Data 3 (1). https://doi.org/10.1038/sdata.2016.18."
+    "text": "References\n\n\n\n\nHolmstrand, K. F., S. P. A. den Boer, E. Vlachos, P. M. Martínez-Lavanchy, K. K. Hansen, A. V. Larsen, S. Zurcher, et al. 2019. “Research Data Management (eLearning Course).” https://doi.org/10.11581/DTU:00000047.\n\n\nKievits, Arent J., Ryan Lane, Elizabeth C. Carroll, and Jacob P. Hoogenboom. 2022. “How Innovations in Methodology Offer New Prospects for Volume Electron Microscopy.” Journal of Microscopy 287 (3): 114–37. https://doi.org/10.1111/jmi.13134.\n\n\nScheffler, Matthias, Martin Aeschlimann, Martin Albrecht, Tristan Bereau, Hans-Joachim Bungartz, Claudia Felser, Mark Greiner, et al. 2022. “FAIR Data Enabling New Horizons for Materials Research.” Nature 604 (7907): 635–42. https://doi.org/10.1038/s41586-022-04501-x.\n\n\nWilkinson, Mark D., Michel Dumontier, IJsbrand Jan Aalbersberg, Gabrielle Appleton, Myles Axton, Arie Baak, Niklas Blomberg, et al. 2016. “The FAIR Guiding Principles for Scientific Data Management and Stewardship.” Scientific Data 3 (1). https://doi.org/10.1038/sdata.2016.18."
   },
   {
     "objectID": "08-Realising-FAIR-Organisation.html",
