@@ -4,21 +4,21 @@
     "href": "index.html",
     "title": "TNW RDM 101",
     "section": "",
-    "text": "The Turing Way project illustration by Scriberia. Used under a CC-BY 4.0 licence. DOI: 10.5281/zenodo.3332807.\n\n\nThis website is an adaptation of the Research Data Management 101 Course provided by TU Delft Library.\nThis course provides PhD candidates with the essential knowledge and the core skills to manage research data according to best practice. Learners will be able to integrate good data management practices within their workflows from the beginning of their projects. The application of this knowledge to their research will allow them to reflect on how to work efficiently and in a reproducible manner with their research data, while complying with funders and institutional requirements.\nPlease note that some of the course structure has been adjusted. The original course makes use of the BrightSpace platform which also allows for integration of quizzes. Here, GitHub will be used for any discussions. Additionally, the original course is fully virtual. The classes of this course will take place in person.\nThis is a three weeks blended course, meaning that is a mix of self-studying and two in-person class meetings.\n\nThe time to be spent for the course is approximately 16 hours in total, which is equivalent to 1.5 GS credits in the category of Research skills of the GS Education Programme, if the requirements are fulfilled.\nThe online learning environment is this website and it’s GitHub Repository. Participants will have to set up a GitHub account to participate and will be instructed on how GitHub works.\n\n\n\nAll the course materials can be found here: Martinez-Lavanchy, P.M., van Schöll, Pim, & Zormpa, Eirini. (2022). TU Delft Research Data Management 101 course. Zenodo. https://doi.org/10.5281/zenodo.6325919\nParts of the content of this course are based on: Holmstrand, K.F., den Boer, S.P.A., Vlachos, E., Martínez-Lavanchy, P.M., Hansen, K.K. (Eds.) (2019). Research Data Management (eLearning course). doi: 10.11581/dtu:00000047\nThis website is made using Quarto Allaire, J., Teague, C., Scheidegger, C., Xie, Y., & Dervieux, C. (2022). Quarto (Version 0.3) [Computer software]. https://doi.org/10.5281/zenodo.5960048\nThis website is a copy of the lab manual for the Fay Lab at the University of Massachusetts Dartmouth School for Marine Science and Technology thanks to their group’s participation in the Openscapes Champions program.\n < link to this book’s template GitHub repository. Also see Quick steps to making a copy of the lab manual and publishing it!\n \n\nThis webpage is licensed under a Creative Commons Attribution 4.0 International License. and requires the attribution of the lab manual for the Fay Lab and Martinez-Lavanchy, P.M., van Schöll, Pim, & Zormpa, Eirini. (2022, July 8). TU Delft Research Data Management 101 course. Zenodo. https://doi.org/10.5281/zenodo.6325919."
+    "text": "1 Welcome!\nThis website is an adaptation of the Research Data Management 101 Course provided by TU Delft Library.\nThis course provides PhD candidates with the essential knowledge and the core skills to manage research data according to best practice. Learners will be able to integrate good data management practices within their workflows from the beginning of their projects. The application of this knowledge to their research will allow them to reflect on how to work efficiently and in a reproducible manner with their research data, while complying with funders and institutional requirements.\nPlease note that some of the course structure has been adjusted. The original course makes use of the BrightSpace platform which also allows for integration of quizzes. Here, GitHub will be used for any discussions. Additionally, the original course is fully virtual. The classes of this course will take place in person.\nThis is a three weeks blended course, meaning that is a mix of self-studying and two in-person class meetings."
   },
   {
-    "objectID": "01-Introduction.html",
-    "href": "01-Introduction.html",
-    "title": "2  Introduction",
-    "section": "",
-    "text": "Estimated time: 15 minutes\nThis course provides PhD candidates with the essential knowledge and the core skills to manage research data according to best practice. You will be able to integrate good data management practices within your workflow from the beginning of your projects. The application of this knowledge to your research will allow you to reflect on how to work efficiently and in a reproducible manner with your research data, while complying with funders and institutional requirements.\nThis course contains a lot of self-paced elements. Make sure to plan your time accordingly. You will get most out of this course if you keep an eye on the Discussions with your peers throughout the week. Do you run into any problems in scheduling time? Let us know!"
+    "objectID": "index.html#license-and-attributions",
+    "href": "index.html#license-and-attributions",
+    "title": "TNW RDM 101",
+    "section": "1.1 License and attributions",
+    "text": "1.1 License and attributions\nAll the course materials can be found here: Martinez-Lavanchy, P.M., van Schöll, Pim, & Zormpa, Eirini. (2022). TU Delft Research Data Management 101 course. Zenodo. https://doi.org/10.5281/zenodo.6325919\nParts of the content of this course are based on: Holmstrand, K.F., den Boer, S.P.A., Vlachos, E., Martínez-Lavanchy, P.M., Hansen, K.K. (Eds.) (2019). Research Data Management (eLearning course). doi: 10.11581/dtu:00000047\nThis website is made using Quarto Allaire, J., Teague, C., Scheidegger, C., Xie, Y., & Dervieux, C. (2022). Quarto (Version 0.3) [Computer software]. https://doi.org/10.5281/zenodo.5960048\nThis website is a copy of the lab manual for the Fay Lab at the University of Massachusetts Dartmouth School for Marine Science and Technology thanks to their group’s participation in the Openscapes Champions program.\n < link to this book’s template GitHub repository. Also see Quick steps to making a copy of the lab manual and publishing it!\n \n\nThis webpage is licensed under a Creative Commons Attribution 4.0 International License. and requires the attribution of the lab manual for the Fay Lab and Martinez-Lavanchy, P.M., van Schöll, Pim, & Zormpa, Eirini. (2022, July 8). TU Delft Research Data Management 101 course. Zenodo. https://doi.org/10.5281/zenodo.6325919."
   },
   {
     "objectID": "01-Introduction.html#relevant-dates",
     "href": "01-Introduction.html#relevant-dates",
     "title": "2  Introduction",
     "section": "2.1 Relevant dates:",
-    "text": "2.1 Relevant dates:\nCourse start: Thursday, 10-10-2022\nCourse end date: Tuesday , 08-11-2022\nClass sessions: 13 October and 8 November\nCourse load: approximately 4-6 hours per week"
+    "text": "2.1 Relevant dates:\nCourse start: Thursday, 21-02-2023\nCourse end date: Tuesday, 28-03-2023\nClass sessions: 13 October and 8 November\nCourse load: approximately 4-6 hours per week"
   },
   {
     "objectID": "01-Introduction.html#learning-objectives",
@@ -46,7 +46,7 @@
     "href": "01-Introduction.html#deadlines",
     "title": "2  Introduction",
     "section": "2.5 Deadlines",
-    "text": "2.5 Deadlines\n\nAssignment 1 - GitHub - Before class 1 (13-10-2022)\nAssignment 2 - Data Flow Map 1 - Before (20-10-2022)\nAssignment 3 - Data Flow Map 2 - Before (27-10-2022)\nAssignment 4 - Data Management Plan - Before class 2 (08-11-2022)\nAssignment 5 - Data Flow Map 3 Before class 2 (08-11-2022)"
+    "text": "2.5 Deadlines\n\nAssignment 1 - GitHub - Before class 1 (28-02-2023)\nAssignment 2 - Data Flow Map 1 - Before (07-03-2023)\nAssignment 3 - Data Flow Map 2 - Before (14-03-2023)\nAssignment 4 - Data Management Plan - Before class 2 (28-03-2023)\nAssignment 5 - Data Flow Map 3 Before class 2 (28-03-2023)"
   },
   {
     "objectID": "01-Introduction.html#support",
@@ -54,13 +54,6 @@
     "title": "2  Introduction",
     "section": "2.6 Support",
     "text": "2.6 Support\nYou will get most out of this course by interacting with your peers and the instructor. You can do this via GitHub issues, where you can also ask questions.\nFor other questions please contact Esther."
-  },
-  {
-    "objectID": "02-Importance-of-RDM.html",
-    "href": "02-Importance-of-RDM.html",
-    "title": "3  The importance of RDM",
-    "section": "",
-    "text": "Estimated time: 70 minutes\nDuring this module we will share different perspectives and let you discuss with each other about the importance of RDM in ensuring research reproducibility. At the end of this module you should be able to:"
   },
   {
     "objectID": "02-Importance-of-RDM.html#why-care-about-rdm",
@@ -82,13 +75,6 @@
     "title": "3  The importance of RDM",
     "section": "3.3 References",
     "text": "3.3 References\n\n\n\n\nMarkowetz, Florian. 2015. “Five Selfish Reasons to Work Reproducibly.” Genome Biology 16 (1). https://doi.org/10.1186/s13059-015-0850-7."
-  },
-  {
-    "objectID": "03-Assignment-GitHub-1.html",
-    "href": "03-Assignment-GitHub-1.html",
-    "title": "4  Assignment 1 - Getting started with GitHub",
-    "section": "",
-    "text": "Estimated time: 10-30 minutes\nParts of the explanations below can be skipped if you already have some experience with GitHub. Go directly to ‘Create an Issue’."
   },
   {
     "objectID": "03-Assignment-GitHub-1.html#what-is-github",
@@ -126,13 +112,6 @@
     "text": "4.5 More GitHub tutorials\n\nGitHub tutorial for beginners provided by the Open Life Science program (based on materials that are made available by Malvika Sharan)\nGitHub skills\nOpen Source for Researchers"
   },
   {
-    "objectID": "04-Class-1.html",
-    "href": "04-Class-1.html",
-    "title": "5  Class 1",
-    "section": "",
-    "text": "Activities recap before Class 1\n\n\n\nNote that this is a repeat of the activities already mentioned in ‘Importance of RDM’ (total estimated time: 80-100 minutes)\n\nWatch the presentation on ‘Why is RDM important’? (8 minutes)\nRead (Markowetz 2015): Five selfish reasons to work reproducibly OR Watch the presentation (50 minutes)\nCreate a GitHub issue (see Assignment 1) (10-30 minutes)"
-  },
-  {
     "objectID": "04-Class-1.html#class-1-120-minutes",
     "href": "04-Class-1.html#class-1-120-minutes",
     "title": "5  Class 1",
@@ -145,13 +124,6 @@
     "title": "5  Class 1",
     "section": "References",
     "text": "References\n\n\n\n\nMarkowetz, Florian. 2015. “Five Selfish Reasons to Work Reproducibly.” Genome Biology 16 (1). https://doi.org/10.1186/s13059-015-0850-7."
-  },
-  {
-    "objectID": "05-Essentials-for-Research-Data.html",
-    "href": "05-Essentials-for-Research-Data.html",
-    "title": "6  Essentials for Research Data",
-    "section": "",
-    "text": "Estimated time: 100 minutes\nIn this module, we start to dig deeper into RDM by introducing multiple topics concerning the essentials of RDM. At the end of this module you should be able to:"
   },
   {
     "objectID": "05-Essentials-for-Research-Data.html#research-data-definition",
@@ -210,25 +182,11 @@
     "text": "6.8 RDM responsibilities\nIn this section we would like to make you aware of the responsibilities of TU Delft PhD candidates regarding Research Data Management.\nThese responsibilities are detailed in the University and Faculty Policies. It is very important for TU Delft that researchers follow best practices on Research Data Management (RDM). That is why since 2018 TU Delft has published a set of policies which provide a clear division of roles and responsibilities around RDM.\n\nResearch Data framework policy\n\nThis Framework policy is accompanied by Faculty-specific data management policies, which provide more detailed requirements and guidelines for the disciplines associated with each Faculty.\n\nFaculty Research Data Management Policies or direct download of the TNW/AS policy.\n\nSoftware is recognised at TU Delft as a valuable research output that needs to be well documented, preserved and, whenever possible, consistent with the FAIR principles. The TU Delft Research Software Policy provides a clear division of roles and responsibilities and sets out a simplified, streamlined process to help researchers share software.\n\nTUD Research Software Policy\n\n\n6.8.1 Policy summary\nThis section summarises your responsibilities as a TU Delft/Applied Sciences PhD candidate:\n\nDeveloping a written data management plan (DMP) for managing research outputs within the first 12 months of the PhD study. (As part of the Go/No-Go meeting. For all PhDs starting from 1 January 2020 onwards.)\nAttending the relevant training in data management, for which credits can be obtained through the Graduate School.\nEnsuring that all data and code underlying completed PhD theses are appropriately documented and accessible for at least 10 years from the end of the research project, in accordance with the FAIR principles (Findable, Accessible, Interoperable and Reusable), unless there are valid reasons which make research data unsuitable for sharing. (For all PhDs starting from 1 January 2019 onwards.)\n\nWhen sharing software:\n\nUse a data repository to obtain a DOI for the software. If you use 4TU.ResearchData your software will be automatically registered. If you use other repositories, such as Zenodo, you will have the register the software via PURE\nChoose one of the pre-approved licenses: MIT, BSD, Apache, GPL, AGPL, LGPL, EUPL, CC0.\n\nSee this slide for more details on how to share your software."
   },
   {
-    "objectID": "06-Assignment-Data-Flow-Map-1.html",
-    "href": "06-Assignment-Data-Flow-Map-1.html",
-    "title": "7  Assignment 2 - Data Flow Map",
-    "section": "",
-    "text": "Estimated time: 60 minutes\nIn this assignment (based on Martinez-Lavanchy et al. 2022) you will have to write down what data you expect to collect/create during your project. After this, you will reflect on the back-up and storage for your data. We will provide you with a toolbox and a step-by-step guide to help you reflect on your data. At the bottom of the page you will find some examples we prepared. You can download the PowerPoint template via a data repository.\nYou can either use the template, or work on a sheet of paper with post-its.\nAt the end, make sure you submit the reflections for every step."
-  },
-  {
     "objectID": "06-Assignment-Data-Flow-Map-1.html#references",
     "href": "06-Assignment-Data-Flow-Map-1.html#references",
     "title": "7  Assignment 2 - Data Flow Map",
     "section": "References",
     "text": "References\n\n\n\n\nMartinez-Lavanchy, P. M., Pim van Schöll, Eirini Zormpa, and Roséane Cathy Singotani. 2022. “TU Delft Research Data Management 101 Course - Assignments Data Flow Map,” July. https://doi.org/10.5281/ZENODO.6325938."
-  },
-  {
-    "objectID": "07-FAIR-principles.html",
-    "href": "07-FAIR-principles.html",
-    "title": "8  FAIR principles",
-    "section": "",
-    "text": "Estimated time: 30 minutes\nIn this module, we will discover the FAIR data principles and their main elements. At the end of this module, you should be able to:"
   },
   {
     "objectID": "07-FAIR-principles.html#what-are-the-fair-principles",
@@ -266,13 +224,6 @@
     "text": "References\n\n\n\n\nHolmstrand, K. F., S. P. A. den Boer, E. Vlachos, P. M. Martínez-Lavanchy, K. K. Hansen, A. V. Larsen, S. Zurcher, et al. 2019. “Research Data Management (eLearning Course).” https://doi.org/10.11581/DTU:00000047.\n\n\nKievits, Arent J., Ryan Lane, Elizabeth C. Carroll, and Jacob P. Hoogenboom. 2022. “How Innovations in Methodology Offer New Prospects for Volume Electron Microscopy.” Journal of Microscopy 287 (3): 114–37. https://doi.org/10.1111/jmi.13134.\n\n\nScheffler, Matthias, Martin Aeschlimann, Martin Albrecht, Tristan Bereau, Hans-Joachim Bungartz, Claudia Felser, Mark Greiner, et al. 2022. “FAIR Data Enabling New Horizons for Materials Research.” Nature 604 (7907): 635–42. https://doi.org/10.1038/s41586-022-04501-x.\n\n\nWilkinson, Mark D., Michel Dumontier, IJsbrand Jan Aalbersberg, Gabrielle Appleton, Myles Axton, Arie Baak, Niklas Blomberg, et al. 2016. “The FAIR Guiding Principles for Scientific Data Management and Stewardship.” Scientific Data 3 (1). https://doi.org/10.1038/sdata.2016.18."
   },
   {
-    "objectID": "08-Realising-FAIR-Organisation.html",
-    "href": "08-Realising-FAIR-Organisation.html",
-    "title": "9  Realising FAIR: Data organisation",
-    "section": "",
-    "text": "Estimated time: 45 minutes\nIn this module, we will focus on the realisation of FAIR data. We will explore some best practices and tools that can facilitate the implementation of the FAIR principles. At the end of this module you should be able to:"
-  },
-  {
     "objectID": "08-Realising-FAIR-Organisation.html#data-organisation",
     "href": "08-Realising-FAIR-Organisation.html#data-organisation",
     "title": "9  Realising FAIR: Data organisation",
@@ -292,13 +243,6 @@
     "title": "9  Realising FAIR: Data organisation",
     "section": "9.3 Quiz Answers",
     "text": "9.3 Quiz Answers\n\nTrue / 2. True / 3. False / 4. True / 5. False\n\n\n\n\n\nCommunity, The Turing Way. 2022. The Turing Way: A Handbook for Reproducible, Ethical and Collaborative Research. Zenodo. https://doi.org/10.5281/ZENODO.3233853."
-  },
-  {
-    "objectID": "09-Realising-FAIR-Documentation.html",
-    "href": "09-Realising-FAIR-Documentation.html",
-    "title": "10  Realising FAIR: Data Documentation",
-    "section": "",
-    "text": "Estimated time: 60 minutes\nIn this module, we will focus on the realisation of FAIR data. We will explore some best practices and tools that can facilitate the implementation of the FAIR principles. At the end of this module you should be able to:"
   },
   {
     "objectID": "09-Realising-FAIR-Documentation.html#documentation-tools",
@@ -343,13 +287,6 @@
     "text": "10.6 Software/code documentation\n\nSee the example used in the presentation using JupyterLab\nTemplate to set up a GitHub (or GitLab) repository with all the relevant documentation about the project\nCode Refinery materials on Code Documentation\nUse the CodeMeta creator to create a .json metadata file to add to your repo\nBarbara Vreede’s presentation on Best Practices for Writing Reproducible Code\nJupyter Notebooks\nAim For Understandability If You Want To Write Good Research Software\nFor Julia you can use DrWatson to create consistent folder structures. Particularly useful for simulation data."
   },
   {
-    "objectID": "10-Realising-FAIR-Publication.html",
-    "href": "10-Realising-FAIR-Publication.html",
-    "title": "11  Realising FAIR: Data Publication",
-    "section": "",
-    "text": "Estimated time: 15 minutes\nIn this module, we will focus on the realisation of FAIR data. We will explore some best practices and tools that can facilitate the implementation of the FAIR principles. At the end of this module you should be able to:"
-  },
-  {
     "objectID": "10-Realising-FAIR-Publication.html#data-access",
     "href": "10-Realising-FAIR-Publication.html#data-access",
     "title": "11  Realising FAIR: Data Publication",
@@ -378,25 +315,11 @@
     "text": "11.4 References:\n\nColavizza et al. (2020)\nH2020 Programme Guidelines on FAIR Data Management in Horizon 2020. Version 3.0. 26 July 2016.\n\n\n\n\n\nColavizza, Giovanni, Iain Hrynaszkiewicz, Isla Staden, Kirstie Whitaker, and Barbara McGillivray. 2020. “The Citation Advantage of Linking Publications to Research Data.” Edited by Jelte M. Wicherts. PLOS ONE 15 (4): e0230416. https://doi.org/10.1371/journal.pone.0230416."
   },
   {
-    "objectID": "11-Assignment-Data-Flow-Map-2.html",
-    "href": "11-Assignment-Data-Flow-Map-2.html",
-    "title": "12  Assignment 3 - Data Flow Map Update",
-    "section": "",
-    "text": "Estimated time: 60 minutes\nNow that you learned about how to make your data more FAIR, you will have another look at the Data Flow Map assignment (based on (Martinez-Lavanchy et al. 2022))."
-  },
-  {
     "objectID": "11-Assignment-Data-Flow-Map-2.html#references",
     "href": "11-Assignment-Data-Flow-Map-2.html#references",
     "title": "12  Assignment 3 - Data Flow Map Update",
     "section": "References",
     "text": "References\n\n\n\n\nMartinez-Lavanchy, P. M., Pim van Schöll, Eirini Zormpa, and Roséane Cathy Singotani. 2022. “TU Delft Research Data Management 101 Course - Assignments Data Flow Map,” July. https://doi.org/10.5281/ZENODO.6325938."
-  },
-  {
-    "objectID": "12-Plan-for-RDM.html",
-    "href": "12-Plan-for-RDM.html",
-    "title": "13  Plan for RDM",
-    "section": "",
-    "text": "Estimated time: 120 minutes (includes assignment 4)\nWe will take a closer look at planning for RDM. In relation to this, data management plans and the tool DMPonline will be further explained. At the end of this module you should be able to:"
   },
   {
     "objectID": "12-Plan-for-RDM.html#what-is-a-data-management-plan-dmp",
@@ -420,11 +343,11 @@
     "text": "13.3 References\n\n\n\n\nHolmstrand, K. F., S. P. A. den Boer, E. Vlachos, P. M. Martínez-Lavanchy, K. K. Hansen, A. V. Larsen, S. Zurcher, et al. 2019. “Research Data Management (eLearning Course).” https://doi.org/10.11581/DTU:00000047."
   },
   {
-    "objectID": "13-Assignment-DMP.html",
-    "href": "13-Assignment-DMP.html",
+    "objectID": "13-Assignment-DMP.html#introduction-to-dmponline",
+    "href": "13-Assignment-DMP.html#introduction-to-dmponline",
     "title": "14  Assignment 4 - Create DMP",
-    "section": "",
-    "text": "With DMPonline you can:\n\nWrite your plan and easily update it throughout the life cycle of your project\nShare your plan with internal and external collaborators and ask for feedback from your Faculty Data Steward\nDownload your plan in a variety of formats"
+    "section": "14.1 Introduction to DMPonline",
+    "text": "14.1 Introduction to DMPonline\nWith DMPonline you can:\n\nWrite your plan and easily update it throughout the life cycle of your project\nShare your plan with internal and external collaborators and ask for feedback from your Faculty Data Steward\nDownload your plan in a variety of formats"
   },
   {
     "objectID": "13-Assignment-DMP.html#create-a-dmp-using-dmponline",
@@ -441,13 +364,6 @@
     "text": "14.3 Submit your assignment\nWhen you’re done filling out your Data Management Plan, you can ask for Feedback using the ‘Request Feedback’ button. This will notify Esther that your plan is ready. If you weren’t able to answer all the questions, this is also the way to ask for support. Please finalise your DMP before class 2!"
   },
   {
-    "objectID": "14-Assignment-Data-Flow-Map-3.html",
-    "href": "14-Assignment-Data-Flow-Map-3.html",
-    "title": "15  Assignment 5 - Data Flow Map reflection",
-    "section": "",
-    "text": "Estimated time: 60 minutes\nGo back to your Data Flow Map and reflect on your challenges, experiences and tips.\nYou will have to prepare and submit a slide before class 2 about:\nYou will have 4 minutes to present your slide during class 2 to your peers and they will have the chance to ask questions or exchange ideas!\nPlease submit your slide to Esther before 08-11-2022\nThis assignment is based on Martinez-Lavanchy et al. (2022)"
-  },
-  {
     "objectID": "14-Assignment-Data-Flow-Map-3.html#references",
     "href": "14-Assignment-Data-Flow-Map-3.html#references",
     "title": "15  Assignment 5 - Data Flow Map reflection",
@@ -455,25 +371,11 @@
     "text": "References\n\n\n\n\nMartinez-Lavanchy, P. M., Pim van Schöll, Eirini Zormpa, and Roséane Cathy Singotani. 2022. “TU Delft Research Data Management 101 Course - Assignments Data Flow Map,” July. https://doi.org/10.5281/ZENODO.6325938."
   },
   {
-    "objectID": "15-Class-2.html",
-    "href": "15-Class-2.html",
-    "title": "16  Class 2",
-    "section": "",
-    "text": "Activities before Class 2\n\n\n\n\nRespond to all the GitHub issues and update your checklist in your Assignment 1 Issue\nFinalise your DMP and ask for Feedback on DMPonline (60 minutes)\nSubmit your slide to Esther (60 minutes)\nSee you there!"
-  },
-  {
     "objectID": "15-Class-2.html#class-2-120-minutes",
     "href": "15-Class-2.html#class-2-120-minutes",
     "title": "16  Class 2",
     "section": "16.1 Class 2 (120 minutes):",
     "text": "16.1 Class 2 (120 minutes):\n\nWe will summarise some of the main takeaways of the course\nYou will present your slide\nWe will discuss what you learned from the Data Flow Maps\nAsk any final questions!"
-  },
-  {
-    "objectID": "16-Wrap-up.html",
-    "href": "16-Wrap-up.html",
-    "title": "17  Wrap Up",
-    "section": "",
-    "text": "Estimated time: 5 minutes\nIn the past modules we focused on relevant topics concerning RDM. Starting with creating awareness about RDM, we have seen the essentials of RDM, the importance of FAIR data and how to create a planning for RDM. In this final module we give the opportunity to reflect on the course and share remaining questions.\nAt the end of this course you will be able to:"
   },
   {
     "objectID": "16-Wrap-up.html#feedback",

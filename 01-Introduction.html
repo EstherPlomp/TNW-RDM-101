@@ -2,7 +2,7 @@
 <html xmlns="http://www.w3.org/1999/xhtml" lang="en" xml:lang="en"><head>
 
 <meta charset="utf-8">
-<meta name="generator" content="quarto-1.1.251">
+<meta name="generator" content="quarto-1.2.335">
 
 <meta name="viewport" content="width=device-width, initial-scale=1.0, user-scalable=yes">
 
@@ -208,16 +208,12 @@ ul.task-list li input[type="checkbox"] {
 <h1 class="title"><span id="intro" class="quarto-section-identifier d-none d-lg-block"><span class="chapter-number">2</span>&nbsp; <span class="chapter-title">Introduction</span></span></h1>
 </div>
 
-<div>
-  <div class="description">
-    TNW RDM 101 course
-  </div>
-</div>
 
 
 <div class="quarto-title-meta">
 
     
+  
     
   </div>
   
@@ -229,8 +225,8 @@ ul.task-list li input[type="checkbox"] {
 <p>This course contains a lot of self-paced elements. Make sure to plan your time accordingly. You will get most out of this course if you keep an eye on the Discussions with your peers throughout the week. Do you run into any problems in scheduling time? Let us know!</p>
 <section id="relevant-dates" class="level2" data-number="2.1">
 <h2 data-number="2.1" class="anchored" data-anchor-id="relevant-dates"><span class="header-section-number">2.1</span> Relevant dates:</h2>
-<p><strong>Course start:</strong> Thursday, 10-10-2022<br>
-<strong>Course end date:</strong> Tuesday , 08-11-2022<br>
+<p><strong>Course start:</strong> Thursday, 21-02-2023<br>
+<strong>Course end date:</strong> Tuesday, 28-03-2023<br>
 <strong>Class sessions: 13 October and 8 November</strong></p>
 <p><strong>Course load:</strong> approximately <u><strong>4-6 hours per week</strong></u></p>
 </section>
@@ -288,11 +284,11 @@ Notes
 <section id="deadlines" class="level2" data-number="2.5">
 <h2 data-number="2.5" class="anchored" data-anchor-id="deadlines"><span class="header-section-number">2.5</span> Deadlines</h2>
 <ul>
-<li>Assignment 1 - GitHub - Before <strong>class 1</strong> (13-10-2022)</li>
-<li>Assignment 2 - Data Flow Map 1 - Before (20-10-2022)</li>
-<li>Assignment 3 - Data Flow Map 2 - Before (27-10-2022)</li>
-<li>Assignment 4 - Data Management Plan - Before <strong>class 2</strong> (08-11-2022)</li>
-<li>Assignment 5 - Data Flow Map 3 Before <strong>class 2</strong> (08-11-2022)</li>
+<li>Assignment 1 - GitHub - Before <strong>class 1</strong> (28-02-2023)</li>
+<li>Assignment 2 - Data Flow Map 1 - Before (07-03-2023)</li>
+<li>Assignment 3 - Data Flow Map 2 - Before (14-03-2023)</li>
+<li>Assignment 4 - Data Management Plan - Before <strong>class 2</strong> (28-03-2023)</li>
+<li>Assignment 5 - Data Flow Map 3 Before <strong>class 2</strong> (28-03-2023)</li>
 </ul>
 </section>
 <section id="support" class="level2" data-number="2.6">
@@ -345,7 +341,24 @@ window.document.addEventListener("DOMContentLoaded", function (event) {
     button.classList.add('code-copy-button-checked');
     var currentTitle = button.getAttribute("title");
     button.setAttribute("title", "Copied!");
+    let tooltip;
+    if (window.bootstrap) {
+      button.setAttribute("data-bs-toggle", "tooltip");
+      button.setAttribute("data-bs-placement", "left");
+      button.setAttribute("data-bs-title", "Copied!");
+      tooltip = new bootstrap.Tooltip(button, 
+        { trigger: "manual", 
+          customClass: "code-copy-button-tooltip",
+          offset: [0, -8]});
+      tooltip.show();    
+    }
     setTimeout(function() {
+      if (tooltip) {
+        tooltip.hide();
+        button.removeAttribute("data-bs-title");
+        button.removeAttribute("data-bs-toggle");
+        button.removeAttribute("data-bs-placement");
+      }
       button.setAttribute("title", currentTitle);
       button.classList.remove('code-copy-button-checked');
     }, 1000);
@@ -381,24 +394,42 @@ window.document.addEventListener("DOMContentLoaded", function (event) {
       return note.innerHTML;
     });
   }
+  const findCites = (el) => {
+    const parentEl = el.parentElement;
+    if (parentEl) {
+      const cites = parentEl.dataset.cites;
+      if (cites) {
+        return {
+          el,
+          cites: cites.split(' ')
+        };
+      } else {
+        return findCites(el.parentElement)
+      }
+    } else {
+      return undefined;
+    }
+  };
   var bibliorefs = window.document.querySelectorAll('a[role="doc-biblioref"]');
   for (var i=0; i<bibliorefs.length; i++) {
     const ref = bibliorefs[i];
-    const cites = ref.parentNode.getAttribute('data-cites').split(' ');
-    tippyHover(ref, function() {
-      var popup = window.document.createElement('div');
-      cites.forEach(function(cite) {
-        var citeDiv = window.document.createElement('div');
-        citeDiv.classList.add('hanging-indent');
-        citeDiv.classList.add('csl-entry');
-        var biblioDiv = window.document.getElementById('ref-' + cite);
-        if (biblioDiv) {
-          citeDiv.innerHTML = biblioDiv.innerHTML;
-        }
-        popup.appendChild(citeDiv);
+    const citeInfo = findCites(ref);
+    if (citeInfo) {
+      tippyHover(citeInfo.el, function() {
+        var popup = window.document.createElement('div');
+        citeInfo.cites.forEach(function(cite) {
+          var citeDiv = window.document.createElement('div');
+          citeDiv.classList.add('hanging-indent');
+          citeDiv.classList.add('csl-entry');
+          var biblioDiv = window.document.getElementById('ref-' + cite);
+          if (biblioDiv) {
+            citeDiv.innerHTML = biblioDiv.innerHTML;
+          }
+          popup.appendChild(citeDiv);
+        });
+        return popup.innerHTML;
       });
-      return popup.innerHTML;
-    });
+    }
   }
 });
 </script>
