@@ -98,18 +98,25 @@
     "text": "4.3 Create a GitHub issue\nWhen you have set up your GitHub Account, please go to the GitHub repository of this website and create an issue by following these steps.\n\nGo to the Issue tab of this repository\n\nOn the right, you will see a green button that says ‘New issue’: select this.\n\nYou will see a box that says Assignment 1, with another green button that says ‘Get started’. Select ‘Get started’.\n\nYou will see a form that you can now fill in. Start with adjusting the title. Keep the Assignment 1 part in, but replace [yournamehere] with your name. Read the text in the template for further explanation and fill out the template. If you want to preview what the text will look like, you can select the preview button.\n\nWhen you have filled out the form, you can submit your issue by scrolling down. You will see another green button that says ‘Submit new issue’. Please select it.\n\nYou can always edit your issue if you made any mistakes or if you want to update it. You can do this by selecting the three dots at the right of your issue and selecting ‘Edit’.\n\nYou can use this edit button to check the boxes of the assignments in the text, or you can just use mouse clicks on the boxes in your issue to mark your assignments as done!\n\n\nCongratulations! You’ve created a GitHub issue! You can now use this issue to keep track of your progress!"
   },
   {
+    "objectID": "03-Assignment-GitHub-1.html#github-notifications",
+    "href": "03-Assignment-GitHub-1.html#github-notifications",
+    "title": "4  Assignment 1 - Getting started with GitHub",
+    "section": "4.4 GitHub notifications",
+    "text": "4.4 GitHub notifications\nIf you are receiving too many emails from the repository you can adjust your preferences. Each email you receive should have the option to ‘unsubscribe’ at the bottom of the email. This email also provides you with the reason why you received the email. You can also update your preferences via GitHub directly (in sum: go to the RDM101 repository and then select the ‘Watch’ button in the right corner to select your preferences)."
+  },
+  {
     "objectID": "03-Assignment-GitHub-1.html#support",
     "href": "03-Assignment-GitHub-1.html#support",
     "title": "4  Assignment 1 - Getting started with GitHub",
-    "section": "4.4 Support",
-    "text": "4.4 Support\nPlease contact Esther if you have any problems getting started with GitHub."
+    "section": "4.5 Support",
+    "text": "4.5 Support\nPlease contact Esther if you have any problems getting started with GitHub."
   },
   {
     "objectID": "03-Assignment-GitHub-1.html#more-github-tutorials",
     "href": "03-Assignment-GitHub-1.html#more-github-tutorials",
     "title": "4  Assignment 1 - Getting started with GitHub",
-    "section": "4.5 More GitHub tutorials",
-    "text": "4.5 More GitHub tutorials\n\nGitHub tutorial for beginners provided by the Open Life Science program (based on materials that are made available by Malvika Sharan)\nGitHub skills\nOpen Source for Researchers"
+    "section": "4.6 More GitHub tutorials",
+    "text": "4.6 More GitHub tutorials\n\nGitHub tutorial for beginners provided by the Open Life Science program (based on materials that are made available by Malvika Sharan)\nGitHub skills\nOpen Source for Researchers"
   },
   {
     "objectID": "04-Class-1.html#class-1-120-minutes",
