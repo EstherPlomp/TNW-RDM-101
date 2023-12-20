@@ -312,7 +312,7 @@
     "href": "10-Realising-FAIR-Publication.html#software-sharing",
     "title": "11  Realising FAIR: Data Publication",
     "section": "11.3 Software Sharing",
-    "text": "11.3 Software Sharing\nJust sharing software via platforms like GitHub is not sufficient to adhere to the FAIR principles. GitHub/GitLab does not assign a persistent identifier/DOI to the software, and GitHub/GitLab does not have a long term preservation policy like data repositories do. You can share your software on GitHub/GitLab and share a snapshot/version of the code in a data repository as well. - See here for more information between the GitHub/Zenodo integration - See here for more information on how to do this using 4TU.ResearchData\nCheckout papers with code to see how other researchers have shared their code!"
+    "text": "11.3 Software Sharing\nJust sharing software via platforms like GitHub is not sufficient to adhere to the FAIR principles. GitHub/GitLab does not assign a persistent identifier/DOI to the software, and GitHub/GitLab does not have a long term preservation policy like data repositories do. You can share your software on GitHub/GitLab and share a snapshot/version of the code in a data repository as well.\n\nSee here for more information between the GitHub/Zenodo integration\nSee here for more information on how to do this using 4TU.ResearchData\n\nCheckout papers with code to see how other researchers have shared their code!"
   },
   {
     "objectID": "10-Realising-FAIR-Publication.html#why-not-the-supplemental-materials",
