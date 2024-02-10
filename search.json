@@ -354,7 +354,7 @@
     "href": "07-FAIR-principles.html#data-and-code-licences",
     "title": "8  FAIR principles",
     "section": "8.3 Data and Code Licences",
-    "text": "8.3 Data and Code Licences\nMore resources on licences:\n\nLicenses for data, presentations and articles: Creative Commons (CC), or use the license chooser.\nSoftware: Choose a License. (For more detailed information, see ‘How to choose a software licence’).\nNote that apart from CC0, the licenses for data and code are different. Software licenses are more complex as software differs from data in the ways you can reuse it, as unlike data, software is executable.\nIf in doubt, talk to Esther.",
+    "text": "8.3 Data and Code Licences\nMore resources on licences:\n\nLicenses for data, presentations and articles: Use the CC license chooser.\nSoftware: Choose a License. (For more detailed information, see ‘How to choose a software licence’).\nNote that apart from CC0, the licenses for data and code are different. Software licenses are more complex as software differs from data in the ways you can reuse it, as unlike data, software is executable.\nIf in doubt, talk to Esther.",
     "crumbs": [
       "<span class='chapter-number'>8</span>  <span class='chapter-title'>FAIR principles</span>"
     ]
