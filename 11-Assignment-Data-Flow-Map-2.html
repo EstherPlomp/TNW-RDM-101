@@ -2,7 +2,7 @@
 <html xmlns="http://www.w3.org/1999/xhtml" lang="en" xml:lang="en"><head>
 
 <meta charset="utf-8">
-<meta name="generator" content="quarto-1.4.549">
+<meta name="generator" content="quarto-1.4.551">
 
 <meta name="viewport" content="width=device-width, initial-scale=1.0, user-scalable=yes">
 
@@ -308,7 +308,7 @@ div.csl-indent {
 </ol>
 <div class="quarto-figure quarto-figure-center">
 <figure class="figure">
-<p><img src="https://pbs.twimg.com/media/EdihtztWsAA9zaE.png" class="img-fluid figure-img" alt="Title: anatomy of a file name. A file name that shows 'New_Final_final_new-23_fuckingfinal. jpeg'. For each component a box with explanation is added. For the first final the description 'the finished file' is added. For the second final the box says 'the finished file wihtout spelling mistakes. For New-final-final the box says 'the finished file after the client made a last minute complete change of direction. For the added new the box says 'the finished file after everyone in the pointless meeting managed to add in their own change. The 23 box says 'the finished file after was presumably 23 emails'. For fucking final the box says 'the finished version at the point that you stopped caring'"></p>
+<p><img src="https://pbs.twimg.com/media/EdihtztWsAA9zaE.png" class="img-fluid figure-img"></p>
 <figcaption>Image by <a href="https://twitter.com/chazhutton/status/1285955514241875968">Chaz Hutton</a></figcaption>
 </figure>
 </div>
@@ -464,6 +464,24 @@ window.document.addEventListener("DOMContentLoaded", function (event) {
     // clear code selection
     e.clearSelection();
   });
+    var localhostRegex = new RegExp(/^(?:http|https):\/\/localhost\:?[0-9]*\//);
+    var mailtoRegex = new RegExp(/^mailto:/);
+      var filterRegex = new RegExp("https:\/\/estherplomp\.github\.io\/TNW-RDM-101\/");
+    var isInternal = (href) => {
+        return filterRegex.test(href) || localhostRegex.test(href) || mailtoRegex.test(href);
+    }
+    // Inspect non-navigation links and adorn them if external
+ 	var links = window.document.querySelectorAll('a[href]:not(.nav-link):not(.navbar-brand):not(.toc-action):not(.sidebar-link):not(.sidebar-item-toggle):not(.pagination-link):not(.no-external):not([aria-hidden]):not(.dropdown-item):not(.quarto-navigation-tool)');
+    for (var i=0; i<links.length; i++) {
+      const link = links[i];
+      if (!isInternal(link.href)) {
+        // undo the damage that might have been done by quarto-nav.js in the case of
+        // links that we want to consider external
+        if (link.dataset.originalHref !== undefined) {
+          link.href = link.dataset.originalHref;
+        }
+      }
+    }
   function tippyHover(el, contentFn, onTriggerFn, onUntriggerFn) {
     const config = {
       allowHTML: true,
@@ -498,7 +516,11 @@ window.document.addEventListener("DOMContentLoaded", function (event) {
       try { href = new URL(href).hash; } catch {}
       const id = href.replace(/^#\/?/, "");
       const note = window.document.getElementById(id);
-      return note.innerHTML;
+      if (note) {
+        return note.innerHTML;
+      } else {
+        return "";
+      }
     });
   }
   const xrefs = window.document.querySelectorAll('a.quarto-xref');
@@ -774,12 +796,12 @@ window.document.addEventListener("DOMContentLoaded", function (event) {
 </script>
 <nav class="page-navigation">
   <div class="nav-page nav-page-previous">
-      <a href="./10-Realising-FAIR-Publication.html" class="pagination-link  aria-label=" &lt;span="" fair:="" data="" publication&lt;="" span&gt;"="">
+      <a href="./10-Realising-FAIR-Publication.html" class="pagination-link" aria-label="Realising FAIR: Data Publication">
         <i class="bi bi-arrow-left-short"></i> <span class="nav-page-text"><span class="chapter-number">11</span>&nbsp; <span class="chapter-title">Realising FAIR: Data Publication</span></span>
       </a>          
   </div>
   <div class="nav-page nav-page-next">
-      <a href="./12-Plan-for-RDM.html" class="pagination-link" aria-label="<span class='chapter-number'>13</span>&nbsp; <span class='chapter-title'>Plan for RDM</span>">
+      <a href="./12-Plan-for-RDM.html" class="pagination-link" aria-label="Plan for RDM">
         <span class="nav-page-text"><span class="chapter-number">13</span>&nbsp; <span class="chapter-title">Plan for RDM</span></span> <i class="bi bi-arrow-right-short"></i>
       </a>
   </div>

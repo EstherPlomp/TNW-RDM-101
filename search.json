@@ -94,7 +94,7 @@
     "href": "02-Importance-of-RDM.html#why-care-about-rdm",
     "title": "3  The importance of RDM",
     "section": "",
-    "text": "01-1_Module-1_Video_Presentation_Why RDM is relevant for you (8 minutes)\n\n\n\n\n\n\nThe Turing Way illustration by Scriberia. CC-BY 4.0. DOI: 10.5281/zenodo.3332807",
+    "text": "01-1_Module-1_Video_Presentation_Why RDM is relevant for you (8 minutes)\n\n\n\n\n\n\n\n\n\n\nThe Turing Way illustration by Scriberia. CC-BY 4.0. DOI: 10.5281/zenodo.3332807",
     "crumbs": [
       "<span class='chapter-number'>3</span>  <span class='chapter-title'>The importance of RDM</span>"
     ]
@@ -104,7 +104,7 @@
     "href": "02-Importance-of-RDM.html#selfish-reasons-to-work-reproducibly",
     "title": "3  The importance of RDM",
     "section": "3.2 Selfish reasons to work reproducibly",
-    "text": "3.2 Selfish reasons to work reproducibly\nRead (Markowetz 2015): Five selfish reasons to work reproducibly OR Watch the presentation (50 min) before class 1\n{{&lt; youtube 1Y_oIjlH-yg&t=355s &gt;}}",
+    "text": "3.2 Selfish reasons to work reproducibly\nRead (Markowetz 2015): Five selfish reasons to work reproducibly OR Watch the presentation (50 min) before class 1\n{{&lt; youtube 355s &gt;}}",
     "crumbs": [
       "<span class='chapter-number'>3</span>  <span class='chapter-title'>The importance of RDM</span>"
     ]
@@ -324,7 +324,7 @@
     "href": "07-FAIR-principles.html",
     "title": "8  FAIR principles",
     "section": "",
-    "text": "8.1 What are the FAIR principles?\nThe FAIR principles were created in order to maximize the reuse of scientific data, to promote best practices on Research Data Management and to enable Open Science. Applying the FAIR principles means to make research data Findable, Accessible, Interoperable and Reusable (Wilkinson et al. 2016).\nThese four principles should be applied (as much as possible) throughout the entire research cycle and they are closely interconnected with each other.\nThe FAIR Data principles are NOT:\nThere are important elements to consider within your research workflows if you aim to make the data of your project FAIR:\nScripts of the videos copied or adapted from (Holmstrand et al. 2019).",
+    "text": "8.1 What are the FAIR principles?\nThe FAIR principles were created in order to maximize the reuse of scientific data, to promote best practices on Research Data Management and to enable Open Science. Applying the FAIR principles means to make research data Findable, Accessible, Interoperable and Reusable (Wilkinson et al. 2016).\nThese four principles should be applied (as much as possible) throughout the entire research cycle and they are closely interconnected with each other.\nThe FAIR Data principles are NOT:\nThere are important elements to consider within your research workflows if you aim to make the data of your project FAIR:\nScripts of the videos copied or adapted from (Holmstrand et al. 2019).\nSee also Leiden University’s video on Metadata.",
     "crumbs": [
       "<span class='chapter-number'>8</span>  <span class='chapter-title'>FAIR principles</span>"
     ]
