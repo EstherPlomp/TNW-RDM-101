@@ -374,7 +374,7 @@
     "href": "07-FAIR-principles.html#data-and-code-licences",
     "title": "8  FAIR principles",
     "section": "8.4 Data and Code Licences",
-    "text": "8.4 Data and Code Licences\n\nTo choose a licenses for data (and presentations and articles!): Use the CC license chooser.\nTo choose a license for software: Use Choose a License. (For more detailed information, see ‘How to choose a software licence’).\nNote that apart from CC0, the licenses for data and code are different. Software licenses are more complex as software differs from data in the ways you can reuse it, as unlike data, software is executable.\nIf in doubt, talk to Esther.",
+    "text": "8.4 Data and Code Licences\n\nTo choose a licenses for data (and presentations and articles!): Use the CC license chooser.\nTo choose a license for software: Use Choose a License. (For more detailed information, see ‘How to choose a software licence’).\nNote that apart from CC0, the licenses for data and code are different. Software licenses are more complex as software differs from data in the ways you can reuse it, as unlike data, software is executable.\nIf in doubt, talk to Esther.\nIndicate your license preference in GitHub discussion #126 Licenses",
     "crumbs": [
       "<span class='chapter-number'>8</span>  <span class='chapter-title'>FAIR principles</span>"
     ]
@@ -395,16 +395,6 @@
     "title": "8  FAIR principles",
     "section": "8.6 FAIR in the literature",
     "text": "8.6 FAIR in the literature\n(Scheffler et al. 2022)\n(Kievits et al. 2022)",
-    "crumbs": [
-      "<span class='chapter-number'>8</span>  <span class='chapter-title'>FAIR principles</span>"
-    ]
-  },
-  {
-    "objectID": "07-FAIR-principles.html#discussion",
-    "href": "07-FAIR-principles.html#discussion",
-    "title": "8  FAIR principles",
-    "section": "8.7 Discussion",
-    "text": "8.7 Discussion\nPost your license preference for data and/or code in GitHub discussion #103 Licenses.",
     "crumbs": [
       "<span class='chapter-number'>8</span>  <span class='chapter-title'>FAIR principles</span>"
     ]
