@@ -640,11 +640,21 @@
     ]
   },
   {
+    "objectID": "12-Plan-for-RDM.html#software-management-plans-optional",
+    "href": "12-Plan-for-RDM.html#software-management-plans-optional",
+    "title": "13  Plan for RDM",
+    "section": "13.3 Software Management Plans (optional)",
+    "text": "13.3 Software Management Plans (optional)\nIf you are working with computer code or developing software within your PhD project, merely sharing the code/software is insufficient to guarantee the reproducibility of research. You will need to think about the ways of sharing the code/software underpinning your research in a proper manner. A Software Management Plan helps to implement best practices during software development and ensures that software is accessible and reusable in the short and longer term. It also contributes to the reproducibility of results and stimulates collaborative work on open-source software for research.\nHave a look at the Practical guide to Software Management Plans to get started with a Software Management Plan!",
+    "crumbs": [
+      "<span class='chapter-number'>13</span>  <span class='chapter-title'>Plan for RDM</span>"
+    ]
+  },
+  {
     "objectID": "12-Plan-for-RDM.html#references",
     "href": "12-Plan-for-RDM.html#references",
     "title": "13  Plan for RDM",
-    "section": "13.3 References",
-    "text": "13.3 References\n\n\n\n\nHolmstrand, K. F., S. P. A. den Boer, E. Vlachos, P. M. Martínez-Lavanchy, K. K. Hansen, A. V. Larsen, S. Zurcher, et al. 2019. “Research Data Management (eLearning Course).” https://doi.org/10.11581/DTU:00000047.",
+    "section": "13.4 References",
+    "text": "13.4 References\n\n\n\n\nHolmstrand, K. F., S. P. A. den Boer, E. Vlachos, P. M. Martínez-Lavanchy, K. K. Hansen, A. V. Larsen, S. Zurcher, et al. 2019. “Research Data Management (eLearning Course).” https://doi.org/10.11581/DTU:00000047.",
     "crumbs": [
       "<span class='chapter-number'>13</span>  <span class='chapter-title'>Plan for RDM</span>"
     ]
