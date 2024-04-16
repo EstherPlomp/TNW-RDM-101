@@ -344,7 +344,7 @@
     "href": "07-FAIR-principles.html#improve-the-interoperability-of-the-data-using-metadata-standards",
     "title": "8  FAIR principles",
     "section": "8.2 Improve the interoperability of the data using metadata standards",
-    "text": "8.2 Improve the interoperability of the data using metadata standards\nYou can use FAIRsharing.org to check if a metadata standard exists for your discipline or type of data.\nExamples of possible relevant metadata standards:\n\nISA-Tab\nMIBBI (Minimum Information for Biological and Biomedical Investigations)\nNeXus\nOME-XML (Open Microscopy Environment XML)\nPDBx/mmCIF (Protein Data Bank Exchange Dictionary and the Macromolecular Crystallographic Information Framework)\nCIF (Crystallographic Information Framework)\nQuDEx (Qualitative Data Exchange Format)\nSDMX (Statistical Data and Metadata Exchange)\nThe Synthetic Biology Open Language (SBOL) & SBOL Visual\nSTRENDA\nCroissant",
+    "text": "8.2 Improve the interoperability of the data using metadata standards\nYou can use FAIRsharing.org to check if a metadata standard exists for your discipline or type of data.\nExamples of possible relevant metadata standards are listed on the Open Science support website.",
     "crumbs": [
       "<span class='chapter-number'>8</span>  <span class='chapter-title'>FAIR principles</span>"
     ]
