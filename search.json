@@ -104,7 +104,17 @@
     "href": "02-Importance-of-RDM.html#selfish-reasons-to-work-reproducibly",
     "title": "3  The importance of RDM",
     "section": "3.2 Selfish reasons to work reproducibly",
-    "text": "3.2 Selfish reasons to work reproducibly\nRead (Markowetz 2015): Five selfish reasons to work reproducibly OR Watch the presentation (50 min) before class 1\n{{&lt; youtube 355s &gt;}}",
+    "text": "3.2 Selfish reasons to work reproducibly\nRead (Markowetz 2015): Five selfish reasons to work reproducibly OR Watch the presentation (50 min) before class 1",
+    "crumbs": [
+      "<span class='chapter-number'>3</span>  <span class='chapter-title'>The importance of RDM</span>"
+    ]
+  },
+  {
+    "objectID": "02-Importance-of-RDM.html#optional-activities",
+    "href": "02-Importance-of-RDM.html#optional-activities",
+    "title": "3  The importance of RDM",
+    "section": "3.3 Optional activities",
+    "text": "3.3 Optional activities\n\nPlay ReproJuice: The reproducibility game\nData Horror Escape room",
     "crumbs": [
       "<span class='chapter-number'>3</span>  <span class='chapter-title'>The importance of RDM</span>"
     ]
@@ -113,8 +123,8 @@
     "objectID": "02-Importance-of-RDM.html#references",
     "href": "02-Importance-of-RDM.html#references",
     "title": "3  The importance of RDM",
-    "section": "3.3 References",
-    "text": "3.3 References\n\n\n\n\nMarkowetz, Florian. 2015. “Five Selfish Reasons to Work Reproducibly.” Genome Biology 16 (1). https://doi.org/10.1186/s13059-015-0850-7.",
+    "section": "3.4 References",
+    "text": "3.4 References\n\n\n\n\nMarkowetz, Florian. 2015. “Five Selfish Reasons to Work Reproducibly.” Genome Biology 16 (1). https://doi.org/10.1186/s13059-015-0850-7.",
     "crumbs": [
       "<span class='chapter-number'>3</span>  <span class='chapter-title'>The importance of RDM</span>"
     ]
