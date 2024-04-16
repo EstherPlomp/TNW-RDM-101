@@ -350,11 +350,21 @@
     ]
   },
   {
+    "objectID": "07-FAIR-principles.html#improve-the-interoperability-of-the-data-using-metadata-standards",
+    "href": "07-FAIR-principles.html#improve-the-interoperability-of-the-data-using-metadata-standards",
+    "title": "8  FAIR principles",
+    "section": "8.2 Improve the interoperability of the data using metadata standards",
+    "text": "8.2 Improve the interoperability of the data using metadata standards\nYou can use FAIRsharing.org to check if a metadata standard exists for your discipline or type of data.\nExamples of possible relevant metadata standards: - ISA-Tab - MIBBI (Minimum Information for Biological and Biomedical Investigations) - NeXus - OME-XML (Open Microscopy Environment XML) - PDBx/mmCIF (Protein Data Bank Exchange Dictionary and the Macromolecular Crystallographic Information Framework) - CIF (Crystallographic Information Framework) - QuDEx (Qualitative Data Exchange Format) - SDMX (Statistical Data and Metadata Exchange) - The Synthetic Biology Open Language (SBOL) & SBOL Visual - STRENDA - Croissant",
+    "crumbs": [
+      "<span class='chapter-number'>8</span>  <span class='chapter-title'>FAIR principles</span>"
+    ]
+  },
+  {
     "objectID": "07-FAIR-principles.html#test-how-aware-of-fair-you-are-optional",
     "href": "07-FAIR-principles.html#test-how-aware-of-fair-you-are-optional",
     "title": "8  FAIR principles",
-    "section": "8.2 Test how aware of FAIR you are (optional)",
-    "text": "8.2 Test how aware of FAIR you are (optional)\n\n\n\nUse the FAIR-Aware tool to test your knowledge about the FAIR principles",
+    "section": "8.3 Test how aware of FAIR you are (optional)",
+    "text": "8.3 Test how aware of FAIR you are (optional)\n\n\n\nUse the FAIR-Aware tool to test your knowledge about the FAIR principles",
     "crumbs": [
       "<span class='chapter-number'>8</span>  <span class='chapter-title'>FAIR principles</span>"
     ]
@@ -363,8 +373,8 @@
     "objectID": "07-FAIR-principles.html#data-and-code-licences",
     "href": "07-FAIR-principles.html#data-and-code-licences",
     "title": "8  FAIR principles",
-    "section": "8.3 Data and Code Licences",
-    "text": "8.3 Data and Code Licences\nMore resources on licences:\n\nLicenses for data, presentations and articles: Use the CC license chooser.\nSoftware: Choose a License. (For more detailed information, see ‘How to choose a software licence’).\nNote that apart from CC0, the licenses for data and code are different. Software licenses are more complex as software differs from data in the ways you can reuse it, as unlike data, software is executable.\nIf in doubt, talk to Esther.",
+    "section": "8.4 Data and Code Licences",
+    "text": "8.4 Data and Code Licences\nMore resources on licences:\n\nLicenses for data, presentations and articles: Use the CC license chooser.\nSoftware: Choose a License. (For more detailed information, see ‘How to choose a software licence’).\nNote that apart from CC0, the licenses for data and code are different. Software licenses are more complex as software differs from data in the ways you can reuse it, as unlike data, software is executable.\nIf in doubt, talk to Esther.",
     "crumbs": [
       "<span class='chapter-number'>8</span>  <span class='chapter-title'>FAIR principles</span>"
     ]
@@ -373,8 +383,8 @@
     "objectID": "07-FAIR-principles.html#fair-in-the-literature",
     "href": "07-FAIR-principles.html#fair-in-the-literature",
     "title": "8  FAIR principles",
-    "section": "8.4 FAIR in the literature",
-    "text": "8.4 FAIR in the literature\n(Scheffler et al. 2022)\n(Kievits et al. 2022)",
+    "section": "8.5 FAIR in the literature",
+    "text": "8.5 FAIR in the literature\n(Scheffler et al. 2022)\n(Kievits et al. 2022)",
     "crumbs": [
       "<span class='chapter-number'>8</span>  <span class='chapter-title'>FAIR principles</span>"
     ]
@@ -383,8 +393,8 @@
     "objectID": "07-FAIR-principles.html#discussion",
     "href": "07-FAIR-principles.html#discussion",
     "title": "8  FAIR principles",
-    "section": "8.5 Discussion",
-    "text": "8.5 Discussion\nPost your license preference for data and/or code in GitHub discussion #103 Licenses.",
+    "section": "8.6 Discussion",
+    "text": "8.6 Discussion\nPost your license preference for data and/or code in GitHub discussion #103 Licenses.",
     "crumbs": [
       "<span class='chapter-number'>8</span>  <span class='chapter-title'>FAIR principles</span>"
     ]
