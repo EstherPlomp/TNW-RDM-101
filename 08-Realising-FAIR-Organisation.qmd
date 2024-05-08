@@ -77,7 +77,7 @@ Note that you need to have Python and pip (or Anaconda) installed to easily foll
 
 2.  See the instructions on [how to clone the Cookiecutter template](https://utrechtuniversity.github.io/workshop-computational-reproducibility/slides/slides_project-setup.html#6https://utrechtuniversity.github.io/workshop-computational-reproducibility/slides/slides_project-setup.html#6)
 
-    a\. [Information about hidden folders on Windows](https://www.howtogeek.com/howto/windows-vista/show-hidden-files-and-folders-in-windows-vista/)\
+    a.  [Information about hidden folders on Windows](https://web.archive.org/web/20230610055753/https://www.howtogeek.com/446/show-hidden-files-and-folders-in-windows/)
 
     b.  You can also find a visualisation of the template on the [GitHub repository](https://github.com/bvreede/good-enough-project)
 
