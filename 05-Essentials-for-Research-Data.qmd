@@ -92,7 +92,7 @@ When working with confidential data, you need additional security measures for y
 Only read these materials if you work with personal data (data that can identify a person)
 
 -   [TU Delft Information about privacy](https://www.tudelft.nl/en/privacy-security/privacy/)
--   If you conduct research which involves human Research Subjects (where human participants are the source your research data), you will have to submit an application for approval to the [TU Delft Human Research Ethic Committee](https://www.tudelft.nl/en/about-tu-delft/strategy/integrity-policy/human-research-ethics).
+-   If you conduct research which involves human Research Subjects (where human participants are the source your research data), you will have to submit an application for approval to the [TU Delft Human Research Ethic Committee](https://www.tudelft.nl/en/strategy/integrity-policy/human-research-ethics/hrec-approval-1-application).
 -   [Personal data management - The Turing Way](https://the-turing-way.netlify.app/reproducible-research/rdm/rdm-personal.html)
 
 When working with personal data, you will likely encounter the following definitions: 
